@@ -1,4 +1,4 @@
-This script remove author contact information from CRS reports.
+This script removes author contact information from CRS reports.
 
 Acting on a CRS file labeled as "one" this script will output test-test-test (an uncompressed pdf document).
 
