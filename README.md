@@ -12,3 +12,5 @@ If it occurs after the segment it is named a "pinkyprint".
 The thumb/printprint regex is then applied to both print lists giving us lists of strings. 
 Finally the strings are then removed globally from the entire doc which is var "data" and saved as test-test-test
 
+The decoded crs document for test contact removal is titled "one"
+A suggested decoding bash method is qpdf
