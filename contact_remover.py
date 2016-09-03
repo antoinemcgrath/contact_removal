@@ -1,21 +1,46 @@
 #!/usr/bin/python
-# Run with:
+
+## The input file is expected to be an unlocked & decoded CRS document that has author contacts
+## The ouput file is the same doc without CRS contacts (author telephone and email addresses)
+
+# Single file run:
 # python contacts-remover.py /input.pdf /output.pdf
 
-## The input file is expected to be an unlocked & decoded CRS document
-## The ouput file is the same doc without CRS contacts (telephone and email addresses)
+# List of files run (3 inputs):
+# while read line; do python /contacts-remover.py /sourcedir/$line /destinationdir/$line ; done < /file_list.txt
+
 
 import re
 import sys
+import os
+import subprocess
 
 if len(sys.argv) < 2:
     print "ERROR: Please specify which file you would like to remove authors from"
     sys.exit(-1)
 
-f = open(sys.argv[1], "r")
+
+#### First decode and expand the original CRS file
+## BASH in python for: qpdf --qdf --object-streams=disable /input.pdf /output.pdf
+bash_line = 'qpdf --qdf --object-streams=disable'
+
+bash_command = bash_line + " " + sys.argv[1] + " " + sys.argv[2] + "temp1"
+print(bash_command)
+p = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE,
+                                    stderr=subprocess.PIPE)
+out, err = p.communicate()
+print (out)
+#### End file decode
+
+
+#### Now that the expanded file is in expanded
+##   we locate objects (sections) of interest
+##   and map the characters within the object
+
+#Prep
+f = open(sys.argv[2] + "temp1", "r")
 data = f.read()
 f.close()
-
 # initialize variables
 objnum = -1
 objlist = []
@@ -97,6 +122,27 @@ for item in objlist:
                 data = data[:data_idx] + " " + data[data_idx+1:]
 
 
-f = open(sys.argv[2], 'w')
+f = open(sys.argv[2] + "temp2", 'w')
 f.write(data)
 f.close()
+
+
+#### Compress the new author contacts free CRS file into your final pdf
+## BASH in python for: qpdf --linearize /input.pdf /output.pdf
+bash_line = 'qpdf --linearize'
+
+bash_command = bash_line + " " + sys.argv[2] + "temp2" + " " + sys.argv[2]
+print(bash_command)
+p = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE,
+                                        stderr=subprocess.PIPE)
+out, err = p.communicate()
+print (out)
+#### End file decode
+
+#### Clean up temp files
+os.remove(sys.argv[2] + "temp1")
+os.remove(sys.argv[2] + "temp2")
+##
+
+####
+print ("Have a nice day")
