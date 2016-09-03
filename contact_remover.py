@@ -1,5 +1,10 @@
 #!/usr/bin/python
-# Verion start by https://github.com/billmarczak
+# Run with:
+# python contacts-remover.py /input.pdf /output.pdf
+
+## The input file is expected to be an unlocked & decoded CRS document
+## The ouput file is the same doc without CRS contacts (telephone and email addresses)
+
 import re
 import sys
 
@@ -39,8 +44,8 @@ for item in objlist:
     # Given an index in master_text, the text_map array tells us what index that is in data
     text_map = []
 
-    # Gets everything between "BT" and "ET" markers as text.
-    # WARNING WARNING: This may break if the PDF contains text that is "BT" or "ET"
+#   Gets everything between "BT" and "ET" markers as text.
+#   WARNING WARNING: This may break if the PDF contains text that is "BT" or "ET"
     for m in re.finditer(r'BT(.*?)ET', obj_data, re.DOTALL):
         the_text = m.group(1)
         text_start = m.start(1)
@@ -50,13 +55,48 @@ for item in objlist:
             for idx in range(len(text_piece)):
                 text_map.append(obj_start + text_start + t.start(1) + idx)
             master_text += text_piece
-                
-    for em in re.finditer(r'[^ ]+@crs\.loc\.gov.*?\d-\d{4}', master_text):
+
+
+
+#   em catches the bulk of contact occurences
+#   Looks for email + telehpne within close proximity
+#   The following regex is inclusive of occurences of:
+#   @crs.loc.gov   @crs.loc.   @crs.lo.  @crsloc.gov   mailto:##@crs.loc.gov
+
+    for em in re.finditer(r'((\b)|mailto:)\w+@crs(\.)?lo(\.)?(c\.(gov)?)?', master_text):
+        segment = master_text[em.start(0)-35:em.end(0)+35]
+        for emt in re.finditer(r'7-\d{4}', segment):
+            print "REMOVING TELE", "\"", emt.group(0), "\""
+            for idx in range(emt.start(0)+em.start(0)-35, emt.end(0)+em.start(0)-35):
+                data_idx = text_map[idx]
+                data = data[:data_idx] + " " + data[data_idx+1:]
+#    Removing
         print "REMOVING EMAIL", "\"", em.group(0), "\""
         for idx in range(em.start(0), em.end(0)):
             data_idx = text_map[idx]
             data = data[:data_idx] + " " + data[data_idx+1:]
-                
-f = open('OUTPUT.pdf', 'w')
+
+#   cover catches telephone contacts on the coverpage
+    for cover in re.finditer(r'(\b)(www.crs.gov)', master_text):
+        segment = master_text[cover.start(0)-35:cover.end(0)]
+        #    Removing
+        for cover_tele in re.finditer(r'7-\d{4}', segment):
+            print "REMOVING TELE", "\"", cover.group(0), "\""
+            for idx in range(cover_tele.start(0)+cover.start(0)-35, cover_tele.end(0)+cover.start(0)-35):
+                data_idx = text_map[idx]
+                data = data[:data_idx] + " " + data[data_idx+1:]
+
+#   ack catches telephone contacts within Acknowledgment sections
+    for ack in re.finditer(r'(\b)(Acknowledgments)', master_text):
+        segment = master_text[ack.start(0):ack.end(0)+500]
+        for ack_tele in re.finditer(r'7-\d{4}', segment):
+            #    Removing
+            print "REMOVING TELE", "\"", ack.group(0), "\""
+            for idx in range(ack.start(0)+ack_tele.start(0), ack_tele.end(0)+ack.start(0)):
+                data_idx = text_map[idx]
+                data = data[:data_idx] + " " + data[data_idx+1:]
+
+
+f = open(sys.argv[2], 'w')
 f.write(data)
 f.close()
