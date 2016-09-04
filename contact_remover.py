@@ -12,6 +12,9 @@
 # (Destination directory will be created if it does not exist)
 # (Directories and document titles must not include spaces)
 
+##**QPDF is used to expand and condense CRS reports files it is released under 
+# **the terms of Version 2.0 of the Artistic License. Visit the site http://qpdf.sourceforge.net/ 
+# **for additional information.
 
 
 import re
@@ -39,7 +42,7 @@ if len(sys.argv) > 3:
 #### Begin removing author contacts
 def removal_loop():
     #### First decode and expand the original CRS file
-    bash_line = 'qpdf --qdf --object-streams=disable'
+    bash_line = 'qpdf --qdf --object-streams=disable' 
     bash_command = bash_line + " " + infile + " " + outfile + "temp1"
     p = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE,
                                         stderr=subprocess.PIPE)
