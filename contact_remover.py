@@ -10,6 +10,7 @@
 # (Will not execute on hidden files nor subdirectories)
 # (Will halt script if a document is not a PDF or if PDF is corrupt)
 # (Destination directory will be created if it does not exist)
+# (Directories and document titles must not include spaces)
 
 
 
@@ -155,12 +156,18 @@ def removal_loop():
 #### Determine if input is a pair of files or directories
 # Reckognize directory input
 if os.path.isdir(sys.argv[1]):
-    # If 2nd directory input does not end with / then add it
-    if sys.argv[2][:-2:-1] != "/":
-        sys.argv[2] = sys.argv[2] + "/"
     # If 2nd directory input does not exist then create it
     if not os.path.isdir(sys.argv[2]):
         os.makedirs(sys.argv[2])
+    # If directories are not an absolute path create it
+    print sys.argv[1] + sys.argv[2]
+    sys.argv[1] = os.path.abspath(sys.argv[1])
+    sys.argv[2] = os.path.abspath(sys.argv[2])
+    if sys.argv[1][:-2:-1] != "/":
+        sys.argv[1] = sys.argv[1] + "/"
+    if sys.argv[2][:-2:-1] != "/":
+        sys.argv[2] = sys.argv[2] + "/"
+    print sys.argv[1] + sys.argv[2]
     print "Author contact information will be removed from files in directory: " + (sys.argv[1]) + "  Contact free files will be created in directory: " + (sys.argv[2])
     # (Excludes subdirectories and hidden files)
     files = [ f for f in os.listdir(sys.argv[1]) if os.path.isfile(sys.argv[1]+f) if not f.startswith('.') ]
