@@ -25,6 +25,9 @@ import tempfile
 
 #### Begin removing author contacts
 def remove_contacts_in_pdf(infile, outfile):
+    #### Record what we removed.
+    what_was_removed = []
+
     #### First decode and expand the original CRS file
     data = subprocess.check_output(['qpdf', '--qdf', '--object-streams=disable',
         infile, "-"])
@@ -78,12 +81,12 @@ def remove_contacts_in_pdf(infile, outfile):
         for em in re.finditer(r'((\b)|mailto:)\w+@crs(\.)?lo(\.)?(c\.(gov)?)?', master_text):
             segment = master_text[em.start(0)-35:em.end(0)+35]
             for emt in re.finditer(r'7-\d{4}', segment):
-                print "REMOVING TELE", "\"", emt.group(0), "\""
+                what_was_removed.append(emt.group(0))
                 for idx in range(emt.start(0)+em.start(0)-35, emt.end(0)+em.start(0)-35):
                     data_idx = text_map[idx]
                     data = data[:data_idx] + " " + data[data_idx+1:]
     #    Removing em contact occurences
-            print "REMOVING EMAIL", "\"", em.group(0), "\""
+            what_was_removed.append(em.group(0))
             for idx in range(em.start(0), em.end(0)):
                 data_idx = text_map[idx]
                 data = data[:data_idx] + " " + data[data_idx+1:]
@@ -93,7 +96,7 @@ def remove_contacts_in_pdf(infile, outfile):
             segment = master_text[cover.start(0)-35:cover.end(0)]
             #    Removing cover contact occurences
             for cover_tele in re.finditer(r'7-\d{4}', segment):
-                print "REMOVING TELE", "\"", cover.group(0), "\""
+                what_was_removed.append(cover.group(0))
                 for idx in range(cover_tele.start(0)+cover.start(0)-35, cover_tele.end(0)+cover.start(0)-35):
                     data_idx = text_map[idx]
                     data = data[:data_idx] + " " + data[data_idx+1:]
@@ -103,7 +106,7 @@ def remove_contacts_in_pdf(infile, outfile):
             segment = master_text[ack.start(0):ack.end(0)+500]
             for ack_tele in re.finditer(r'7-\d{4}', segment):
                 #    Removing ack contact occruences
-                print "REMOVING TELE", "\"", ack.group(0), "\""
+                what_was_removed.append(ack.group(0))
                 for idx in range(ack.start(0)+ack_tele.start(0), ack_tele.end(0)+ack.start(0)):
                     data_idx = text_map[idx]
                     data = data[:data_idx] + " " + data[data_idx+1:]
@@ -113,6 +116,8 @@ def remove_contacts_in_pdf(infile, outfile):
         f.write(data)
         f.flush()
         subprocess.check_call(['qpdf', '--linearize', f.name, outfile])
+
+    return what_was_removed
 
 if __name__ == "__main__":
     #### Set input error limits and notifications
@@ -151,11 +156,11 @@ if __name__ == "__main__":
         for a_file in files:
             infile = sys.argv[1] + a_file
             outfile = sys.argv[2] + a_file
-            remove_contacts_in_pdf(infile, outfile)
+            print remove_contacts_in_pdf(infile, outfile)
 
     # Reckognize file input
     if os.path.isfile(sys.argv[1]):
         infile = sys.argv[1]
         outfile = sys.argv[2]
-        remove_contacts_in_pdf(infile, outfile)
+        print remove_contacts_in_pdf(infile, outfile)
     #### End input detection
