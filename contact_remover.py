@@ -21,6 +21,7 @@ import re
 import sys
 import os
 import subprocess
+import tempfile
 
 
 
@@ -42,22 +43,12 @@ if len(sys.argv) > 3:
 #### Begin removing author contacts
 def removal_loop():
     #### First decode and expand the original CRS file
-    bash_line = 'qpdf --qdf --object-streams=disable' 
-    bash_command = bash_line + " " + infile + " " + outfile + "temp1"
-    p = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE,
-                                        stderr=subprocess.PIPE)
-    out, err = p.communicate()
-    #print (out) ## Reveal to troubleshoot
-    #### End file expansion
-
-
+    data = subprocess.check_output(['qpdf', '--qdf', '--object-streams=disable',
+        infile, "-"])
 
     #### Now that the expanded file is in expanded
     ##   we locate objects (sections) of interest
     ##   and map the characters within the object
-    f = open(outfile + "temp1", "r")
-    data = f.read()
-    f.close()
     objnum = -1
     objlist = []
 
@@ -134,25 +125,11 @@ def removal_loop():
                     data_idx = text_map[idx]
                     data = data[:data_idx] + " " + data[data_idx+1:]
 
-    f = open(outfile + "temp2", 'w')
-    f.write(data)
-    f.close()
-
-    #### Compress the new author-contact-free CRS file as your output.pdf
-    bash_line = 'qpdf --linearize'
-    bash_command = bash_line + " " + outfile + "temp2" + " " + outfile
-    p = subprocess.Popen(bash_command.split(), stdout=subprocess.PIPE,
-                                            stderr=subprocess.PIPE)
-    out, err = p.communicate()
-    #print (out)  ## Reveal to troubleshoot
-    #### End file decode
-
-    #### Clean up temp files
-    os.remove(outfile + "temp1")
-    os.remove(outfile + "temp2")
-    ##
-    #print "Removed author contacts from CRS doc " + outfile
-#### End removal of author contacts
+    #### Compress the new author-contact-free CRS file and write to the output file.
+    with tempfile.NamedTemporaryFile() as f:
+        f.write(data)
+        f.flush()
+        subprocess.check_call(['qpdf', '--linearize', f.name, outfile])
 
 
 
