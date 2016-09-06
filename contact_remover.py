@@ -23,25 +23,8 @@ import os
 import subprocess
 import tempfile
 
-
-
-#### Set input error limits and notifications
-if len(sys.argv) < 3:
-    print "\n"+ "INPUT ERROR: Please specify an input/output pair of files or directories" + "\n"
-    print "Single file example: "
-    print "python contacts-remover.py input_file.pdf output_file.pdf"
-    print "Directory example: "
-    print "python contacts-remover.py /input_directory/ /output_directory/" + "\n"
-    sys.exit(-1)
-if len(sys.argv) > 3:
-    print "\n"+ "INPUT ERROR: Please specify only one input/output pair of files or directories" + "\n"
-    sys.exit(-1)
-#### End of input errors
-
-
-
 #### Begin removing author contacts
-def removal_loop():
+def remove_contacts_in_pdf(infile, outfile):
     #### First decode and expand the original CRS file
     data = subprocess.check_output(['qpdf', '--qdf', '--object-streams=disable',
         infile, "-"])
@@ -131,40 +114,48 @@ def removal_loop():
         f.flush()
         subprocess.check_call(['qpdf', '--linearize', f.name, outfile])
 
+if __name__ == "__main__":
+    #### Set input error limits and notifications
+    if len(sys.argv) < 3:
+        print "\n"+ "INPUT ERROR: Please specify an input/output pair of files or directories" + "\n"
+        print "Single file example: "
+        print "python contacts-remover.py input_file.pdf output_file.pdf"
+        print "Directory example: "
+        print "python contacts-remover.py /input_directory/ /output_directory/" + "\n"
+        sys.exit(-1)
+    if len(sys.argv) > 3:
+        print "\n"+ "INPUT ERROR: Please specify only one input/output pair of files or directories" + "\n"
+        sys.exit(-1)
+    #### End of input errors
 
 
-#### Determine if input is a pair of files or directories
-# Reckognize directory input
-if os.path.isdir(sys.argv[1]):
-    # If 2nd directory input does not exist then create it
-    if not os.path.isdir(sys.argv[2]):
-        os.makedirs(sys.argv[2])
-    # If directories are not an absolute path create it
-    print sys.argv[1] + sys.argv[2]
-    sys.argv[1] = os.path.abspath(sys.argv[1])
-    sys.argv[2] = os.path.abspath(sys.argv[2])
-    if sys.argv[1][:-2:-1] != "/":
-        sys.argv[1] = sys.argv[1] + "/"
-    if sys.argv[2][:-2:-1] != "/":
-        sys.argv[2] = sys.argv[2] + "/"
-    print sys.argv[1] + sys.argv[2]
-    print "Author contact information will be removed from files in directory: " + (sys.argv[1]) + "  Contact free files will be created in directory: " + (sys.argv[2])
-    # (Excludes subdirectories and hidden files)
-    files = [ f for f in os.listdir(sys.argv[1]) if os.path.isfile(sys.argv[1]+f) if not f.startswith('.') ]
-    # Loop file(s)
-    for a_file in files:
-        infile = sys.argv[1] + a_file
-        outfile = sys.argv[2] + a_file
-        removal_loop()
+    #### Determine if input is a pair of files or directories
+    # Reckognize directory input
+    if os.path.isdir(sys.argv[1]):
+        # If 2nd directory input does not exist then create it
+        if not os.path.isdir(sys.argv[2]):
+            os.makedirs(sys.argv[2])
+        # If directories are not an absolute path create it
+        print sys.argv[1] + sys.argv[2]
+        sys.argv[1] = os.path.abspath(sys.argv[1])
+        sys.argv[2] = os.path.abspath(sys.argv[2])
+        if sys.argv[1][:-2:-1] != "/":
+            sys.argv[1] = sys.argv[1] + "/"
+        if sys.argv[2][:-2:-1] != "/":
+            sys.argv[2] = sys.argv[2] + "/"
+        print sys.argv[1] + sys.argv[2]
+        print "Author contact information will be removed from files in directory: " + (sys.argv[1]) + "  Contact free files will be created in directory: " + (sys.argv[2])
+        # (Excludes subdirectories and hidden files)
+        files = [ f for f in os.listdir(sys.argv[1]) if os.path.isfile(sys.argv[1]+f) if not f.startswith('.') ]
+        # Loop file(s)
+        for a_file in files:
+            infile = sys.argv[1] + a_file
+            outfile = sys.argv[2] + a_file
+            remove_contacts_in_pdf(infile, outfile)
 
-# Reckognize file input
-if os.path.isfile(sys.argv[1]):
-    infile = sys.argv[1]
-    outfile = sys.argv[2]
-    # Loop file
-    removal_loop()
-#### End input detection
-
-
-print ("CRS author contacts have been removed")
-#### End script #### Have a nice day ####
+    # Reckognize file input
+    if os.path.isfile(sys.argv[1]):
+        infile = sys.argv[1]
+        outfile = sys.argv[2]
+        remove_contacts_in_pdf(infile, outfile)
+    #### End input detection
