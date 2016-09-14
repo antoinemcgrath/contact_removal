@@ -14,6 +14,4 @@ Please report any contact removal failures.
 
 This python script is built on (https://github.com/billmarczak)'s mapping version: https://github.com/antoinemcgrath/contact_removal/commit/ea9635c61c793859aee0d888e10e95da2c85af52 and qpdf**)
 
-
-**Please do not include spaces in the document names or directories
 **QPDF is used to expand and condense CRS reports files it is released under the terms of Version 2.0 of the Artistic License. Visit the site http://qpdf.sourceforge.net/ for additional information.
