@@ -6,7 +6,7 @@
 # python contacts-remover.py input_file.pdf output_file.pdf
 
 #### Run on an entire directory:
-# python contacts-remover.py input_directory/ output_directory/
+# python3 contacts-remover.py input_directory/ output_directory/
 
 #### This script will remove author contacts (telephone numbers and emails) from CRS PDFs
 # (Will not execute on hidden files nor subdirectories)
@@ -28,37 +28,6 @@ import tempfile
 with open("author_names.txt", "r", encoding="utf-8") as f:
     names = [line.rstrip('\n') for line in f]
 
-    #for line in f:
-    #    print (line, end='')
-    #print (names)
-#    for name in names:
-    #    print (name)
-#    print (mylist.encode('utf-8'))
-    #print (type(names))
-
-#author_file = open("author_names.txt", "r", encoding="utf-8")
-
-#global names
-#names = author_file.read().split('\\n')
-#name = names.encode('utf-8')#.decode().split('\\n')
-#name = names.decode()
-#nam = name.split('\\n')
-#author_file = author_file.encode('ascii', '.').decode('ascii')
-#names = author_file.read().split(',').encode('utf-8').strip()
-
-#print ((names.encode('utf-8')))
-
-#with open("author_names.txt", "r") as f:
-#author_file = author_file.decode("ascii")
-#    train_set, valid_set, test_set = f.load(f, encoding='latin1')
-
-#    names = f
-    #names = f.read().split(',')
-#    print (names)
-
-
-
-#read lines into an array
 
 #### Begin removing author contacts
 def remove_contacts_in_pdf(infile, outfile):
@@ -122,56 +91,225 @@ def remove_contacts_in_pdf(infile, outfile):
                 for idx in range(emt.start(0)+em.start(0)-35, emt.end(0)+em.start(0)-35):
                     data_idx = text_map[idx]
                     data = data[:data_idx] + b" " + data[data_idx+1:]
-    #    Removing em contact occurences
+    # Removing occurences
             what_was_removed.append(em.group(0))
             for idx in range(em.start(0), em.end(0)):
                 data_idx = text_map[idx]
                 data = data[:data_idx] + b" " + data[data_idx+1:]
 
 
-
     #   Remove author names (as provided from file author_names.txt)
-
+    #   Also remove common name surrounding words
         for named in names:
             #print (named)
             #print (type(named))
-            ncoord = named + ", Coordinator"
-            #it = iter(named)
-            nameds = named.encode("utf-8")
-            ncoords = ncoord.encode("utf-8")
+            named0 = named
+            nameds0 = named0.encode("utf-8")
 
-            #some_string.encode(encoding)
+            named1 = named + ", Coordinator"
+            nameds1 = named1.encode("utf-8")
 
-            for authors_name in re.finditer(nameds, master_text):
+            named2 = ", by " + named + " and "
+            nameds2 = named2.encode("utf-8")
+
+            named3 = named + " and "
+            nameds3 = named3.encode("utf-8")
+
+            named4 = ", by " + named
+            nameds4 = named4.encode("utf-8")
+
+            named5 = ", coordinated by " + named
+            nameds5 = named5.encode("utf-8")
+
+            named6 = ", " + named + ","
+            nameds6 = named6.encode("utf-8")
+
+            named7 = named + ", and"
+            nameds7 = named7.encode("utf-8")
+
+            named8 = ", " + named
+            nameds8 = named8.encode("utf-8")
+
+            named9 = named + ","
+            nameds9 = named9.encode("utf-8")
+
+            named10 = named + "."
+            nameds10 = named10.encode("utf-8")
+
+
+            # Begin name removal loops
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds1, master_text):
                 segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
                 #print (segment)
-
-                for authors_namet in re.finditer(nameds, segment):
+                for authors_namet in re.finditer(nameds1, segment):
                     what_was_removed.append(authors_namet.group(0))
                     for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
                         data_idx = text_map[idx]
                         data = data[:data_idx] + b" " + data[data_idx+1:]
-        #    Removing em contact occurences
+                # Removing occurences
                 what_was_removed.append(authors_name.group(0))
                 for idx in range(authors_name.start(0), authors_name.end(0)):
                     data_idx = text_map[idx]
                     data = data[:data_idx] + b" " + data[data_idx+1:]
 
-            for authors_name in re.finditer(ncoords, master_text):
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds2, master_text):
                 segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
                 #print (segment)
-
-                for authors_namet in re.finditer(ncoords, segment):
+                for authors_namet in re.finditer(nameds2, segment):
                     what_was_removed.append(authors_namet.group(0))
                     for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
                         data_idx = text_map[idx]
                         data = data[:data_idx] + b" " + data[data_idx+1:]
-            #    Removing em contact occurences
+                # Removing occurences
                 what_was_removed.append(authors_name.group(0))
                 for idx in range(authors_name.start(0), authors_name.end(0)):
                     data_idx = text_map[idx]
                     data = data[:data_idx] + b" " + data[data_idx+1:]
 
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds3, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds3, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds4, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds4, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds5, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds5, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds6, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds6, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+                    # End name removal loops
+
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds7, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds7, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds8, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds8, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+                    # End name removal loops
+
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds9, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds9, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+                    # End name removal loops
+
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds10, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds10, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+                    # End name removal loops
+
+
+
+
+            #Repeat Removal Loop
+            for authors_name in re.finditer(nameds0, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+                for authors_namet in re.finditer(nameds0, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+                # Removing occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+                    # End name removal loops
 
 
 
@@ -180,6 +318,7 @@ def remove_contacts_in_pdf(infile, outfile):
 
 
 
+    # Begin contact removal loops
     #   cover Catches telephone contacts on the coverpage
         for cover in re.finditer(rb'(\b)(www.crs.gov)', master_text):
             segment = master_text[cover.start(0)-35:cover.end(0)]
@@ -199,12 +338,13 @@ def remove_contacts_in_pdf(infile, outfile):
                 for idx in range(ack.start(0)+ack_tele.start(0), ack_tele.end(0)+ack.start(0)):
                     data_idx = text_map[idx]
                     data = data[:data_idx] + b" " + data[data_idx+1:]
+    # End contact removal loops
 
 
 
 
 
-    #### Compress the new author-contact-free CRS file and write to the output file.
+    #### Compress the new author/contact-free CRS file and write to the output file.
     with tempfile.NamedTemporaryFile() as f:
         f.write(data)
         f.flush()
@@ -242,18 +382,27 @@ if __name__ == "__main__":
         if sys.argv[2][:-2:-1] != "/":
             sys.argv[2] = sys.argv[2] + "/"
         print(sys.argv[1] + sys.argv[2])
-        print("Author contact information will be removed from files in directory: " + (sys.argv[1]) + "  Contact free files will be created in directory: " + (sys.argv[2]))
+        print("Author contact information will be removed from files in directory: " + (sys.argv[1]))
+        print("Contact free files will be created in directory: " + (sys.argv[2]))
         # (Excludes subdirectories and hidden files)
         files = [ f for f in os.listdir(sys.argv[1]) if os.path.isfile(sys.argv[1]+f) if not f.startswith('.') ]
-        # Loop file(s)
+
+        # Loop file(s) for folder inputes
         for a_file in files:
             infile = sys.argv[1] + a_file
             outfile = sys.argv[2] + a_file
+            print()
+            print ("Texts removed from " + sys.argv[1] + a_file)
             print(remove_contacts_in_pdf(infile, outfile))
+            print("Clean file is " + sys.argv[2] + a_file)
+            print()
 
-    # Reckognize file input
+    # Reckognize file input for single file
     if os.path.isfile(sys.argv[1]):
         infile = sys.argv[1]
         outfile = sys.argv[2]
+        print()
+        print ("Texts removed from " + sys.argv[1] )
         print(remove_contacts_in_pdf(infile, outfile))
+        print("Clean file is " + sys.argv[1] )
     #### End input detection
