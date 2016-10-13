@@ -133,8 +133,8 @@ def remove_contacts_in_pdf(infile, outfile):
             named9 = named + ","
             nameds9 = named9.encode("utf-8")
 
-            named10 = named + "."
-            nameds10 = named10.encode("utf-8")
+            #named10 = named + "."
+            #nameds10 = named10.encode("utf-8")
 
 
             # Begin name removal loops
@@ -277,20 +277,20 @@ def remove_contacts_in_pdf(infile, outfile):
                     # End name removal loops
 
             #Repeat Removal Loop
-            for authors_name in re.finditer(nameds10, master_text):
-                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
-                #print (segment)
-                for authors_namet in re.finditer(nameds10, segment):
-                    what_was_removed.append(authors_namet.group(0))
-                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
-                        data_idx = text_map[idx]
-                        data = data[:data_idx] + b" " + data[data_idx+1:]
-                # Removing occurences
-                what_was_removed.append(authors_name.group(0))
-                for idx in range(authors_name.start(0), authors_name.end(0)):
-                    data_idx = text_map[idx]
-                    data = data[:data_idx] + b" " + data[data_idx+1:]
-                    # End name removal loops
+#            for authors_name in re.finditer(nameds10, master_text):
+#                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+#                #print (segment)
+#                for authors_namet in re.finditer(nameds10, segment):
+#                    what_was_removed.append(authors_namet.group(0))
+#                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+#                        data_idx = text_map[idx]
+#                        data = data[:data_idx] + b" " + data[data_idx+1:]
+#                # Removing occurences
+#                what_was_removed.append(authors_name.group(0))
+#                for idx in range(authors_name.start(0), authors_name.end(0)):
+#                    data_idx = text_map[idx]
+#                    data = data[:data_idx] + b" " + data[data_idx+1:]
+#                    # End name removal loops
 
 
 
