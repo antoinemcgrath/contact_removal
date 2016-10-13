@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 
-#!/usr/bin/python3
+#!/usr/bin/python
 
 #### Single file run:
 # python contacts-remover.py input_file.pdf output_file.pdf
@@ -8,7 +8,7 @@
 #### Run on an entire directory:
 # python contacts-remover.py input_directory/ output_directory/
 
-#### This script will remove author contacts (telephone numbers, emails (and author names when provided in .txt)) from CRS PDFs
+#### This script will remove author contacts (telephone numbers and emails) from CRS PDFs
 # (Will not execute on hidden files nor subdirectories)
 # (Will halt script if a document is not a PDF or if PDF is corrupt)
 # (Destination directory will be created if it does not exist)
@@ -24,9 +24,17 @@ import os
 import subprocess
 import tempfile
 
-#Load author names (utf-8 characters only) 
+
 with open("author_names.txt", "r", encoding="utf-8") as f:
     names = [line.rstrip('\n') for line in f]
+
+    #for line in f:
+    #    print (line, end='')
+    #print (names)
+#    for name in names:
+    #    print (name)
+#    print (mylist.encode('utf-8'))
+    #print (type(names))
 
 #author_file = open("author_names.txt", "r", encoding="utf-8")
 
@@ -125,17 +133,18 @@ def remove_contacts_in_pdf(infile, outfile):
     #   Remove author names (as provided from file author_names.txt)
 
         for named in names:
-            print (named)
-            print (named)
-            print (type(named))
+            #print (named)
+            #print (type(named))
+            ncoord = named + ", Coordinator"
             #it = iter(named)
             nameds = named.encode("utf-8")
+            ncoords = ncoord.encode("utf-8")
+
             #some_string.encode(encoding)
 
             for authors_name in re.finditer(nameds, master_text):
                 segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
-                print (segment)
-                print (segment)
+                #print (segment)
 
                 for authors_namet in re.finditer(nameds, segment):
                     what_was_removed.append(authors_namet.group(0))
@@ -147,6 +156,22 @@ def remove_contacts_in_pdf(infile, outfile):
                 for idx in range(authors_name.start(0), authors_name.end(0)):
                     data_idx = text_map[idx]
                     data = data[:data_idx] + b" " + data[data_idx+1:]
+
+            for authors_name in re.finditer(ncoords, master_text):
+                segment = master_text[authors_name.start(0)-35:authors_name.end(0)+35]
+                #print (segment)
+
+                for authors_namet in re.finditer(ncoords, segment):
+                    what_was_removed.append(authors_namet.group(0))
+                    for idx in range(authors_namet.start(0)+authors_name.start(0)-35, authors_namet.end(0)+authors_name.start(0)-35):
+                        data_idx = text_map[idx]
+                        data = data[:data_idx] + b" " + data[data_idx+1:]
+            #    Removing em contact occurences
+                what_was_removed.append(authors_name.group(0))
+                for idx in range(authors_name.start(0), authors_name.end(0)):
+                    data_idx = text_map[idx]
+                    data = data[:data_idx] + b" " + data[data_idx+1:]
+
 
 
 
