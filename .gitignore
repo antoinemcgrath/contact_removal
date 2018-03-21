@@ -11,3 +11,7 @@ crsreports.com/ssl/privkey.pem
 crsreports.com/ssl/
 *.idea
 *~
+ecrs/
+out/
+outcrs/
+pdf/
