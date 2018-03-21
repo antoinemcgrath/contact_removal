@@ -97,8 +97,14 @@ def remove_contacts_in_pdf(infile, outfile):
                 data_idx = text_map[idx]
                 data = data[:data_idx] + b" " + data[data_idx+1:]
 
+<<<<<<< HEAD
 
     #   Remove author names (as provided from file author_names.txt)
+=======
+##### Issue: This process searches the entire document for each match and consumes ~2mins per report
+##### Note to self: Rewrite the section below to detect named (nameds0) first, then reckognize wanted patterns in the surrounding text (, by Coordinator, . etc.) remove the longest match & move on to next occurence of nameds0. 
+#   Remove author names (as provided from file author_names.txt)
+>>>>>>> a20cd3c41e1e998b658225069a543d9fc0da2909
     #   Also remove common name surrounding words
         for named in names:
             #print (named)
