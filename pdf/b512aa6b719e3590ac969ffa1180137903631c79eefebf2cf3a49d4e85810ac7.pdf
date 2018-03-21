@@ -1,0 +1,4863 @@
+%PDF-1.4
+%ø˜¢˛
+%QDF-1.0
+
+%% Original object ID: 1 0
+1 0 obj
+<<
+  /AcroForm 3 0 R
+  /Metadata 4 0 R
+  /Pages 6 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 2 0
+2 0 obj
+<<
+  /Author (crsuser)
+  /CreationDate (D:20020828205334Z)
+  /Creator (PScript5.dll Version 5.2)
+  /ModDate (D:20020828165423-03'00')
+  /Producer (Acrobat Distiller 5.0 \(Windows\))
+  /Title (IB10106)
+>>
+endobj
+
+%% Original object ID: 3 0
+3 0 obj
+<<
+  /DA (/Helv 0 Tf 0 g )
+  /DR <<
+    /Encoding <<
+      /PDFDocEncoding 7 0 R
+    >>
+    /Font <<
+      /Helv 8 0 R
+      /ZaDb 9 0 R
+    >>
+  >>
+  /Fields [
+  ]
+>>
+endobj
+
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Subtype /XML
+  /Type /Metadata
+  /Length 5 0 R
+>>
+stream
+<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d' bytes='1291'?>
+
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+ xmlns:iX='http://ns.adobe.com/iX/1.0/'>
+
+ <rdf:Description about=''
+  xmlns='http://ns.adobe.com/pdf/1.3/'
+  xmlns:pdf='http://ns.adobe.com/pdf/1.3/'>
+  <pdf:CreationDate>2002-08-28T20:53:34Z</pdf:CreationDate>
+  <pdf:ModDate>2002-08-28T16:54:23-03:00</pdf:ModDate>
+  <pdf:Producer>Acrobat Distiller 5.0 (Windows)</pdf:Producer>
+  <pdf:Author>crsuser</pdf:Author>
+  <pdf:Creator>PScript5.dll Version 5.2</pdf:Creator>
+  <pdf:Title>IB10106</pdf:Title>
+ </rdf:Description>
+
+ <rdf:Description about=''
+  xmlns='http://ns.adobe.com/xap/1.0/'
+  xmlns:xap='http://ns.adobe.com/xap/1.0/'>
+  <xap:CreateDate>2002-08-28T20:53:34Z</xap:CreateDate>
+  <xap:ModifyDate>2002-08-28T16:54:23-03:00</xap:ModifyDate>
+  <xap:Author>crsuser</xap:Author>
+  <xap:MetadataDate>2002-08-28T16:54:23-03:00</xap:MetadataDate>
+  <xap:Title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>IB10106</rdf:li>
+   </rdf:Alt>
+  </xap:Title>
+ </rdf:Description>
+
+ <rdf:Description about=''
+  xmlns='http://purl.org/dc/elements/1.1/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>crsuser</dc:creator>
+  <dc:title>IB10106</dc:title>
+ </rdf:Description>
+
+</rdf:RDF>
+<?xpacket end='r'?>
+endstream
+endobj
+
+%QDF: ignore_newline
+5 0 obj
+1291
+endobj
+
+%% Original object ID: 5 0
+6 0 obj
+<<
+  /Count 11
+  /Kids [
+    10 0 R
+    11 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Original object ID: 6 0
+7 0 obj
+<<
+  /Differences [
+    24
+    /breve
+    /caron
+    /circumflex
+    /dotaccent
+    /hungarumlaut
+    /ogonek
+    /ring
+    /tilde
+    39
+    /quotesingle
+    96
+    /grave
+    128
+    /bullet
+    /dagger
+    /daggerdbl
+    /ellipsis
+    /emdash
+    /endash
+    /florin
+    /fraction
+    /guilsinglleft
+    /guilsinglright
+    /minus
+    /perthousand
+    /quotedblbase
+    /quotedblleft
+    /quotedblright
+    /quoteleft
+    /quoteright
+    /quotesinglbase
+    /trademark
+    /fi
+    /fl
+    /Lslash
+    /OE
+    /Scaron
+    /Ydieresis
+    /Zcaron
+    /dotlessi
+    /lslash
+    /oe
+    /scaron
+    /zcaron
+    160
+    /Euro
+    164
+    /currency
+    166
+    /brokenbar
+    168
+    /dieresis
+    /copyright
+    /ordfeminine
+    172
+    /logicalnot
+    /.notdef
+    /registered
+    /macron
+    /degree
+    /plusminus
+    /twosuperior
+    /threesuperior
+    /acute
+    /mu
+    183
+    /periodcentered
+    /cedilla
+    /onesuperior
+    /ordmasculine
+    188
+    /onequarter
+    /onehalf
+    /threequarters
+    192
+    /Agrave
+    /Aacute
+    /Acircumflex
+    /Atilde
+    /Adieresis
+    /Aring
+    /AE
+    /Ccedilla
+    /Egrave
+    /Eacute
+    /Ecircumflex
+    /Edieresis
+    /Igrave
+    /Iacute
+    /Icircumflex
+    /Idieresis
+    /Eth
+    /Ntilde
+    /Ograve
+    /Oacute
+    /Ocircumflex
+    /Otilde
+    /Odieresis
+    /multiply
+    /Oslash
+    /Ugrave
+    /Uacute
+    /Ucircumflex
+    /Udieresis
+    /Yacute
+    /Thorn
+    /germandbls
+    /agrave
+    /aacute
+    /acircumflex
+    /atilde
+    /adieresis
+    /aring
+    /ae
+    /ccedilla
+    /egrave
+    /eacute
+    /ecircumflex
+    /edieresis
+    /igrave
+    /iacute
+    /icircumflex
+    /idieresis
+    /eth
+    /ntilde
+    /ograve
+    /oacute
+    /ocircumflex
+    /otilde
+    /odieresis
+    /divide
+    /oslash
+    /ugrave
+    /uacute
+    /ucircumflex
+    /udieresis
+    /yacute
+    /thorn
+    /ydieresis
+  ]
+  /Type /Encoding
+>>
+endobj
+
+%% Original object ID: 7 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding 7 0 R
+  /Name /Helv
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 8 0
+9 0 obj
+<<
+  /BaseFont /ZapfDingbats
+  /Name /ZaDb
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 9 0
+10 0 obj
+<<
+  /Count 9
+  /Kids [
+    12 0 R
+    13 0 R
+    14 0 R
+    15 0 R
+    16 0 R
+    17 0 R
+    18 0 R
+    19 0 R
+    20 0 R
+  ]
+  /Parent 6 0 R
+  /Type /Pages
+>>
+endobj
+
+%% Original object ID: 10 0
+11 0 obj
+<<
+  /Count 2
+  /Kids [
+    21 0 R
+    22 0 R
+  ]
+  /Parent 6 0 R
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 11 0
+12 0 obj
+<<
+  /Contents 23 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 25 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 2
+%% Original object ID: 12 0
+13 0 obj
+<<
+  /Contents 26 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 28 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 3
+%% Original object ID: 13 0
+14 0 obj
+<<
+  /Contents 29 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 31 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 4
+%% Original object ID: 14 0
+15 0 obj
+<<
+  /Contents 32 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 34 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 5
+%% Original object ID: 15 0
+16 0 obj
+<<
+  /Contents 35 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 37 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 6
+%% Original object ID: 16 0
+17 0 obj
+<<
+  /Contents 38 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 40 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 7
+%% Original object ID: 17 0
+18 0 obj
+<<
+  /Contents 41 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 43 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 8
+%% Original object ID: 18 0
+19 0 obj
+<<
+  /Contents 44 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 46 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 9
+%% Original object ID: 19 0
+20 0 obj
+<<
+  /Contents 47 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 49 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 10
+%% Original object ID: 20 0
+21 0 obj
+<<
+  /Contents 50 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 52 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 11
+%% Original object ID: 21 0
+22 0 obj
+<<
+  /Contents 53 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 55 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 22 0
+23 0 obj
+<<
+  /Length 24 0 R
+>>
+stream
+BT
+/F1 1 Tf
+12 0 0 12 134.0391 20.6003 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+0.0019 Tc
+0.0001 Tw
+(Congressional Research Service)Tj
+/F2 1 Tf
+15.62 0 TD
+0 Tc
+0 Tw
+( )Tj
+/TT1 1 Tf
+13.68 0 0 13.68 324.839 20.6003 Tm
+2 Tr
+/Cs5 CS 0 0 0 SC
+0 J 0 j 0.12 w 10 M []0 d
+(!)Tj
+/F2 1 Tf
+12 0 0 12 335.639 20.6003 Tm
+0 Tr
+( )Tj
+/F1 1 Tf
+0.28 0 TD
+0.001 Tc
+0.001 Tw
+(The Library of Congress)Tj
+ET
+35.999 32.48 540 -0.96 re
+f
+BT
+/F3 1 Tf
+27.96 0 0 27.96 268.199 700.7603 Tm
+0.0014 Tc
+-0.0004 Tw
+(Issue Brief for Congress)Tj
+14.04 0 0 14.04 369.119 682.1603 Tm
+0 Tc
+0.004 Tw
+[(Receiv)12.8(ed through the CRS W)-13.3(e)0.4(b)]TJ
+ET
+42.959 695.48 525.96 -0.96 re
+f
+35.999 733.76 0.96 -61.56 re
+f
+574.919 733.76 0.96 -61.56 re
+f
+35.999 733.76 539.76 -0.96 re
+f
+35.999 673.04 539.76 -0.96 re
+f
+BT
+12 0 0 12 452.1591 762.8003 Tm
+0.0035 Tc
+-0.0015 Tw
+[(Or)6.5(der)6.5( C)5.5(ode IB10106)]TJ
+/F2 1 Tf
+18.96 0 0 18.96 208.439 593.8403 Tm
+0.0018 Tc
+-0.0013 Tw
+[(Insur)4.7(a)0.8(nce Regulation and Com)4.7(p)-1.1(etition:)]TJ
+7.4114 -1.1392 TD
+0.0016 Tc
+-0.0011 Tw
+(Background and Issues)Tj
+15 0 0 15 385.199 453.5603 Tm
+0.0012 Tc
+0.0008 Tw
+[(Updated A)43.2(ugust 28, 2002)]TJ
+/F3 1 Tf
+-6.8 -7.16 TD
+0.003 Tc
+-0.001 Tw
+[(S)6(.)1( Roy)15( W)-21(oodall, Jr., Insurance Consultant)]TJ
+3.568 -1.104 TD
+0.0034 Tc
+-0.0014 Tw
+[(G)5.4(o)-0.6(v)15.4(e)-0.6(rnment and F)6.4(i)1.4(nance D)5.4(i)1.4(v)15.4(i)1.4(sion)]TJ
+ET
+endstream
+endobj
+
+24 0 obj
+1379
+endobj
+
+%% Original object ID: 23 0
+25 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F1 58 0 R
+    /F2 59 0 R
+    /F3 60 0 R
+    /TT1 61 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 2
+%% Original object ID: 24 0
+26 0 obj
+<<
+  /Length 27 0 R
+>>
+stream
+BT
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 716.6003 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+0 Tc
+0 Tw
+(C)Tj
+12.72 0 0 12.72 102.3591 716.6003 Tm
+0.0042 Tc
+[(O)7(N)7(TEN)7(TS)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 687.5603 Tm
+0 Tc
+(S)Tj
+9.6 0 0 9.6 96.7191 687.5603 Tm
+-0.001 Tc
+(UMMARY)Tj
+12 0 0 12 89.9991 660.5603 Tm
+0 Tc
+(M)Tj
+9.6 0 0 9.6 100.6791 660.5603 Tm
+0.003 Tc
+[(OS)9(T)-11( )]TJ
+12 0 0 12 121.3191 660.5603 Tm
+0 Tc
+(R)Tj
+9.6 0 0 9.6 129.3591 660.5603 Tm
+0.0019 Tc
+[(EC)6.4(ENT)-12.1( )]TJ
+12 0 0 12 162.839 660.5603 Tm
+0 Tc
+(D)Tj
+9.6 0 0 9.6 171.479 660.5603 Tm
+0.0023 Tc
+[(EVEL)13.3(OPMENT)-11.7(S)]TJ
+12 0 0 12 89.9991 633.5603 Tm
+0 Tc
+(B)Tj
+9.6 0 0 9.6 97.9191 633.5603 Tm
+0.003 Tc
+-0.003 Tw
+[(AC)7.5(K)12.5(G)0(R)7.5(OUND AND )]TJ
+12 0 0 12 184.919 633.5603 Tm
+0 Tc
+0 Tw
+(A)Tj
+9.6 0 0 9.6 193.5591 633.5603 Tm
+0.003 Tc
+[(NAL)14(YS)9(I)11(S)]TJ
+12 0 0 12 89.9991 606.5603 Tm
+0.0006 Tc
+-0.0006 Tw
+[(Pre)4.6(s)-0.4(e)4.6(n)0.6(t Re)4.6(g)10.6(u)0.6(la)4.6(tory)30.6( Struc)4.6(t)-1.4(ure)]TJ
+0 -1.12 TD
+-0.0001 Tc
+0.0001 Tw
+[(F)5.9(actors Promoting)9.9( Chang)9.9(e)]TJ
+0 -1.13 TD
+-0.0005 Tc
+0.0005 Tw
+[(State Reg)9.5(u)-0.5(latory)29.5( Response)]TJ
+0 -1.12 TD
+0 Tc
+0 Tw
+[(Cong)10(ressional Response)]TJ
+0 -2.25 TD
+-0.0001 Tc
+0.0001 Tw
+[(L)20.9(e)3.9(g)9.9(i)-2.1(slation in the 107)]TJ
+7.2 0 0 7.2 194.639 543.9203 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 200.2791 539.1203 Tm
+-0.0002 Tc
+0.0002 Tw
+[( Cong)9.8(ress)]TJ
+-7.19 -1.13 TD
+0.002 Tc
+0 Tw
+[(Se)6(na)6(te)]TJ
+0 -1.12 TD
+-0.0012 Tc
+0.0012 Tw
+(House of Representatives)Tj
+-2 -2.25 TD
+-0.0006 Tc
+0.0006 Tw
+[(Cong)9.4(ressional Hearing)9.4(s)-1.6( During)9.4( the 107)]TJ
+7.2 0 0 7.2 280.079 489.9203 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 285.719 485.1203 Tm
+-0.0002 Tc
+0.0002 Tw
+[( Cong)9.8(ress)]TJ
+-12.3 -1.13 TD
+-0.0008 Tc
+0.0008 Tw
+[(J)-11.8(une 4, 2002 Hearing)]TJ
+0 -1.12 TD
+[(J)-11.8(une 11, 2002 Hearing)]TJ
+0 -1.13 TD
+[(J)-11.8(une 18, 2002 Hearing)]TJ
+-4.01 -2.25 TD
+0 Tc
+0 Tw
+(F)Tj
+9.6 0 0 9.6 96.5991 417.5603 Tm
+0.003 Tc
+[(OR)7.5( )]TJ
+12 0 0 12 112.3191 417.5603 Tm
+0 Tc
+(A)Tj
+9.6 0 0 9.6 120.9591 417.5603 Tm
+0.003 Tc
+[(DDI)11(T)-11(I)11(ONAL)14( )]TJ
+12 0 0 12 176.159 417.5603 Tm
+0 Tc
+(R)Tj
+9.6 0 0 9.6 184.199 417.5603 Tm
+0.0028 Tc
+[(EADI)10.8(NG)]TJ
+ET
+endstream
+endobj
+
+27 0 obj
+2207
+endobj
+
+%% Original object ID: 25 0
+28 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F4 62 0 R
+    /TT3 63 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 3
+%% Original object ID: 26 0
+29 0 obj
+<<
+  /Length 30 0 R
+>>
+stream
+BT
+/F2 1 Tf
+11.04 0 0 11.04 71.9991 752.4803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0017 Tc
+0 Tw
+[(I)-6.3(B)2.9(10106)]TJ
+38.3913 0 TD
+[(08-)-5.7(28-)-5.7(0)0(2)]TJ
+12 0 0 12 71.9991 31.4004 Tm
+0.0019 Tc
+0.0001 Tw
+[(        Congressional Research Serv)17.9(ice    )]TJ
+/TT1 1 Tf
+13.68 0 0 13.68 299.519 31.4004 Tm
+2 Tr
+/Cs5 CS 0 0 0 SC
+0 J 0 j 0.12 w 10 M []0 d
+0 Tc
+0 Tw
+(!)Tj
+/F2 1 Tf
+12 0 0 12 310.319 31.4004 Tm
+0 Tr
+0.001 Tc
+0.001 Tw
+[(    The Library)27( of Congress)]TJ
+ET
+q
+72.9998 0 0 46.2 467.9991 28.6404 cm
+/Im1 Do
+Q
+BT
+/F3 1 Tf
+15 0 0 15 94.5591 724.0403 Tm
+0.0033 Tc
+-0.0013 Tw
+[(Insurance Regulation and Competition: B)6.3(ackground and Issues)]TJ
+15.96 0 0 15.96 71.9991 693.2003 Tm
+0 Tc
+0 Tw
+(S)Tj
+12.72 0 0 12.72 82.679 693.2003 Tm
+-0.0122 Tc
+[(U)-16.6(MMA)-15(R)-16.6(Y)]TJ
+/F4 1 Tf
+12 0 0 12 95.9991 665.4803 Tm
+0.0006 Tc
+0.1394 Tw
+[(I)23.6(n)0.6(sura)4.6(nc)4.6(e)4.6( c)4.6(o)0.6(mpa)4.6(n)0.6(ie)4.6(s ma)4.6(ke)4.6( up a)4.6( ma)4.6(jor)]TJ
+-2 -1.12 TD
+-0.0005 Tc
+0.0205 Tw
+[(seg)9.5(m)-2.5(ent of t)-12.5(h)-10.5(e)-6.5( U.S. financial services indus-)]TJ
+0 -1.13 TD
+-0.0011 Tc
+0.0411 Tw
+[(try)28.9(.)-1.1(  However, unlike banks and )-10(o)-11.1(t)-13.1(h)-11.1(e)2.9(r finan-)]TJ
+0 -1.12 TD
+0.0008 Tc
+-0.0408 Tw
+[(c)4.8(i)-1.2(a)4.8(l)-1.2( institutions tha)4.8(t)-1.2( a)4.8(r)3.8(e)4.8( )-10(re)4.8(g)10.8(u)0.8(la)4.8(te)4.8(d )-10(prima)4.8(rily)30.8( a)4.8(t)]TJ
+0 -1.13 TD
+0.0009 Tc
+0.2491 Tw
+[(the)4.9( fed)-9.1(e)4.9(ra)4.9(l le)4.9(ve)4.9(l, insura)4.9(nc)4.9(e)4.9( c)4.9(o)0.9(mpa)4.9(n)0.9(ie)4.9(s a)4.9(r)3.9(e)]TJ
+0 -1.12 TD
+0.0005 Tc
+0.0095 Tw
+[(re)4.5(g)10.5(u)0.5(la)4.5(ted by)30.5( the)4.5( sta)4.5(t)-1.5(e)4.5(s)-0.5(.  As fina)4.5(nc)4.5(ia)4.5(l se)4.5(rvic)4.5(e)4.5(s)]TJ
+0 -1.13 TD
+-0.0008 Tc
+0.0908 Tw
+[(have con)-10.8(v)-0.8(erg)9.2(e)3.2(d in response to g)9.2(l)-2.8(obaliz)-6.8(ation)]TJ
+0 -1.12 TD
+-0.001 Tc
+0.011 Tw
+[(and other ma)-7(r)-8(k)-11(e)-7(t)-13( factors, the seeming)9(l)-3(y)29( arbi-)]TJ
+0 -1.13 TD
+-0.0001 Tc
+0.0001 Tw
+[(trary)29.9( distinctions sepa)]TJ
+8.74 0 TD
+-0.0009 Tc
+0.0109 Tw
+[(rating)9.1( various )10(financial)]TJ
+-8.74 -1.12 TD
+-0.0007 Tc
+-0.0293 Tw
+[(products )10(and )10(services, as well as their )10(provid-)]TJ
+0 -1.13 TD
+-0.001 Tc
+0.001 Tw
+(ers, have broken down.  )Tj
+2 -2.25 TD
+-0.0003 Tc
+0.1903 Tw
+[(I)22.7(n)-0.3( 1999 Cong)9.7(r)-7.3(e)-6.3(ss passed the Gramm-)]TJ
+-2 -1.12 TD
+-0.0032 Tc
+0.0732 Tw
+[(L)17.8(each-Bl)-5.2(i)-15.2(l)-15.2(e)-9.2(y)16.8( Act)-5.2( \(GL)17.8(B)3.8(A\) t)-5.2(o)-3.2( refl)-5.2(ect)-5.2( m)-5.2(a)0.8(rket)-5.2(-)]TJ
+0 -1.13 TD
+-0.0014 Tc
+0.0514 Tw
+[(pl)-3.4(ace)-7.4( )-10(chang)8.6(e)2.6(s and t)-3.4(o)-1.4( overhaul)-3.4( t)-3.4(h)-1.4(e l)-3.4(a)2.6(ws g)8.6(ov-)]TJ
+0 -1.12 TD
+0.0008 Tc
+0.3192 Tw
+[(e)4.8(r)3.8(ning)10.8( fina)4.8(nc)4.8(ia)4.8(l institutions. )-10( )-10(R)-12.2(a)4.8(the)4.8(r)3.8( tha)4.8(n)]TJ
+0 -1.13 TD
+-0.0021 Tc
+-0.0579 Tw
+[(chang)7.9(i)-4.1(ng)7.9( t)-4.1(h)-2.1(e reg)7.9(u)-2.1(l)-4.1(a)1.9(t)-4.1(o)-2.1(ry)27.9( )-10(st)-4.1(ruct)-4.1(ures )-10(i)-4.1(n)-2.1( pl)-4.1(ace for)]TJ
+0 -1.12 TD
+0.001 Tc
+0.479 Tw
+[(the)5( va)5(ri)-11(o)-9(u)1(s fina)5(nc)5(ia)5(l institutions, GL)22(B)8(A)]TJ
+0 -1.13 TD
+-0.0024 Tc
+0.7524 Tw
+[(em)-4.4(braced)-12.4( )-10(t)-14.4(h)-12.4(e)-8.4( concept)-4.4( of \223funct)-4.4(i)-4.4(onal)-4.4<94>]TJ
+0 -1.12 TD
+-0.0009 Tc
+-0.0091 Tw
+[(reg)9.1(u)-0.9(lation.  I)22.1(n)-0.9( the )-10(process it specifically)29.1( reaf-)]TJ
+0 -1.13 TD
+-0.0001 Tc
+0.2901 Tw
+[(firme)3.9(d)-0.1( the)3.9( re)3.9(g)9.9(u)-0.1(la)3.9(tion of insura)3.9(nc)3.9(e)3.9( by)29.9( the)]TJ
+0 -1.12 TD
+-0.0012 Tc
+0.0412 Tw
+[(states as g)8.8(r)1.8(anted )-10(b)-11.2(y)28.8( the 1945 McCarran-F)4.8(e)2.8(r-)]TJ
+0 -1.13 TD
+-0.0005 Tc
+0.5205 Tw
+[(gu)-10.5(s)-11.5(o)-10.5(n Act.  Since 1945 Cong)9.5(ress has)]TJ
+0 -1.12 TD
+-0.0015 Tc
+0.2015 Tw
+[(revi)-3.5(ewed t)-3.5(h)-1.5(e j)-3.5(u)-1.5(ri)-3.5(sdi)-3.5(c)2.5(t)-3.5(i)-3.5(onal)-3.5( )-10(st)-3.5(ewardshi)-3.5(p en-)]TJ
+0 -1.13 TD
+-0.0009 Tc
+-0.0991 Tw
+[(trusted to the states under McCarra)13.1(n)9.1(-)12.1(F)5.1(e)3.1(rg)9.1(uson)]TJ
+0 -1.12 TD
+-0.0007 Tc
+-0.0793 Tw
+[(on various occasions. )10( However, until recently)]TJ
+0 -1.13 TD
+-0.0013 Tc
+-0.0887 Tw
+[(efforts to transfer )-10(insurance )-10(reg)8.7(u)-1.3(latory)28.7( author-)]TJ
+0 -1.12 TD
+-0.0002 Tc
+0.0802 Tw
+[(ity)29.8( ba)3.8(c)3.8(k)-0.2( to the)3.8( fe)3.8(de)3.8(ra)3.8(l g)9.8(ove)3.8(rnme)3.8(nt we)3.8(re)3.8( op-)]TJ
+0 -1.13 TD
+-0.0007 Tc
+0.0907 Tw
+[(posed by)29.3( )-10(b)-10.7(o)-10.7(t)-12.7(h)-10.7( the states and a united insur-)]TJ
+0 -1.12 TD
+-0.0011 Tc
+0.0011 Tw
+[(ance industry)28.9(.)-1.1(  )]TJ
+2 -2.25 TD
+0.0005 Tc
+-0.0305 Tw
+[(Some)4.5( )-10(insure)4.5(rs )-10(now )-10(c)4.5(l)-1.5(a)4.5(im tha)4.5(t)-1.5( in vie)4.5(w)2.5( of)]TJ
+-2 -1.13 TD
+-0.0016 Tc
+-0.0684 Tw
+[(the g)8.4(r)1.4(owing)8.4( converg)8.4(ence )-10(of )-10(financial services)]TJ
+0 -1.12 TD
+-0.0008 Tc
+0.0208 Tw
+[(a)-6.8(n)-10.8(d products, they)29.2( find themselves at a com)-12.8(-)]TJ
+0 -1.13 TD
+0.0007 Tc
+0.1693 Tw
+[(pe)4.7(titive)4.7( disa)4.7(dva)4.7(nta)4.7(g)10.7(e)4.7( bec)4.7(a)4.7(u)0.7(se)4.7( of the)4.7( ine)4.7(ffi-)]TJ
+0 -1.12 TD
+0.0005 Tc
+-0.1005 Tw
+[(c)14.5(i)8.5(e)14.5(n)10.5(c)14.5(i)8.5(e)14.5(s)9.5( a)4.5(ssoc)4.5(i)-1.5(a)4.5(t)-1.5(e)4.5(d)0.5( with be)4.5(ing)10.5( re)4.5(g)10.5(u)0.5(la)4.5(te)4.5(d by)30.5( th)10.5(e)]TJ
+0 -1.13 TD
+0.0001 Tc
+0.3099 Tw
+[(sta)4.1(t)-1.9(e)4.1(s)-0.9(.  F)6.1(o)0.1(r e)4.1(x)-9.9(a)4.1(m)-1.9(ple)4.1(,)0.1( life)4.1( insure)4.1(rs se)4.1(lling)]TJ
+0 -1.12 TD
+-0.0005 Tc
+0.0405 Tw
+[(products )-10(a)-6.5(i)-12.5(med at retir)]TJ
+9.16 0 TD
+-0.001 Tc
+0.041 Tw
+(ement and asset accu-)Tj
+-9.16 -1.13 TD
+0.0007 Tc
+-0.1007 Tw
+[(mula)4.7(tion must now c)4.7(o)0.7(mpe)4.7(t)-1.3(e)4.7( with simila)4.7(r b)10.7(a)4.7(nk)]TJ
+0 -1.12 TD
+-0.0005 Tc
+0.0005 Tw
+[(products.  )10(W)-6.5(h)-0.5(ile banks can roll out their new)]TJ
+0 -1.13 TD
+-0.0012 Tc
+0.0612 Tw
+[(products nationwide in a matter of week)-11.2(s)-12.2(,)-11.2( )-10(i)-13.2(t)]TJ
+21 45 TD
+0.0001 Tc
+-0.0801 Tw
+[(some)4.1(time)4.1(s ta)4.1(ke)4.1(s 2 )10(y)30.1(e)4.1(a)4.1(r)3.1(s or more)4.1( for a)4.1(n)0.1( insure)4.1(r)]TJ
+0 -1.12 TD
+-0.0013 Tc
+0.0813 Tw
+[(t)-13.3(o)-1.3( obtain the necessary)28.7( state approvals fo)-11.3(r)-8.3( )-10(a)]TJ
+0 -1.13 TD
+-0.0007 Tc
+0.1507 Tw
+[(national launch of a si)]TJ
+9.42 0 TD
+-0.0011 Tc
+0.1511 Tw
+[(m)-13.1(i)-13.1(l)-3.1(ar product.  As a)]TJ
+-9.42 -1.12 TD
+-0.0005 Tc
+-0.0795 Tw
+[(result, many)29.5( insurers )]TJ
+8.33 0 TD
+-0.0006 Tc
+-0.0694 Tw
+[(selling)9.4( such products )10(are)]TJ
+-8.33 -1.13 TD
+-0.0001 Tc
+0.3301 Tw
+[(calling)9.9( upon Cong)9.9(ress t)-12.1(o)-10.1( pass leg)9.9(i)-2.1(slation)]TJ
+0 -1.12 TD
+0.0003 Tc
+-0.1003 Tw
+[(r)13.3(e)14.3(insta)4.3(ting)10.3( the)4.3( fe)4.3(de)4.3(ra)4.3(l g)10.3(ove)4.3(rnme)4.3(nt\222s in)10.3(s)9.3(u)10.3(r)13.3(a)14.3(n)10.3(c)14.3(e)]TJ
+0 -1.13 TD
+-0.0012 Tc
+0.0012 Tw
+[(reg)8.8(u)-1.2(latory)28.8( role.  )]TJ
+2 -2.25 TD
+-0.0082 Tc
+-0.0918 Tw
+[(The)5.8( House Fi)-10.2(n)-8.2(a)-4.2(n)-8.2(c)-4.2(i)-10.2(a)-4.2(l Se)5.8(rvic)5.8(e)5.8(s)0.8( Committe)5.8(e)]TJ
+-2 -1.12 TD
+-0.0005 Tc
+0.0305 Tw
+[(has been looking)9.5( into the cur)-7.5(r)-7.5(e)3.5(nt state insur-)]TJ
+0 -1.13 TD
+-0.0019 Tc
+-0.0581 Tw
+[(ance )-10(reg)8.1(u)-1.9(l)-3.9(a)2.1(t)-3.9(o)-1.9(ry)28.1( st)-3.9(ruct)-3.9(ure, and duri)-3.9(n)-1.9(g)8.1( t)-3.9(h)-1.9(e 107)]TJ
+7.2 0 0 7.2 534.359 535.2803 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 323.999 517.0403 Tm
+0.0007 Tc
+-0.0907 Tw
+[(Cong)10.7(re)4.7(ss )-10(its subc)4.7(ommitte)4.7(e)4.7(s)-0.3( he)4.7(ld six)-9.3( )-10(he)4.7(a)4.7(r)3.7(ing)10.7(s)-0.3(.)]TJ
+T*
+-0.0022 Tc
+-0.0078 Tw
+[(The fi)-4.2(rst)-4.2( )10(t)-4.2(h)-2.2(ree heari)-4.2(n)-2.2(g)7.8(s)-3.2( focused on t)-4.2(h)-2.2(e i)-4.2(n)-2.2(effi)-4.2(-)]TJ
+0 -1.12 TD
+0 Tc
+-0.08 Tw
+[(c)4(i)-2(e)4(n)0(c)4(i)-2(e)4(s)-1( a)4(nd )10(la)4(c)4(k)0( of uniformity)30( in c)4(u)0(rre)4(nt sta)4(t)-2(e)]TJ
+0 -1.13 TD
+-0.0012 Tc
+0.2412 Tw
+[(insurance reg)8.8(u)-1.2(lation, and the second t)-13.2(h)-11.2(ree)]TJ
+0 -1.12 TD
+0.1412 Tw
+[(hearing)8.8(s)-2.2( reviewed various proposals for re-)]TJ
+0 -1.13 TD
+-0.0006 Tc
+0.2406 Tw
+[(form, in)-10.6(cluding)9.4( optional federal chartering)]TJ
+0 -1.12 TD
+-0.0009 Tc
+0.2309 Tw
+[(and reg)9.1(u)-0.9(lation of insurers.  The insura)-6.9(n)-10.9(c)-6.9(e)]TJ
+0 -1.13 TD
+-0.0005 Tc
+-0.0495 Tw
+[(industry)29.5( is divided on the issue of whether the)]TJ
+0 -1.12 TD
+-0.0012 Tc
+0.6112 Tw
+[(federal g)8.8(overnment )]TJ
+9.24 0 TD
+-0.0005 Tc
+0.6105 Tw
+[(shoul)-12.5(d)-10.5( assume any)]TJ
+-9.24 -1.13 TD
+-0.001 Tc
+0.041 Tw
+[(reg)9(u)-1(latory)29( role.  Maj)-13(o)-11(r)-8( trade g)9(r)2(oups of some)]TJ
+0 -1.12 TD
+-0.0022 Tc
+-0.0478 Tw
+[(of )10(t)-4.2(h)-2.2(e l)-4.2(a)1.8(rg)7.8(est)-4.2( i)-4.2(n)-2.2(surers and brokers )10(are )10(act)-4.2(i)-4.2(v)-2.2(el)-4.2(y)]TJ
+0 -1.13 TD
+-0.0023 Tc
+0.4423 Tw
+[(advocat)-4.3(i)-4.3(n)-2.3(g)7.7( a dual)-4.3( st)-4.3(at)-4.3(e/)-4.3(federal)-4.3( i)-4.3(n)-2.3(suran)-12.3(c)-8.3(e)]TJ
+0 -1.12 TD
+-0.0001 Tc
+-0.0399 Tw
+[(re)3.9(g)9.9(u)-0.1(la)3.9(tory)29.9( sy)29.9(ste)3.9(m)-2.1( tha)3.9(t)-2.1( would a)3.9(llow a)3.9(n)-0.1( insure)3.9(r)]TJ
+0 -1.13 TD
+-0.0013 Tc
+0.0613 Tw
+[(the option of obtain)-11.3(i)-13.3(n)-11.3(g)-1.3( )-10(a federal charter and)]TJ
+0 -1.12 TD
+-0.0002 Tc
+0.1602 Tw
+[(be)3.8(ing)9.8( re)3.8(g)9.8(u)-0.2(l)-12.2(a)-6.2(t)-12.2(e)-6.2(d)-10.2( )-10(a)3.8(t)-2.2( the)3.8( fe)3.8(de)3.8(ra)3.8(l le)3.8(ve)3.8(l.  Othe)3.8(r)]TJ
+0 -1.13 TD
+-0.0008 Tc
+0.2808 Tw
+[(s)-11.8(e)3.2(g)9.2(m)-2.8(ents of the insurance industry)29.2( would)]TJ
+0 -1.12 TD
+-0.0024 Tc
+0.0124 Tw
+[(prefer t)-4.4(o)-2.4( see t)-4.4(h)-2.4(e st)-4.4(at)-4.4(es m)-4.4(oder)-9.4(n)-12.4(i)-14.4(z)-18.4(e)-8.4( )-10(t)-4.4(h)-2.4(e current)]TJ
+0 -1.13 TD
+0.0007 Tc
+0.2893 Tw
+[(sy)30.7(ste)4.7(m)-1.3(, ra)4.7(the)4.7(r)3.7( th)-9.3(an)-9.3( )-10(esta)4.7(blish  a)4.7(n)0.7(y)30.7( fe)4.7(de)4.7(ra)4.7(l)]TJ
+0 -1.12 TD
+0.0004 Tc
+-0.0004 Tw
+[(sy)30.4(stem.  )]TJ
+2 -2.25 TD
+0.0016 Tc
+0.1084 Tw
+[(L)22.6(e)5.6(g)11.6(i)-0.4(sla)5.6(tion in the)5.6( Hou)-8.4(s)-9.4(e )-10(and Se)5.6(na)5.6(te)5.6( is)]TJ
+-2 -1.13 TD
+0.0003 Tc
+0.0897 Tw
+[(mode)4.3(le)4.3(d)-9.7( on the)4.3( dua)4.3(l sta)4.3(t)-1.7(e)4.3(/)-1.7(fe)4.3(de)4.3(ra)4.3(l re)4.3(g)10.3(u)0.3(la)4.3(tion)]TJ
+0 -1.12 TD
+-0.0005 Tc
+0.0505 Tw
+[(that now ex)-10.5(ists for the banking)9.5( industry)29.5(,)-0.5( )-10(b)-10.5(u)-0.5(t)]TJ
+0 -1.13 TD
+0.0014 Tc
+0.0886 Tw
+[(most c)5.4(onside)5.4(r)4.4( it ve)5.4(ry)21.4( )-10(u)-8.6(n)-8.6(like)5.4(l)-0.6(y)31.4( tha)5.4(t)-0.6( the)5.4( 107)]TJ
+7.2 0 0 7.2 534.359 211.2803 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 323.999 193.0404 Tm
+0.0008 Tc
+0.1192 Tw
+[(Cong)10.8(re)4.8(ss will a)4.8(ddre)4.8(ss e)4.8(ithe)4.8(r)3.8( me)4.8(a)4.8(s)-0.2(ure.)-9.2( )-10( )-10(I)13.8(t)-1.2( is)]TJ
+T*
+-0.0006 Tc
+-0.0894 Tw
+[(anticipated that additional proposals )-10(for a dual)]TJ
+0 -1.12 TD
+0.5107 Tw
+[(state/federal reg)9.3(u)-0.7(lat)-12.7(o)-10.7(ry)29.3( sy)29.3(stem, including)]TJ
+0 -1.13 TD
+0.0293 Tc
+0.7507 Tw
+[(a)13.3(d)9.3(d)9.3(i)7.3(t)7.3(i)7.3(o)9.3(n)9.3(a)13.3(l)7.3( )10(optional federal cha)13.3(r)12.3(t)7.3(e)13.3(r)12.3(i)7.3(n)9.3(g)]TJ
+0 -1.12 TD
+0.0006 Tc
+0.0294 Tw
+[(pro)-9.4(p)-9.4(o)0.6(sa)4.6(ls, will g)10.6(a)4.6(rne)4.6(r)3.6( more)4.6( c)4.6(onside)4.6(r)3.6(a)4.6(tion by)]TJ
+0 -1.13 TD
+-0.0009 Tc
+0.0009 Tw
+(the 108)Tj
+7.2 0 0 7.2 359.639 130.2803 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 365.279 125.4803 Tm
+-0.0001 Tc
+0.0001 Tw
+[( Cong)9.9(ress.)]TJ
+ET
+endstream
+endobj
+
+30 0 obj
+11421
+endobj
+
+%% Original object ID: 27 0
+31 0 obj
+<<
+  /ColorSpace <<
+    /Cs10 64 0 R
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F3 60 0 R
+    /F4 62 0 R
+    /TT1 61 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+    /ImageC
+    /ImageI
+  ]
+  /XObject <<
+    /Im1 65 0 R
+  >>
+>>
+endobj
+
+%% Contents for page 4
+%% Original object ID: 28 0
+32 0 obj
+<<
+  /Length 33 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10106)-28870.5(08-28-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(1)]TJ
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 706.0403 Tm
+0 Tc
+(M)Tj
+12.72 0 0 12.72 105.119 706.0403 Tm
+0.0042 Tc
+[(O)7(ST )]TJ
+15.96 0 0 15.96 138.359 706.0403 Tm
+0 Tc
+(R)Tj
+12.72 0 0 12.72 150.719 706.0403 Tm
+0.0042 Tc
+[(EC)8.4(EN)7(T )]TJ
+15.96 0 0 15.96 203.039 706.0403 Tm
+0 Tc
+(D)Tj
+12.72 0 0 12.72 215.399 706.0403 Tm
+0.0032 Tc
+[(EV)7.4(ELO)6(P)-1(MEN)6(T)-1(S)]TJ
+/F5 1 Tf
+12 0 0 12 113.9991 677.0003 Tm
+-0.0009 Tc
+0.1809 Tw
+[(During June 2002, the House Subcommittee )]TJ
+18.97 0 TD
+-0.0001 Tc
+0.1801 Tw
+[(on Capital Markets)-11.1(,)-10.1( )-10(I)-7.1(n)-0.1(surance, and)]TJ
+-20.97 -1.13 TD
+-0.0004 Tc
+0.0904 Tw
+[(G)-8.4(o)-10.4(vernment Sponsored Enterprises of the )]TJ
+17.48 0 TD
+0.0903 Tw
+[(Committee on Financial Services, chaired)-10.3( )-10(b)-10.3(y)]TJ
+-17.48 -1.12 TD
+-0.0006 Tc
+-0.0994 Tw
+[(Representative Richard B)10.4(a)9.4(k)13.4(e)13.4(r)8.4(,  held a series )]TJ
+17.33 0 TD
+-0.0003 Tc
+-0.0997 Tw
+[(of three hearings on \223Insurance Regulation and)]TJ
+-17.33 -1.13 TD
+0.0008 Tc
+-0.1008 Tw
+[(Compe)4.8(tition for the)4.8( 21)]TJ
+7.2 0 0 7.2 195.479 641.2404 Tm
+-0.0057 Tc
+0 Tw
+(st)Tj
+12 0 0 12 200.2791 636.4403 Tm
+-0.01 Tc
+-0.09 Tw
+[( C)-13(e)-6(n)-10(t)-12(u)-10(r)-11(y)-6(.)-10<94>-14(  T)-14(h)-10(e)-6( J)-6(u)-10(n)-10(e)-6( 2002 h)-10(e)-6(a)-10(r)-11(i)-12(n)-10(g)-10(s)-11( f)-12(o)-10(l)-12(l)-12(o)-10(w)-13(e)-6(d)-10( t)-12(h)-10(r)-11(e)-6(e)-6( p)-10(r)-11(e)-6(v)-6(i)-12(o)-10(u)-10(s)-11( h)-10(e)-6(a)-10(r)-11(i)-12(n)-10(g)-10(s)]TJ
+-9.19 -1.12 TD
+-0.0004 Tc
+0.1904 Tw
+[(in 2001 on the current structure of state )]TJ
+17.74 0 TD
+-0.0006 Tc
+0.1906 Tw
+[(insurance regulat)-12.6(i)-12.6(o)-10.6(n)-10.6(,)-0.6( and reviewed various)]TJ
+-17.74 -1.13 TD
+-0.0003 Tc
+-0.0297 Tw
+[(proposals )10(for insurance regulatory reform, incl)]TJ
+18.84 0 TD
+0.0004 Tc
+-0.0404 Tw
+[(uding optional chartering of insurers at the)]TJ
+-18.84 -1.12 TD
+0.0002 Tc
+-0.0202 Tw
+[(federal )10(level.  L)-3.8(e)4.2(gislation providing for opti)]TJ
+17.46 0 TD
+-0.0002 Tc
+-0.0298 Tw
+[(onal )-10(federal chartering has been introduced in)]TJ
+-17.46 -1.13 TD
+-0.0006 Tc
+0.0106 Tw
+[(the House \()12.4(H)1.4(.R. 3766\))12.4(, and also )10(in )10(the )10(Senate,)]TJ
+18.62 0 TD
+-0.0003 Tc
+0.0003 Tw
+( though the latter has not yet been assigned)Tj
+-18.62 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+(a number.  Representative Baker has announced t)Tj
+19.91 0 TD
+0.0001 Tc
+-0.0001 Tw
+[(hat he )10(intends )10(to unveil legislation early)]TJ
+-19.91 -1.13 TD
+-0.0004 Tc
+-0.0496 Tw
+[(in 2003 to modernize and streamline insurance re)]TJ
+19.61 0 TD
+0.0001 Tc
+-0.0601 Tw
+[(gulation. )-10( )-10(Various insurance interests are)]TJ
+-19.61 -1.12 TD
+0 Tc
+-0.1 Tw
+[(also currently wor)9(k)14(i)8(n)10(g)10( o)10(n)10( updating their own competing proposals to revamp and modernize)]TJ
+0 -1.13 TD
+-0.0002 Tc
+0.0002 Tw
+(the regulation of insurance. )Tj
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 495.2003 Tm
+0 Tc
+0 Tw
+(B)Tj
+12.72 0 0 12.72 102.3591 495.2003 Tm
+-0.0035 Tc
+0.0002 Tw
+(ACKGROUND AND )Tj
+15.96 0 0 15.96 233.159 495.2003 Tm
+0 Tc
+0 Tw
+(A)Tj
+12.72 0 0 12.72 245.519 495.2003 Tm
+-0.0035 Tc
+[(NAL)-6.3(Y)0.7(S)-7.7(I)-1.1(S)]TJ
+/F2 1 Tf
+15.96 0 0 15.96 195.359 462.2003 Tm
+-0.0003 Tc
+0.0005 Tw
+[(Present Regulatory)21.9( Structure)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 434.4803 Tm
+-0.0014 Tc
+-0.0586 Tw
+[(I)21.6(n)-1.4(surance companies comprise a major seg)8.6(m)-3.4(en)]TJ
+18.54 0 TD
+-0.0005 Tc
+-0.0595 Tw
+[(t of the U.S. financial services )-10(industry)29.5(.)]TJ
+-20.54 -1.12 TD
+0.0008 Tc
+0.0592 Tw
+[(Howe)4.8(ve)4.8(r, unlike)4.8( ba)4.8(nks a)4.8(nd othe)4.8(r fina)4.8(nc)4.8(ia)4.8(l institutions tha)4.8(t)-1.2( a)4.8(r)-6.2(e )-10(regu)-9.2(la)4.8(te)4.8(d prima)4.8(rily)30.8( a)4.8(t)-1.2( the)]TJ
+0 -1.13 TD
+-0.0015 Tc
+-0.0085 Tw
+[(federal level, insurance compan)]TJ
+12.65 0 TD
+-0.001 Tc
+-0.009 Tw
+[(ies have been reg)9(u)-1(lated )10(by)29( )10(th)]TJ
+11.5 0 TD
+-0.0012 Tc
+-0.0188 Tw
+[(e states for the past 150 y)28.8(ears.)]TJ
+-24.15 -1.12 TD
+0.0096 Tc
+0.0004 Tw
+[(T)10.6(h)9.6(e)13.6( l)7.6(e)13.6(g)19.6(a)13.6(l)7.6( b)9.6(a)13.6(s)8.6(i)7.6(s)8.6( f)12.6(o)9.6(r)12.6( i)7.6(n)9.6(s)8.6(u)9.6(r)12.6(a)13.6(n)9.6(c)13.6(e)13.6( r)12.6(e)13.6(g)19.6(u)9.6(l)7.6(a)13.6(t)7.6(i)7.6(o)9.6(n)9.6( b)9.6(y)39.6( t)7.6(h)9.6(e)13.6( s)8.6(t)7.6(a)13.6(t)7.6(e)13.6(s)8.6( g)19.6(o)9.6(e)13.6(s)8.6( b)9.6(a)13.6(ck )-10(to )-10(an )-10(1868 d)9.6(e)13.6(c)13.6(i)7.6(s)8.6(i)7.6(o)9.6(n)9.6( o)9.6(f)12.6( t)7.6(h)9.6(e)]TJ
+0 -1.13 TD
+-0.0003 Tc
+0.0203 Tw
+[(U.S. Supreme Court which held that insuran)]TJ
+17.83 0 TD
+-0.0011 Tc
+0.0211 Tw
+[(ce was not)-13.1( )-10(i)-13.1(n)-11.1(t)-13.1(e)-7.1(r)-8.1(s)-12.1(t)-13.1(a)-7.1(t)-13.1(e)-7.1( commerce, and thus not)]TJ
+-17.83 -1.12 TD
+-0.0009 Tc
+0.0709 Tw
+[(subject to reg)9.1(u)-0.9(lation by)29.1( the federal g)9.1(over)-7.9(n)]TJ
+17.3 0 TD
+[(m)-12.9(e)-6.9(n)-10.9(t)-12.9( under the Commerce Clause of the U.S.)]TJ
+-17.3 -1.13 TD
+-0.0004 Tc
+-0.0396 Tw
+[(Constitution. )-10( )-10(Courts )-10(followed )-10(that precedent for the nex)-10.4(t)-2.4( 75 y)29.6(ears.  Then, )-10(in )-10(1944, )-10(the )-10(U.S.)]TJ
+0 -1.12 TD
+-0.0005 Tc
+0.2005 Tw
+[(Supreme Court reversed its 1868 ruling)9.5( and he)-6.5(l)-12.5(d)]TJ
+20.87 0 TD
+-0.0006 Tc
+0.2006 Tw
+[( )-10(that insurance is, in fact, interstate)]TJ
+-20.87 -1.13 TD
+0.0005 Tc
+0.0995 Tw
+[(c)4.5(o)0.5(mme)4.5(rc)4.5(e)4.5(,)0.5( a)4.5(nd subject)-11.5( )-10(t)-11.5(o)-9.5( )-10(fe)4.5(de)4.5(ra)4.5(l ove)4.5(rsig)10.5(ht.  B)7.5(y)30.5( tha)4.5(t)-1.5( time)4.5(, howe)4.5(v)0.5(e)4.5(r)3.5(, the)4.5( sta)4.5(t)-1.5(e)4.5( insura)4.5(nc)4.5(e)]TJ
+0 -1.12 TD
+0.0001 Tc
+0.1399 Tw
+[(re)4.1(g)10.1(u)0.1(la)4.1(tory)30.1( struc)4.1(t)-1.9(ure)4.1( wa)4.1(s )-10(w)-7.9(e)-5.9(l)-11.9(l)-11.9( e)4.1(s)-0.9(ta)4.1(blishe)4.1(d, a)4.1(nd a)4.1( joint e)4.1(ffort le)4.1(d by)30.1( sta)4.1(t)-1.9(e)4.1( re)4.1(g)10.1(u)0.1(la)4.1(tors a)4.1(n)0.1(d)]TJ
+0 -1.13 TD
+-0.001 Tc
+0.071 Tw
+[(insurance industry)29( leaders to ov)-11(e)-7(r)-8(turn the deci)]TJ
+18.88 0 TD
+0.0002 Tc
+0.0698 Tw
+[(sion leg)10.2(i)-1.8(slatively)30.2( led to)]TJ
+9.48 0 TD
+-0.001 Tc
+0.071 Tw
+[( the passag)9(e)3( of the)]TJ
+-28.36 -1.12 TD
+-0.039 Tw
+[(McCarran-F)5(e)3(rg)9(uson Act of 1945.  That )-10(act )-10(suspe)]TJ
+19.29 0 TD
+-0.029 Tw
+[(nded federal powers to )]TJ
+9.23 0 TD
+-0.0017 Tc
+-0.0383 Tw
+[(reg)8.3(u)-1.7(late insurance,)]TJ
+-28.52 -1.13 TD
+0.0001 Tc
+0.1699 Tw
+[(subje)4.1(c)4.1(t)-1.9( to \223)4.1(e)4.1(ffe)4.1(c)4.1(tive)4.1<94>4.1( insura)4.1(nc)4.1(e)4.1( re)4.1(g)10.1(u)0.1(la)4.1(tion by)30.1( the)4.1( sta)4.1(t)-1.9(e)4.1(s)-0.9(, a)4.1(nd gra)4.1(n)0.1(te)4.1(d a)4.1( limite)4.1(d fe)4.1(de)4.1(ra)4.1(l)]TJ
+0 -1.12 TD
+-0.0005 Tc
+0.0005 Tw
+[(antitrust ex)-10.5(emption to the insurance industry)29.5(.)-0.5( )]TJ
+2 -2.25 TD
+0.0064 Tc
+0.1336 Tw
+[(A)8.4(f)9.4(te)10.4(r 1945, )]TJ
+5.17 0 TD
+0.001 Tc
+0.129 Tw
+[(the)5( jur)4(i)-1(sdic)5(tiona)5(l ste)5(w)3(a)5(r)4(dship e)5(n)1(tr)4(uste)5(d to the)5( sta)5(t)-1(e)5(s)0( unde)5(r)4( Mc)5(Ca)5(r)4(r)4(a)5(n-)]TJ
+-7.17 -1.13 TD
+-0.001 Tc
+-0.039 Tw
+[(Ferg)9(uson was reviewed by)29( Cong)9(ress )10(on )10(various)]TJ
+18.76 0 TD
+-0.0009 Tc
+-0.0491 Tw
+[( occasions.  Each time proposals )-10(were )-10(made)]TJ
+-18.76 -1.12 TD
+-0.0001 Tc
+-0.0199 Tw
+[(to tra)3.9(n)-0.1(sfe)3.9(r)2.9( insura)3.9(nc)3.9(e)3.9( re)3.9(g)9.9(u)-0.1(la)3.9(tory)29.9( a)3.9(u)-0.1(thority)29.9( ba)3.9(c)3.9(k)-0.1( to the)3.9( fe)3.9(de)3.9(ra)3.9(l g)9.9(ove)3.9(rnme)3.9(nt, the)3.9(y)29.9( we)3.9(re)3.9( me)3.9(t )10(by)]TJ
+0 -1.13 TD
+0 Tc
+0.09 Tw
+[(opposition from the states as well )-10(as)-11( )-10(f)-7(r)-7(o)-10(m a un)]TJ
+19.5 0 TD
+-0.0009 Tc
+0.0909 Tw
+[(ited insurance industry)29.1(.)-0.9(  Generally)29.1(, such)]TJ
+-19.5 -1.12 TD
+-0.001 Tc
+-0.039 Tw
+[(proposals )10(for federal oversig)9(ht spurred a series of)]TJ
+19.45 0 TD
+-0.0021 Tc
+-0.0379 Tw
+[( reg)7.9(u)-2.1(latory)27.9( reform effo)]TJ
+9 0 TD
+-0.001 Tc
+-0.039 Tw
+[(rts at the state level)]TJ
+-28.45 -1.13 TD
+-0.0006 Tc
+0.0306 Tw
+[(and by)29.4( the National Associatio)-10.6(n)-10.6( )-10(o)-10.6(f)-7.6( )-10(I)12.4(n)-10.6(suran)]TJ
+17.35 0 TD
+-0.0012 Tc
+0.0312 Tw
+[(ce C)-4.2(o)-1.2(mmissioners \(NAI)21.8(C)-4.2(\))1.8(.  S)-5.2(u)-1.2(ch efforts were)]TJ
+-17.35 -1.12 TD
+-0.0025 Tc
+-0.0675 Tw
+[(di)-4.5(rect)-4.5(ed at)-4.5( )10(correct)-4.5(i)-4.5(n)-2.5(g)7.5( )10( )10(percei)-4.5(ved )10(defi)-4.5(ci)-4.5(enci)-4.5(es )10(i)-4.5(n)-2.5( )10(st)-4.5(at)-4.5(e )10(reg)7.5(u)-2.5(l)-4.5(a)1.5(t)-4.5(i)-4.5(on  i)-4.5(n)-2.5( order t)-4.5(o)-2.5( forest)-4.5(al)-4.5(l)-4.5( a federal)]TJ
+0 -1.13 TD
+-0.0018 Tc
+0.0618 Tw
+[(reg)8.2(u)-1.8(l)-3.8(a)2.2(t)-3.8(o)-1.8(ry)28.2( t)-3.8(a)2.2(keover, and wer)-8.8(e)2.2( g)8.2(e)2.2(neral)-3.8(l)-3.8(y)28.2( accom)-3.8(p)-1.8(ani)-3.8(e)2.2(d by)28.2( pl)-3.8(edg)8.2(e)2.2(s from)-3.8( st)-3.8(at)-3.8(e reg)8.2(u)-1.8(l)-3.8(a)2.2(t)-3.8(o)-1.8(rs t)-3.8(o)]TJ
+0 -1.12 TD
+-0.0003 Tc
+0.0003 Tw
+[(work for more)3.7( uniformity)29.7( a)3.7(nd e)3.7(ffic)3.7(i)-2.3(e)3.7(n)-0.3(c)3.7(y)29.7( in the)3.7( sta)3.7(t)-2.3(e)3.7( re)3.7(g)9.7(u)-0.3(la)3.7(tory)29.7( proc)3.7(e)3.7(ss.  )]TJ
+2 -2.25 TD
+-0.0497 Tw
+[(A ma)3.7(jor )10(e)3.7(ffort to tra)3.7(n)-0.3(sfe)3.7(r)2.7( insura)3.7(nc)3.7(e)3.7( re)3.7(g)9.7(u)-0.3(la)3.7(tory)29.7( a)3.7(u)-0.3(thority)29.7( to the)3.7( fe)3.7(de)3.7(ra)3.7(l g)9.7(ove)3.7(rnme)3.7(nt wa)3.7(s)]TJ
+-2 -1.13 TD
+-0.0197 Tw
+[(undertaken in the mid 1980s, following)9.7( )-10(insolven)]TJ
+19.29 0 TD
+-0.0014 Tc
+-0.0086 Tw
+[(cies of several larg)8.6(e insurance )10(companies.)]TJ
+-19.29 -1.12 TD
+-0.0007 Tc
+0.0807 Tw
+[(Representative J)-11.7(ohn Ding)9.3(ell, who at that)]TJ
+16.66 0 TD
+-0.0005 Tc
+0.0805 Tw
+[( ti)-12.5(m)-12.5(e)-6.5( )-10(chaired the House Commerce Committee)]TJ
+ET
+endstream
+endobj
+
+33 0 obj
+9824
+endobj
+
+%% Original object ID: 29 0
+34 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F4 62 0 R
+    /F5 67 0 R
+    /TT3 63 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 5
+%% Original object ID: 30 0
+35 0 obj
+<<
+  /Length 36 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10106)-28870.5(08-28-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(2)]TJ
+-16.63 56.72 TD
+-0.0003 Tc
+-0.0897 Tw
+[(which had jurisdiction over )-10(insu)]TJ
+12.53 0 TD
+-0.0013 Tc
+-0.0787 Tw
+[(rance, questioned whether stat)]TJ
+11.84 0 TD
+0.0004 Tc
+-0.0804 Tw
+[(e)4.4( re)4.4(g)10.4(u)0.4(la)4.4(tion wa)4.4(s up )10(to )10(the)4.4( )10(ta)4.4(sk)]TJ
+-24.37 -1.13 TD
+-0.0012 Tc
+0.0112 Tw
+[(o)-11.2(f)-8.2( )-10(o)-11.2(v)-11.2(e)-7.2(r)-8.2(s)-2.2(eeing)8.8( such a larg)8.8(e and diversified i)]TJ
+17.27 0 TD
+-0.0007 Tc
+0.0107 Tw
+[(ndustry)29.3(.)-0.7(  He conducted se)]TJ
+10.35 0 TD
+-0.0011 Tc
+0.0111 Tw
+[(veral hearing)8.9(s)-2.1( on t)-13.1(h)-11.1(e)]TJ
+-27.62 -1.12 TD
+-0.0007 Tc
+0.0607 Tw
+[(state reg)9.3(u)-0.7(latory)29.3( str)-7.7(u)-10.7(c)-6.7(t)-12.7(u)-10.7(r)-7.7(e)-6.7( )-10(and also proposed le)]TJ
+18.75 0 TD
+-0.0013 Tc
+0.0613 Tw
+[(g)8.7(i)-3.3(slation that would have created a federal)]TJ
+-18.75 -1.13 TD
+-0.0987 Tw
+[(insurance )-10(reg)8.7(u)-1.3(latory)28.7( )-10(ag)8.7(ency)28.7( modeled upon th)]TJ
+17.65 0 TD
+-0.0004 Tc
+-0.0896 Tw
+[(e )10(Securities )10(and Ex)-10.4(chang)9.6(e)3.6( Commission \(SEC\).)]TJ
+-17.65 -1.12 TD
+-0.0011 Tc
+0.1211 Tw
+[(State insurance reg)8.9(u)-1.1(lators and the insura)]TJ
+16.75 0 TD
+-0.0007 Tc
+0.1207 Tw
+[(nce industry)29.3( opposed his proposal and w)-8.7(o)-10.7(r)-7.7(k)-0.7(ed)]TJ
+-16.75 -1.13 TD
+-0.0022 Tc
+0.0822 Tw
+[(t)-4.2(o)-2.2(g)7.8(e)1.8(t)-4.2(h)-2.2(er on a seri)-4.2(es)-13.2( )-10(o)-12.2(f)0.8( reform)-4.2(s at)-4.2( t)-4.2(h)-2.2(e st)-4.2(at)-4.2(e l)-4.2(e)1.8(vel)-4.2( and at)-4.2( t)-4.2(h)-2.2(e NAI)20.8(C)-5.2(,)-2.2( i)-4.2(n)-2.2(cl)-4.2(udi)-4.2(ng)7.8( a new st)-4.2(at)-4.2(e)]TJ
+0 -1.12 TD
+-0.0005 Tc
+-0.0395 Tw
+[(Accreditation Prog)9.5(ram se)]TJ
+10.11 0 TD
+-0.0008 Tc
+-0.0392 Tw
+[(tting)9.2( baseline standards for state )]TJ
+12.91 0 TD
+-0.0012 Tc
+-0.0388 Tw
+[(solvency)28.8( reg)8.8(u)-1.2(lation.  )-10(Under such)]TJ
+-23.02 -1.13 TD
+-0.0018 Tc
+-0.0082 Tw
+[(basel)-3.8(i)-3.8(n)-1.8(e )-10(st)-3.8(andards, )-10(each st)-3.8(at)-3.8(e m)-3.8(u)-1.8(st)-3.8( have ade)]TJ
+17.61 0 TD
+-0.0015 Tc
+0.0015 Tw
+[(quat)-3.5(e)2.5( )10(st)-3.5(at)-3.5(ut)-3.5(ory)28.5( and adm)-3.5(i)-3.5(n)-1.5(i)-3.5(s)-2.5(t)-3.5(r)1.5(at)-3.5(i)-3.5(v)-1.5(e aut)-3.5(hori)-3.5(t)-3.5(y)28.5( t)-3.5(o)]TJ
+-17.61 -1.12 TD
+-0.0017 Tc
+0.1617 Tw
+[(reg)8.3(u)-1.7(late an insurer\222s corporat)]TJ
+12.18 0 TD
+-0.0015 Tc
+0.1615 Tw
+[(e and financial affairs)-12.5(,)-11.5( )-10(and )]TJ
+11.68 0 TD
+-0.002 Tc
+0.162 Tw
+[(m)-4(u)-2(st)-4( al)-4(so have t)-4(h)-2(e necessary)]TJ
+-23.86 -1.13 TD
+-0.0017 Tc
+-0.0683 Tw
+[(resources )10(t)-3.7(o)-1.7( )10(carry)28.3( out)-3.7( t)-3.7(h)-1.7(at)-3.7( aut)-3.7(hori)-3.7(t)-3.7(y)28.3(.  I)21.3(n)-1.7( spi)-3.7(t)-3.7(e)2.3( of such reform)-3.7(s, )10(however, )10(anot)-3.7(her )10(breach )10(i)-3.7(n)-1.7( )10(t)-3.7(h)-1.7(e)]TJ
+0 -1.12 TD
+-0.0011 Tc
+-0.0389 Tw
+[(state reg)8.9(u)-1.1(latory)28.9( sy)28.9(stem occurred in )10(the )10(late )]TJ
+17 0 TD
+-0.0005 Tc
+-0.0495 Tw
+[(1990s, when Martin F)5.5(r)2.5(anke)]TJ
+10.88 0 TD
+0.0003 Tc
+-0.0403 Tw
+[(l slipped throug)10.3(h the)]TJ
+-27.88 -1.13 TD
+-0.0007 Tc
+-0.0893 Tw
+[(oversig)9.3(ht of several )-10(states )-10(a)]TJ
+10.68 0 TD
+-0.0013 Tc
+-0.0787 Tw
+[(nd effectively)28.7( \223looted\224 a g)8.7(r)1.7(oup of )]TJ
+13.22 0 TD
+-0.0009 Tc
+-0.0791 Tw
+(small life insurance companies)Tj
+-23.9 -1.12 TD
+-0.0006 Tc
+-0.0194 Tw
+[(of some $200 million.  Such a breach was )-10(a )-10(majo)]TJ
+19.49 0 TD
+[(r )-10(embarrassment )-10(to state reg)9.4(u)-0.6(lation, but it)]TJ
+-19.49 -1.13 TD
+-0.0004 Tc
+0.0004 Tw
+[(did not have a long)9.6(-term impact or bring)9.6( additi)]TJ
+18.74 0 TD
+-0.0014 Tc
+0.0014 Tw
+(onal calls for a federal )Tj
+9.16 0 TD
+-0.0001 Tc
+0.0001 Tw
+[(re)3.9(g)9.9(u)-0.1(la)3.9(tory)29.9( sy)29.9(ste)3.9(m)-2.1(.  )]TJ
+/F2 1 Tf
+15.96 0 0 15.96 203.759 492.3203 Tm
+-0.0008 Tc
+0.001 Tw
+(Factors Promoting Change)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 464.6003 Tm
+-0.001 Tc
+0.051 Tw
+[(I)22(n)-1( 1999, Cong)9(r)-8(e)-7(s)-12(s)-12( )-10(p)-11(a)3(ssed the Gramm-L)20(each)]TJ
+18 0 TD
+-0.0008 Tc
+0.0508 Tw
+[(-B)6.2(liley)29.2( Act \(GL)20.2(B)6.2(A \226 P.L)20.2(.)-0.8( 106-102\), an)]TJ
+-20 -1.13 TD
+-0.0007 Tc
+0.2207 Tw
+[(historic piece of leg)9.3(i)-2.7(slati)]TJ
+10.5 0 TD
+-0.0002 Tc
+0.2202 Tw
+[(on, which instituted a massive )]TJ
+13.43 0 TD
+-0.0019 Tc
+0.2319 Tw
+[(overhaul)-13.9( o)-11.9(f)-8.9( t)-13.9(h)-1.9(e )10(federal )10(laws)]TJ
+-23.93 -1.12 TD
+0.0002 Tc
+0.0298 Tw
+[(g)10.2(overning)10.2( U.S. financial institutions.  Suppor)]TJ
+18.3 0 TD
+-0.0004 Tc
+0.0304 Tw
+[(t for the measure )-10(cam)-12.4(e larg)9.6(ely)29.6( as a result of)]TJ
+-18.3 -1.13 TD
+-0.0017 Tc
+0.1117 Tw
+[(chang)8.3(e)2.3(s in market forces, frequen)-11.7(t)-13.7(l)-13.7(y)28.3( referre)]TJ
+17.97 0 TD
+-0.0016 Tc
+0.1116 Tw
+[(d to as \223converg)8.4(ence.\224  Converg)8.4(ence in the)]TJ
+-17.97 -1.12 TD
+-0.0012 Tc
+-0.0188 Tw
+[(financial )-10(services contex)-11.2(t refe)]TJ
+11.89 0 TD
+-0.0007 Tc
+-0.0093 Tw
+[(rs )10(to the breakdown of distinc)]TJ
+11.84 0 TD
+[(tions separating)9.3( different ty)29.3(pes)]TJ
+-23.73 -1.13 TD
+-0.0008 Tc
+0.1408 Tw
+[(o)-10.8(f)-7.8( financial products a)]TJ
+9.39 0 TD
+-0.0007 Tc
+0.1407 Tw
+[(nd services, as well as the provide)]TJ
+14.45 0 TD
+-0.001 Tc
+0.141 Tw
+[(rs of once discreetly)29( se)-7(p)-11(a)-7(r)-8(a)-7(t)-13(e)]TJ
+-23.84 -1.12 TD
+-0.0017 Tc
+-0.0683 Tw
+[(products.  Drivers of )-10(such )-10(converg)8.3(ence )-10(are g)8.3(e)2.3(nera)]TJ
+19.5 0 TD
+-0.001 Tc
+-0.069 Tw
+[(lly)29( considered to be such emerg)9(i)-3(ng)9( market)]TJ
+-19.5 -1.13 TD
+0.0311 Tw
+[(forces as g)8.9(l)-3.1(obaliz)-7.1(ation, new technolog)8.9(y)28.9(,)-1.1( e-co)]TJ
+18.15 0 TD
+-0.0008 Tc
+0.0308 Tw
+[(mmerce, dereg)9.2(u)-0.8(lation, ma)]TJ
+10.47 0 TD
+-0.0004 Tc
+0.0304 Tw
+[(rket liberaliz)-6.4(a)-6.4(t)-12.4(ion,)]TJ
+-28.62 -1.12 TD
+0.1304 Tw
+[(increased competition, tig)9.6(hter profit marg)9.6(ins,)]TJ
+18.59 0 TD
+0.1303 Tw
+[( and the g)9.7(r)2.7(owing)9.7( number of sophis)-11.3(t)-12.3(i)-12.3(cat)-12.3(ed)]TJ
+-18.59 -1.13 TD
+-0.001 Tc
+-0.079 Tw
+[(consumers.  The g)9(o)-1(als )-10(behind )-10(these )-10(driving)9( forces)]TJ
+19.47 0 TD
+0.0001 Tc
+-0.0801 Tw
+[(, in turn, a)4.1(ppe)4.1(a)4.1(r)3.1( to be)4.1( the)4.1( inc)4.1(r)3.1(e)4.1(a)4.1(s)-0.9(ing)10.1( e)4.1(fforts)]TJ
+-19.47 -1.12 TD
+0.0006 Tc
+0.0694 Tw
+[(of a)4.6(ll fina)4.6(nc)4.6(ia)4.6(l se)4.6(rvi)]TJ
+8.22 0 TD
+-0.0003 Tc
+0.0703 Tw
+[(ces providers to find g)9.7(r)2.7(owth, g)9.7(a)3.7(in)]TJ
+13.81 0 TD
+-0.0026 Tc
+0.0726 Tw
+[( m)-4.6(a)1.4(rket)-4.6( s)-13.6(h)-12.6(a)-8.6(r)-9.6(e)-8.6(,)-12.6( )-10(creat)-4.6(e new revenue)]TJ
+-22.03 -1.13 TD
+-0.0016 Tc
+0.1016 Tw
+[(streams, and )-10(e)-7.6(n)-1.6(ter new markets.  F)4.4(o)-1.6(r ex)-11.6(am)]TJ
+17.82 0 TD
+-0.0003 Tc
+0.1003 Tw
+[(ple, U.S. banks have looked to adjunct non-)]TJ
+-17.82 -1.12 TD
+-0.0009 Tc
+0.1109 Tw
+[(banking)9.1( products such as insurance and pens)]TJ
+18.56 0 TD
+-0.0005 Tc
+0.1105 Tw
+[(ion products to increase their pro)-10.5(f)-7.5(i)-12.5(t)-12.5(a)-6.5(bility)29.5(,)]TJ
+-18.56 -1.13 TD
+-0.0001 Tc
+-0.0499 Tw
+[(pointing)9.9( to Europe)3.9(a)3.9(n)-0.1<2093>3.9(b)-0.1(a)3.9(n)-0.1(c)3.9(a)3.9(ssure)3.9<727394>3.9( tha)3.9(t)-2.1( g)9.9(e)3.9(ne)3.9(ra)3.9(te)3.9( 20% to 30% of the)3.9(i)-2.1(r profits )-10(from )-10(the)3.9( sa)3.9(le)]TJ
+0 -1.12 TD
+-0.0008 Tc
+0.0008 Tw
+(of insurance and investment )Tj
+11.48 0 TD
+-0.0006 Tc
+0.0006 Tw
+[(products integ)9.4(r)2.4(ated into core)]TJ
+11.44 0 TD
+-0.0003 Tc
+0.0003 Tw
+[( retail banking)9.7( businesses.  )]TJ
+-20.92 -2.25 TD
+0.0003 Tc
+0.1497 Tw
+[(GL)21.3(B)7.3(A)2.3( re)4.3(pe)4.3(a)4.3(l)-1.7(e)4.3(d)0.3( fe)4.3(de)4.3(ra)4.3(l la)4.3(ws tha)4.3(t)-1.7( se)4.3(e)4.3(m)-1.7(e)4.3(d)0.3( inc)4.3(onsiste)4.3(nt with the)4.3( wa)4.3(y)30.3( )-10(t)-11.7(h)-9.7(at)-11.7( )-10(fina)4.3(nc)4.3(ia)4.3(l)]TJ
+-2 -1.13 TD
+-0.0011 Tc
+-0.0489 Tw
+[(services products were )-10(actually)]TJ
+12.32 0 TD
+[( being)9( delivered, and removed )]TJ
+12.1 0 TD
+-0.0008 Tc
+-0.0492 Tw
+[(many)29.2( barriers that kept banks)]TJ
+-24.42 -1.12 TD
+0.0003 Tc
+-0.0003 Tw
+[(or se)4.3(c)4.3(u)0.3(ritie)4.3(s firms from c)4.3(o)0.3(mpe)4.3(ting)10.3( )-10(with )-10(insura)4.3(nc)4.3(e)4.3( c)4.3(o)0.3(mpa)4.3(n)0.3(ie)4.3(s.  The)4.3( re)4.3(sult wa)4.3(s the)4.3( c)4.3(r)3.3(e)4.3(a)4.3(tion)]TJ
+0 -1.13 TD
+0.0002 Tc
+-0.0602 Tw
+[(of )10(a)4.2( ne)4.2(w c)4.2(o)0.2(mpe)4.2(titive)4.2( pa)4.2(ra)4.2(dig)10.2(m)-1.8( in whic)4.2(h insura)4.2(nc)4.2(e)4.2( c)4.2(o)0.2(mpa)4.2(n)0.2(ie)4.2(s now find the)4.2(m)-1.8(se)4.2(lve)4.2(s)-0.8( in dire)4.2(c)4.2(t)]TJ
+0 -1.12 TD
+0 Tc
+-0.1 Tw
+[(competiti)8(o)10(n)10( w)12(i)8(t)8(h)10( b)10(r)13(o)10(k)10(e)14(r)13(a)4(g)10(e)4(s, mutual funds, a)]TJ
+17.48 0 TD
+-0.0006 Tc
+-0.0994 Tw
+[(nd commercial banks.  GL)20.4(B)6.4(A)1.4( did not, however,)]TJ
+-17.48 -1.13 TD
+-0.0021 Tc
+0.0321 Tw
+[(chang)7.9(e)1.9( t)-4.1(h)-2.1(e basi)-4.1(c reg)7.9(u)-2.1(l)-4.1(a)1.9(t)-4.1(o)-2.1(ry)27.9( st)-4.1(ruct)-4.1(ure for i)-4.1(n)-2.1(su)]TJ
+18.14 0 TD
+-0.0016 Tc
+0.0316 Tw
+[(rance or other financia)]TJ
+9.08 0 TD
+0.0001 Tc
+0.0299 Tw
+[(l produ)-9.9(c)-5.9(t)-1.9(s.  I)23.1(n)0.1(stead, it)]TJ
+-27.22 -1.12 TD
+-0.0013 Tc
+0.1713 Tw
+[(specifically)28.7( reaffirmed the 1945 McCarran-F)4.7(e)]TJ
+19.03 0 TD
+-0.0007 Tc
+0.1707 Tw
+[(rg)9.3(uson)-10.7( )-10(A)-8.7(c)-6.7(t which had g)9.3(r)2.3(anted insurance)]TJ
+-19.03 -1.13 TD
+-0.0023 Tc
+0.1623 Tw
+[(reg)7.7(u)-2.3(l)-4.3(a)1.7(t)-4.3(o)-2.3(ry)27.7( aut)-4.3(h)-12.3(o)-12.3(r)-9.3(i)-14.3(t)-4.3(y)27.7( t)-4.3(o)-2.3( t)-4.3(h)-2.3(e st)-4.3(at)-4.3(es, t)-4.3(h)-2.3(ereby)27.7( r)]TJ
+17.9 0 TD
+[(ecog)7.7(n)-2.3(i)-4.3(z)-8.3(i)-4.3(n)-2.3(g)7.7( st)-4.3(at)-4.3(e i)-4.3(n)-2.3(surance reg)7.7(u)-2.3(l)-4.3(a)1.7(t)-4.3(o)-2.3(rs as t)-4.3(h)-2.3(e)]TJ
+-17.9 -1.12 TD
+-0.0009 Tc
+0.0809 Tw
+[(\223functional\224 reg)9.1(u)-0.9(lators of in)]TJ
+11.51 0 TD
+-0.0011 Tc
+0.0811 Tw
+[(surance products and those who )]TJ
+13.4 0 TD
+-0.0003 Tc
+0.0803 Tw
+[(sell them.  S)-14.3(o)-10.3(m)-12.3(e)3.7( insurance)]TJ
+-24.91 -1.13 TD
+-0.0002 Tc
+-0.0998 Tw
+[(companies believe that in this)]TJ
+11.48 0 TD
+-0.0009 Tc
+-0.0991 Tw
+[( new environment, state reg)9.1(u)-0.9(la)]TJ
+11.87 0 TD
+-0.0007 Tc
+-0.0993 Tw
+[(t)7.3(i)7.3(o)9.3(n places them at a competitive)]TJ
+-23.35 -1.12 TD
+-0.0012 Tc
+-0.0388 Tw
+[(marketplace )-10(disadvantag)8.8(e.  They)28.8( maintain that)]TJ
+18.4 0 TD
+-0.0009 Tc
+-0.0291 Tw
+[( )10(their )10(new non-insurer competitors in certain)]TJ
+-18.4 -1.13 TD
+-0.0012 Tc
+-0.0788 Tw
+[(lines of products have far more )]TJ
+12.21 0 TD
+-0.001 Tc
+-0.089 Tw
+[(efficient federally)29( based sy)29(stem)]TJ
+12.33 0 TD
+-0.0008 Tc
+-0.0792 Tw
+[(s )10(of )10(reg)9.2(u)-0.8(lation, while they)29.2( are)]TJ
+-24.54 -1.12 TD
+-0.0012 Tc
+0.0212 Tw
+[(subject to the perceived ineffi)]TJ
+11.94 0 TD
+-0.0009 Tc
+0.0209 Tw
+[(ciencies of state in)]TJ
+7.46 0 TD
+-0.0011 Tc
+0.0211 Tw
+[(surance reg)8.9(u)-1.1(lation, such as the reg)8.9(u)-1.1(lation)]TJ
+-19.4 -1.13 TD
+-0.0008 Tc
+-0.0192 Tw
+[(of rates and forms as well as )]TJ
+11.48 0 TD
+-0.0005 Tc
+-0.0195 Tw
+[(other )-10(delay)29.5(s)-1.5( )-10(in g)9.5(e)3.5(tting)9.5( their pr)]TJ
+11.94 0 TD
+-0.0011 Tc
+-0.0189 Tw
+[(oducts to market.  F)4.9(o)-1.1(r ex)-11.1(ample,)]TJ
+-23.42 -1.12 TD
+-0.0007 Tc
+0.0107 Tw
+[(life insurers with products a)]TJ
+11.19 0 TD
+0.0106 Tw
+[(imed at retirement and asset )]TJ
+11.5 0 TD
+-0.0009 Tc
+0.0209 Tw
+[(accumulati)-12.9(o)-10.9(n)-10.9( m)-12.9(u)-10.9(s)-11.9(t)-12.9( n)-10.9(o)-0.9(w )10(compete)]TJ
+ET
+endstream
+endobj
+
+36 0 obj
+11509
+endobj
+
+%% Original object ID: 31 0
+37 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F4 62 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 6
+%% Original object ID: 32 0
+38 0 obj
+<<
+  /Length 39 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10106)-28870.5(08-28-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(3)]TJ
+-16.63 56.72 TD
+-0.0004 Tc
+-0.0296 Tw
+[(with similar bank products; howev)]TJ
+13.76 0 TD
+-0.0007 Tc
+-0.0293 Tw
+[(er, banks can roll out such )-10(new )-10(products )-10(nationwide )-10(in )-10(a)]TJ
+-13.76 -1.13 TD
+0.0005 Tc
+-0.0205 Tw
+[(ma)4.5(tte)4.5(r of we)4.5(e)4.5(k)0.5(s, while)4.5( some)4.5( insure)4.5(rs ma)4.5(inta)4.5(in tha)4.5(t)-1.5( it c)4.5(a)4.5(n)0.5( ta)4.5(ke)4.5( a)4.5(s)-0.5( long)10.5( a)4.5(s)-0.5( 2 y)30.5(e)4.5(a)4.5(r)3.5(s )10(or more)4.5( to)]TJ
+0 -1.12 TD
+-0.001 Tc
+0.001 Tw
+[(obtain all the necessary)29( state approvals fo)]TJ
+16.6 0 TD
+-0.0005 Tc
+0.0005 Tw
+(r a similar national in)Tj
+8.55 0 TD
+-0.0012 Tc
+0.0012 Tw
+(surance product launch.)Tj
+-23.15 -2.25 TD
+0.0006 Tc
+-0.0506 Tw
+[(GL)21.6(B)7.6(A)2.6( )-10(a)4.6(l)-1.4(so )-10(a)4.6(ddre)4.6(sse)4.6(d )-10(the)4.6( )-10(issue)4.6( )-10(of mode)4.6(rnizing)10.6( sta)4.6(t)-1.4(e)4.6( la)4.6(ws de)4.6(a)4.6(ling)10.6( with the)4.6( lic)4.6(e)4.6(n)0.6(sing)10.6( of)]TJ
+-2 -1.13 TD
+-0.0015 Tc
+-0.0885 Tw
+[(insurance )-10(ag)8.5(ents and brokers a)]TJ
+11.88 0 TD
+-0.0011 Tc
+-0.0789 Tw
+[(nd made provision for a federal )]TJ
+12.32 0 TD
+-0.002 Tc
+-0.078 Tw
+[(l)-4(i)-4(censi)-4(ng)8( ag)8(ency)28(, t)-4(h)-2(e Nat)-4(i)-4(onal)]TJ
+-24.2 -1.12 TD
+-0.0009 Tc
+-0.0691 Tw
+[(Association of Reg)9.1(i)-2.9(stered Ag)9.1(ents and B)6.1(r)2.1(okers)]TJ
+18.12 0 TD
+0.0002 Tc
+-0.0702 Tw
+[( \(NARAB)7.2(\), whic)4.2(h would )-10(c)4.2(o)0.2(me)4.2( )-10(into e)4.2(x)-9.8(iste)4.2(nc)4.2(e)]TJ
+-18.12 -1.13 TD
+-0.0202 Tw
+[(only)30.2( if the)4.2( sta)4.2(t)-1.8(e)4.2(s)-0.8( fa)4.2(ile)4.2(d to e)4.2(n)0.2(a)4.2(c)4.2(t)-1.8( the)4.2( ne)4.2(c)4.2(e)4.2(ssa)4.2(ry)30.2( le)4.2(g)10.2(i)-1.8(sla)4.2(tion for sta)4.2(t)-1.8(e)4.2( uniformity)30.2( or re)4.2(c)4.2(i)-1.8(proc)4.2(ity)30.2(.)]TJ
+/F2 1 Tf
+15.96 0 0 15.96 202.5591 559.7603 Tm
+-0.0005 Tc
+0.0007 Tw
+[(State Regulatory)21.7( Response)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 532.0403 Tm
+-0.0001 Tc
+-0.0599 Tw
+[(F)5.9(o)-0.1(llowing)9.9( )-10(the)3.9( pa)3.9(ssa)3.9(g)9.9(e)3.9( of GL)20.9(B)6.9(A)1.9(, sta)3.9(t)-2.1(e)3.9( insura)3.9(nc)3.9(e)3.9( re)3.9(g)9.9(u)-0.1(la)3.9(tors working)9.9( )-10(throug)9.9(h )-10(the)3.9( )-10(NAI)22.9(C)]TJ
+-2 -1.12 TD
+-0.0008 Tc
+0.1908 Tw
+[(embarked on an ambitious reg)9.2(u)-0.8(lat)-12.8(o)-10.8(r)-7.8(y)19.2( )-10(m)-12.8(o)-10.8(d)-10.8(e)]TJ
+18.38 0 TD
+-0.0003 Tc
+0.1903 Tw
+[(rniz)-6.3(ation prog)9.7(ram in response to both the)]TJ
+-18.38 -1.13 TD
+0.0008 Tc
+0.2192 Tw
+[(mounting)10.8( c)4.8(r)3.8(itic)4.8(isms of sta)4.8(t)-1.2(e)4.8( insuran)-9.2(c)4.8(e)4.8( re)4.8(g)10.8(u)0.8(la)4.8(tion a)4.8(nd the)4.8( re)4.8(c)4.8(o)0.8(g)10.8(n)0.8(ition of the)4.8( g)10.8(r)3.8(owing)]TJ
+0 -1.12 TD
+-0.0016 Tc
+0.0916 Tw
+[(converg)8.4(ence of financial services a)-7.6(n)-11.6(d)-11.6( )-10(f)-8.6(i)-13.6(n)-11.6(a)]TJ
+17.32 0 TD
+-0.0007 Tc
+0.0907 Tw
+[(n)-10.7(c)-6.7(ial services products.  I)22.3(n)-0.7( early)29.3( 2000, NAI)22.3(C)]TJ
+-17.32 -1.13 TD
+-0.0015 Tc
+0.0115 Tw
+[(m)-3.5(e)2.5(m)-3.5(b)-1.5(ers si)-3.5(g)8.5(n)-1.5(ed a )]TJ
+/F5 1 Tf
+7.48 0 TD
+-0.0004 Tc
+0.0104 Tw
+[(Statement of Intent: The Futu)]TJ
+11.81 0 TD
+-0.0006 Tc
+0.0106 Tw
+[(re of Insurance Regulation)]TJ
+/F4 1 Tf
+10.77 0 TD
+0.0005 Tc
+0.0095 Tw
+[(, in whic)4.5(h the)4.5(y)]TJ
+-30.06 -1.12 TD
+0.0004 Tc
+-0.0904 Tw
+[(ple)4.4(d)0.4(g)10.4(e)4.4<642093>4.4(t)-1.6(o mode)4.4(rnize)4.4( insura)4.4(nc)4.4(e)4.4( re)4.4(g)10.4(u)0.4(la)4.4(tion to me)4.4(e)4.4(t)-1.6( the)4.4( )10(re)4.4(a)4.4(litie)4.4(s )10(of )10(the)4.4( )10(ne)4.4(w fina)4.4(nc)4.4(ia)4.4(l se)4.4(rvic)4.4(e)4.4(s)]TJ
+0 -1.13 TD
+-0.001 Tc
+-0.049 Tw
+[(marketplace\224 and \223to work )10(cooperatively)29( )10(with )10(all )]TJ
+19.56 0 TD
+[(our )10(partners \226 g)8.9(overnor)]TJ
+9.22 0 TD
+-0.0004 Tc
+-0.0496 Tw
+[(s, state leg)9.6(i)-2.4(slators,)]TJ
+-28.78 -1.12 TD
+0.0003 Tc
+-0.0903 Tw
+[(fe)4.3(de)4.3(ra)4.3(l offic)4.3(i)-1.7(a)4.3(l)-1.7(s, c)4.3(onsume)4.3(r)3.3(s, c)4.3(o)0.3(mpa)4.3(n)0.3(ie)4.3(s, a)4.3(g)10.3(e)4.3(n)0.3(ts a)4.3(nd othe)4.3(r inte)4.3(re)4.3(ste)4.3(d)0.3( )10(pa)4.3(rtie)4.3(s )10(\226 to fa)4.3(c)4.3(ilita)4.3(te)4.3( a)4.3(n)0.3(d)]TJ
+0 -1.13 TD
+-0.0018 Tc
+0.0718 Tw
+[(e)-7.8(n)-11.8(hance t)-3.8(h)-1.8(i)-3.8(s)-2.8( new and evol)-3.8(vi)-3.8(ng)8.2( m)-3.8(a)2.2(rket)-3.8( pl)-3.8(ace as we beg)8.2(i)-3.8(n t)-3.8(h)-1.8(e 21)]TJ
+7.2 0 0 7.2 403.559 428.8403 Tm
+-0.0057 Tc
+0 Tw
+(st)Tj
+12 0 0 12 408.359 424.0403 Tm
+-0.0017 Tc
+0.0717 Tw
+[( Century)28.3(.)-1.7(\224  New NAI)11.3(C)]TJ
+-26.53 -1.12 TD
+-0.0011 Tc
+0.0111 Tw
+[(W)-7.1(o)-1.1(rking)8.9( Groups were formed and charg)8.9(e)2.9(d with)]TJ
+19.22 0 TD
+-0.0009 Tc
+0.0109 Tw
+[( addressing)9.1( the various chang)9.1(e)3.1(s needed to)]TJ
+-19.22 -1.13 TD
+-0.0003 Tc
+0.0803 Tw
+[(implement those provisions of GL)20.7(B)6.7(A)1.7( requiring)9.7( )]TJ
+19.71 0 TD
+-0.0018 Tc
+0.0818 Tw
+[(re)-7.8(gu)-11.8(l)-13.8(a)-7.8(t)-3.8(o)-1.8(ry)28.2( act)-3.8(i)-3.8(on such as t)-3.8(h)-1.8(at)-3.8( needed t)-3.8(o)]TJ
+-19.71 -1.12 TD
+-0.0007 Tc
+0.1707 Tw
+[(prevent NARAB)6.3( from coming)9.3( into ex)-10.7(istence, )]TJ
+19.46 0 TD
+0.1706 Tw
+[(and also to update and moderniz)-6.6(e)-6.6( )-10(s)-11.6(t)-12.6(ate)]TJ
+-19.46 -1.13 TD
+-0.0009 Tc
+-0.0791 Tw
+[(reg)9.1(u)-0.9(lation in other way)29.1(s)-1.9( not required by)29.1( )-10(GL)20.1(B)6.1(A)]TJ
+18.35 0 TD
+-0.0006 Tc
+-0.0794 Tw
+[( )-10(but )-10(needed )-10(to deter g)9.4(r)2.4(owing)9.4( industry)29.4( support)]TJ
+-18.35 -1.12 TD
+-0.001 Tc
+0.021 Tw
+[(for federal oversig)9(ht.  The NAI)22(C\222s new g)9(r)2(oups )]TJ
+19.1 0 TD
+-0.0015 Tc
+0.0215 Tw
+[(addressed such key)28.5( is)-12.5(s)-12.5(u)-11.5(e)-7.5(s)-12.5( )-10(a)-7.5(s)-12.5( )-10(s)-12.5(t)-3.5(ate privacy)]TJ
+-19.1 -1.13 TD
+-0.0007 Tc
+-0.0293 Tw
+[(protections, reciprocity)29.3( of stat)]TJ
+11.86 0 TD
+-0.0009 Tc
+-0.0391 Tw
+[(e producer licensing)9.1( laws, )-10(promo)]TJ
+13.12 0 TD
+-0.0017 Tc
+-0.0283 Tw
+[(t)-3.7(i)-3.7(on of \223speed t)-3.7(o)-1.7( m)-3.7(a)2.3(rket)-3.7<94206f66>]TJ
+-24.98 -1.12 TD
+-0.001 Tc
+0.131 Tw
+[(new insurance products, development of stat)]TJ
+18.45 0 TD
+[(e-based uniform standards)-12( )-10(f)-8(o)-11(r)-8( policy)29( form)]TJ
+-18.45 -1.13 TD
+-0.0005 Tc
+0.0005 Tw
+[(filing)9.5(s)-1.5(, and other proposed impr)]TJ
+12.84 0 TD
+-0.0007 Tc
+0.0007 Tw
+(ovements to state rate and )Tj
+10.62 0 TD
+-0.0005 Tc
+0.0005 Tw
+[(form filing)9.5( requirements.  )]TJ
+-21.46 -2.25 TD
+-0.0009 Tc
+-0.0891 Tw
+[(According)9.1( to NAI)22.1(C, the states are )-10(now )-10(well )-10(unde)]TJ
+18.99 0 TD
+-0.0791 Tw
+[(rway)29.1( in their efforts to moderniz)-6.9(e )10(state)]TJ
+-20.99 -1.12 TD
+-0.0019 Tc
+0.0319 Tw
+[(reg)8.1(u)-1.9(l)-3.9(a)2.1(t)-3.9(i)-3.9(on i)-3.9(n)-1.9( t)-3.9(hose areas where i)-3.9(m)-3.9(p)-1.9(rovem)-3.9(e)2.1(nt)-3.9(s are needed. NAI)21.1(C)-4.9( m)-3.9(a)2.1(i)-3.9(n)-1.9(t)-3.9(a)2.1(i)-3.9(n)-1.9(s t)-3.9(h)-1.9(at)-3.9( st)-3.9(at)-3.9(es are)]TJ
+0 -1.13 TD
+0.0001 Tc
+0.0099 Tw
+[(be)4.1(tte)4.1(r positione)4.1(d tha)4.1(n)0.1( the)4.1( )10(fe)4.1(de)4.1(ra)4.1(l )10(g)10.1(ove)4.1(rnme)4.1(nt )10(to se)4.1(rve)4.1( the)4.1( inte)4.1(re)4.1(sts of Ame)4.1(r)3.1(ic)4.1(a)4.1(n)0.1( insura)4.1(nc)4.1(e)]TJ
+0 -1.12 TD
+-0.0017 Tc
+0.0117 Tw
+[(consum)-3.7(ers, em)-3.7(phasi)-3.7(z)-7.7(i)-3.7(ng)8.3( t)-3.7(h)-1.7(at)-3.7( st)-3.7(at)-3.7(e )10(reg)8.3(u)-1.7(l)-3.7(a)2.3(t)-3.7(o)-1.7(rs )10(ar)]TJ
+18.93 0 TD
+0.0006 Tc
+-0.0006 Tw
+[(e)4.6( be)4.6(tte)4.6(r a)4.6(b)0.6(le)4.6( to ma)4.6(ke)4.6( )]TJ
+8.56 0 TD
+-0.001 Tc
+0.001 Tw
+(sure that the personal)Tj
+-27.49 -1.13 TD
+-0.0006 Tc
+-0.0194 Tw
+[(interests )10(of consumers are not lost in )10(the )]TJ
+16.18 0 TD
+-0.0013 Tc
+-0.0287 Tw
+[(arena of commercial comp)]TJ
+10.57 0 TD
+0.0005 Tc
+-0.0305 Tw
+[(etition.  To support this)]TJ
+-26.75 -1.12 TD
+0 Tc
+0.12 Tw
+[(p)-10(o)-10(s)-11(i)-12(t)-12(i)-2(on, the NAI)23(C points out that during)10( 2000, )]TJ
+20.21 0 TD
+-0.0007 Tc
+0.1207 Tw
+[(a total of some 12,500 state insurance)]TJ
+-20.21 -1.13 TD
+0.0207 Tw
+[(reg)9.3(u)-0.7(latory)29.3( personnel were employ)29.3(ed by)19.3( )-10(t)-12.7(h)-10.7(e )]TJ
+17.65 0 TD
+0.0001 Tc
+0.0199 Tw
+[(s)-10.9(t)-11.9(at)-11.9(es)-10.9( )-10(at a cost of $880 million, and the states)]TJ
+-17.65 -1.12 TD
+0 Tc
+0.16 Tw
+[(handled approx)-10(imately)30( 4.5 million )]TJ
+14.7 0 TD
+-0.0005 Tc
+0.1605 Tw
+[(consumer inquiries and complaints reg)9.5(a)3.5(rding)9.5(  their)]TJ
+-14.7 -1.13 TD
+0.0003 Tc
+-0.0003 Tw
+[(polic)4.3(ie)4.3(s a)4.3(nd the)4.3(i)-1.7(r tre)4.3(a)4.3(tme)4.3(nt )10(by)30.3( insura)4.3(nc)4.3(e)4.3( c)4.3(o)0.3(mpa)4.3(n)0.3(ie)4.3(s a)4.3(nd a)4.3(g)10.3(e)4.3(n)0.3(ts.  The)4.3( NAI)23.3(C re)4.3(ports tha)4.3(t)-1.7( a)4.3(s)]TJ
+0 -1.12 TD
+-0.0007 Tc
+0.2707 Tw
+[(to GL)20.3(B)6.3(A)1.3(\222s NARAB)6.3( provision)-10.7( )-10(on producer )]TJ
+19.14 0 TD
+-0.0017 Tc
+0.2717 Tw
+[(l)-3.7(i)-3.7(censi)-3.7(ng)8.3( reform)-3.7(, 46 st)-3.7(at)-3.7(es had enact)-3.7(ed)]TJ
+-19.14 -1.13 TD
+-0.0002 Tc
+0.1102 Tw
+[(leg)9.8(i)-2.2(slation )10(as o)-10.2(f)-7.2( J)-21.2(u)-10.2(n)-10.2(e)-6.2( 2002, )10(and )10(subsequently)]TJ
+18.73 0 TD
+-0.0009 Tc
+0.1009 Tw
+[( at least 35 were pr)]TJ
+8.06 0 TD
+-0.0007 Tc
+0.1007 Tw
+[(eliminarily)29.3( certified as)]TJ
+-26.79 -1.12 TD
+-0.0009 Tc
+0.0409 Tw
+[(having)9.1( full recipro)-10.9(c)-6.9(i)-12.9(t)-12.9(y)19.1( )-10( )-10<96>-10.9( )-10( )-10(far more than th)]TJ
+17.25 0 TD
+-0.0011 Tc
+0.0411 Tw
+[(e 29 states needed under GL)19.9(B)5.9(A)0.9( to prevent the)]TJ
+-17.25 -1.13 TD
+-0.0005 Tc
+-0.0995 Tw
+[(establishment of NARAB)6.5(.  Even thoug)9.5(h state re)]TJ
+18.54 0 TD
+-0.0014 Tc
+-0.0986 Tw
+[(g)8.6(u)-1.4(latory)28.6( uniformi)6.6(t)6.6(y)38.6( h)8.6(a)12.6(s)7.6( a)12.6(l)6.6(way)28.6(s)-2.4( been one g)8.6(o)-1.4(al)]TJ
+-18.54 -1.12 TD
+0.0012 Tc
+0.1888 Tw
+[(of the)5.2( NAI)24.2(C, it doe)5.2(s)-9.8( )-10(co)-8.8(n)-8.8(ced)-8.8(e )-10(t)-10.8(h)-8.8(at in vie)5.2(w)3.2( of diffe)5.2(ring)11.2( sta)5.2(t)-0.8(e)5.2( le)5.2(g)11.2(a)5.2(l sy)31.2(ste)5.2(m)-0.8(s, c)5.2(o)1.2(mple)5.2(te)]TJ
+0 -1.13 TD
+-0.0002 Tc
+-0.0198 Tw
+[(uniformity)29.8( )10(may)29.8( )10(be an illusory)29.8( g)9.8(o)-0.2(al in )10(many)29.8( )]TJ
+17.33 0 TD
+-0.0009 Tc
+-0.0291 Tw
+[(lines of insurance produc)]TJ
+9.97 0 TD
+-0.0005 Tc
+-0.0295 Tw
+[(ts, and not necessarily)]TJ
+-27.3 -1.12 TD
+0 Tc
+-0.09 Tw
+[(re)4(quire)4(d to ma)4(inta)4(in the)4( de)4(g)10(r)3(e)4(e)4( of e)4(ffe)4(c)4(tive)4( )]TJ
+16.88 0 TD
+-0.001 Tc
+-0.089 Tw
+[(state reg)9(u)-1(lation require)]TJ
+9.01 0 TD
+-0.0889 Tw
+[(d by)28.9( McCarran-F)4.9(e)2.9(rg)8.9(uson.)]TJ
+-25.89 -1.13 TD
+-0.0017 Tc
+-0.0683 Tw
+[(However, in the area of life insurance, the )]TJ
+16.43 0 TD
+-0.0005 Tc
+-0.0795 Tw
+[(NAI)22.5(C acknowledg)9.5(es that th)]TJ
+10.85 0 TD
+-0.001 Tc
+-0.079 Tw
+[(e more national )-10(nature)]TJ
+-27.28 -1.12 TD
+0.0003 Tc
+0.0697 Tw
+[(of life)4.3( insuran)-9.7(ce )-10(p)-9.7(r)-6.7(o)-9.7(duc)4.3(ts a)4.3(r)3.3(g)10.3(u)0.3(e)4.3(s)-0.7( for true)4.3( uniformity)30.3(.  As a)4.3( re)4.3(sult, the)4.3( NAI)23.3(C is c)4.3(u)0.3(rre)4.3(ntly)]TJ
+ET
+endstream
+endobj
+
+39 0 obj
+11051
+endobj
+
+%% Original object ID: 33 0
+40 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F4 62 0 R
+    /F5 67 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 7
+%% Original object ID: 34 0
+41 0 obj
+<<
+  /Length 42 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10106)-28870.5(08-28-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(4)]TJ
+-16.63 56.72 TD
+-0.0009 Tc
+-0.0291 Tw
+[(drafting)9.1( an interstate compact requiring)9.1( such)]TJ
+17.71 0 TD
+-0.001 Tc
+-0.029 Tw
+[( )-10(uniformity)29( for certain life insurance products,)]TJ
+-17.71 -1.13 TD
+0.0009 Tc
+-0.0009 Tw
+[(be)4.9(lie)4.9(ving)10.9( tha)4.9(t)-1.1( suc)4.9(h)0.9( a)4.9( c)4.9(o)0.9(mpa)4.9(c)4.9(t)-1.1( is the)4.9( be)4.9(st me)4.9(c)4.9(h)0.9(a)4.9(n)0.9(ism to a)4.9(c)4.9(h)0.9(ie)4.9(ve)4.9( it.  )]TJ
+2 -2.25 TD
+0.0002 Tc
+-0.0602 Tw
+[(Sta)4.2(t)-1.8(e)4.2( re)4.2(g)10.2(u)0.2(la)4.2(tors, in c)4.2(a)4.2(rry)30.2(ing)10.2( out the)4.2(i)-1.8(r ple)4.2(d)0.2(g)10.2(e)4.2( to mode)4.2(rnize)4.2( sta)4.2(t)-1.8(e)4.2( insura)4.2(nc)4.2(e)4.2( re)4.2(g)10.2(u)0.2(la)4.2(tion )-10(by)]TJ
+-2 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+[(instituting)9.3( the reforms needed in the )10(state )10(reg)9.3(u)]TJ
+18.52 0 TD
+-0.0005 Tc
+-0.0095 Tw
+[(latory)29.5( structure, hope to )-10(satisfy)29.5( )-10(those )-10(within)]TJ
+-18.52 -1.13 TD
+-0.0009 Tc
+-0.0891 Tw
+[(the )10(insurance industry)29.1( who feel th)]TJ
+13.07 0 TD
+-0.001 Tc
+-0.089 Tw
+[(at their needs would be better )]TJ
+11.49 0 TD
+-0.0017 Tc
+-0.0983 Tw
+[(served )-10(by)28.3( a federal reg)8.3(u)-1.7(latory)]TJ
+-24.56 -1.12 TD
+-0.0009 Tc
+0.0209 Tw
+[(structure, or by)29.1( a dual reg)9.1(u)-0.9(latory)29.1( structur)]TJ
+16.44 0 TD
+-0.0013 Tc
+0.0213 Tw
+[(e where insurance companies could choose to be)]TJ
+-16.44 -1.13 TD
+0.0002 Tc
+-0.0002 Tw
+[(re)4.2(g)10.2(u)0.2(la)4.2(te)4.2(d )-10(e)4.2(ithe)4.2(r)3.2( )-10(a)4.2(t)-1.8( the)4.2( sta)4.2(t)-1.8(e)4.2( or fe)4.2(de)4.2(ra)4.2(l le)4.2(ve)4.2(l.  One)4.2( disting)10.2(u)0.2(ishing)10.2( fe)4.2(a)4.2(t)-1.8(ure)4.2( of )-10(this )-10(la)4.2(te)4.2(st )-10(e)4.2(ffort)]TJ
+0 -1.12 TD
+0.0004 Tc
+-0.0004 Tw
+[(by)30.4( the)4.4( sta)4.4(t)-1.6(e)4.4(s)-0.6( to improve)4.4( )10(sta)4.4(t)-1.6(e)4.4( )10(insura)4.4(nc)4.4(e)4.4( )10(re)4.4(g)10.4(u)0.4(la)4.4(tion )10(a)4.4(nd ma)4.4(inta)4.4(in the)4.4(i)-1.6(r jurisdic)4.4(tion ove)4.4(r it is)]TJ
+0 -1.13 TD
+-0.0003 Tc
+0.0003 Tw
+[(that this time the insurance industry)29.7( itself is)]TJ
+17.44 0 TD
+-0.0001 Tc
+0.0001 Tw
+[( not united in its support of state reg)9.9(u)-0.1(lation.)]TJ
+-15.44 -2.25 TD
+-0.0003 Tc
+-0.0697 Tw
+[(I)22.7(n)-0.3(stead, the industry)29.7( is sharply)29.7( divided, w)]TJ
+16.21 0 TD
+-0.0001 Tc
+-0.0699 Tw
+[(ith some seg)9.9(m)-2.1(ents committed to an improved)]TJ
+-18.21 -1.12 TD
+-0.001 Tc
+-0.069 Tw
+[(state-based reg)9(u)-1(latory)29( structur)]TJ
+11.9 0 TD
+-0.0003 Tc
+-0.0697 Tw
+[(e, and )-10(others firmly)29.7( in suppor)]TJ
+11.45 0 TD
+0.0001 Tc
+-0.0701 Tw
+[(t of obtaining)10.1( from Cong)10.1(ress the)]TJ
+-23.35 -1.13 TD
+-0.0003 Tc
+0.1403 Tw
+[(option to be reg)9.7(u)-0.3(lated at th)]TJ
+11.43 0 TD
+-0.0015 Tc
+0.1415 Tw
+[(e federal level.  Three indus)]TJ
+11.83 0 TD
+-0.0014 Tc
+0.1414 Tw
+[(try)28.6( trade g)8.6(r)1.6(oups, the American)]TJ
+-23.26 -1.12 TD
+-0.0006 Tc
+0.1906 Tw
+[(Council of L)20.4(i)-2.6(fe I)22.4(n)-0.6(surers \(ACL)20.4(I)22.4(\))2.4(, the A)-8.6(m)-12.6(e)-6.6(r)-7.6(i)]TJ
+18.49 0 TD
+-0.001 Tc
+0.191 Tw
+[(c)-7(a)-7(n)-11( )-10(I)22(n)-1(surance Association \(AI)22(A)1(\), and the)]TJ
+-18.49 -1.13 TD
+-0.0018 Tc
+-0.0282 Tw
+[(American B)5.2(a)2.2(nkers I)21.2(n)-1.8(surance A)]TJ
+12.42 0 TD
+-0.0013 Tc
+-0.0287 Tw
+[(ssociation \(AB)5.7(I)21.7(A\), have releas)]TJ
+12.18 0 TD
+-0.0008 Tc
+-0.0292 Tw
+[(ed )10(draft leg)9.2(i)-2.8(slative proposals)]TJ
+-24.6 -1.12 TD
+-0.001 Tc
+0.121 Tw
+[(for the creation of an optiona)]TJ
+12.21 0 TD
+-0.0013 Tc
+0.1213 Tw
+[(l federal charter)-8.3( for insuran)]TJ
+11.39 0 TD
+-0.001 Tc
+0.121 Tw
+[(ce companies.  Other industry)]TJ
+-23.6 -1.13 TD
+-0.0008 Tc
+0.1308 Tw
+[(g)9.2(r)2.2(oups, including)9.2( the Alliance of American )]TJ
+18.37 0 TD
+-0.0001 Tc
+0.1301 Tw
+[(I)22.9(n)-0.1(surers \(AI)22.9(I)22.9(\))2.9(, t)-12.1(h)-10.1(e )-10(N)-8.1(a)-6.1(t)-12.1(i)-12.1(onal Association of)]TJ
+-18.37 -1.12 TD
+-0.0012 Tc
+-0.0488 Tw
+[(I)21.8(ndependent I)21.8(n)-1.2(surers \(NAI)21.8(I)21.8(\))1.8(, )]TJ
+11.67 0 TD
+0.0004 Tc
+-0.0404 Tw
+[(a)4.4(nd )10(the)4.4( )10(Na)4.4(tiona)4.4(l Assoc)4.4(i)-1.6(a)4.4(tion of Mutua)4.4(l)-1.6( I)23.4(n)0.4(sura)4.4(nc)4.4(e)4.4( )10(Compa)4.4(n)0.4(ie)4.4(s)]TJ
+-11.67 -1.13 TD
+-0.0014 Tc
+0.1414 Tw
+[(\(NAMI)21.6(C)-4.4(\), are opposed to any)18.6( )-10(federal leg)8.6(i)-3.4(sla)]TJ
+18.67 0 TD
+-0.0012 Tc
+0.1412 Tw
+[(tion, preferring)8.8( that the needed reg)8.8(u)-1.2(latory)]TJ
+-18.67 -1.12 TD
+-0.0005 Tc
+0.0005 Tw
+[(improvements be made by)29.5( the states.    )]TJ
+/F2 1 Tf
+15.96 0 0 15.96 210.359 397.7603 Tm
+0.0007 Tw
+(Congressional Response)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 370.0403 Tm
+-0.0013 Tc
+0.0313 Tw
+[(I)21.7(n)-1.3( )-10(t)-13.3(h)-11.3(e)-7.3( )-10(w)-9.3(a)-7.3(k)-11.3(e)-7.3( of the passag)8.7(e)2.7( of GL)19.7(B)5.7(A)0.7(, the )]TJ
+16.87 0 TD
+-0.0015 Tc
+0.0315 Tw
+[(U.S)-5.5(.)-1.5( House of R)-4.5(e)2.5(present)-3.5(a)2.5(t)-3.5(i)-3.5(v)-1.5(es i)-3.5(n)-1.5( t)-3.5(h)-1.5(e 107)]TJ
+7.2 0 0 7.2 516.359 374.8403 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 89.9991 356.6003 Tm
+-0.0004 Tc
+0.1004 Tw
+[(Cong)9.6(ress reorg)9.6(a)3.6(nized its committee structure to)]TJ
+19.6 0 TD
+-0.0012 Tc
+0.1012 Tw
+[( reflect the convergen)-11.2(ce in the financial)]TJ
+-19.6 -1.13 TD
+0 Tc
+-0.09 Tw
+[(se)4(rvic)4(e)4(s)-1( a)4(r)3(e)4(n)0(a)4(.)0(  J)-11(u)0(risdic)4(tion ove)4(r most insura)4(nc)4(e)4( ma)4(tte)4(rs wa)4(s tra)4(n)0(sfe)4(rre)4(d to the)4( ne)4(wly)30( forme)4(d)]TJ
+0 -1.12 TD
+0.0006 Tc
+-0.0206 Tw
+[(F)6.6(i)-1.4(na)4.6(nc)4.6(ia)4.6(l )-10(Se)4.6(rvic)4.6(e)4.6(s)-0.4( )-10(Committe)4.6(e)4.6(,)0.6( )-10(whic)4.6(h )-10(inc)4.6(o)0.6(rpora)4.6(t)-1.4(e)4.6(d)0.6( )-10(in its Ove)4.6(r)3.6(sig)10.6(h)0.6(t Pla)4.6(n)0.6( or a)4.6(g)10.6(e)4.6(nda)4.6(, se)4.6(ve)4.6(ra)4.6(l)]TJ
+0 -1.13 TD
+-0.0008 Tc
+0.0008 Tw
+(insurance-related issues th)Tj
+10.53 0 TD
+0.0001 Tc
+-0.0001 Tw
+[(at it intended to look into, including)10.1( the following)10.1(:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 289.0403 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 289.0403 Tm
+-0.0014 Tc
+0.3914 Tw
+[(I)21.6(n)-1.4(surance Marketing)8.6(:)-3.4( \223...ex)-11.4(a)2.6(mine )]TJ
+14.78 0 TD
+-0.0011 Tc
+0.3911 Tw
+[(a number of consumer protection)]TJ
+-14.78 -1.12 TD
+-0.0003 Tc
+0.2803 Tw
+[(issues...including)9.7( the churning)9.7( of )]TJ
+14.62 0 TD
+-0.0011 Tc
+0.2811 Tw
+[(life insurance, sal)-13.1(e)-7.1(s)-12.1( and marketing)]TJ
+-14.62 -1.13 TD
+0.0055 Tc
+0.0345 Tw
+[(r)8.5(e)9.5(pr)8.5(e)9.5(s)4.5(e)9.5(n)5.5(ta)9.5(t)-6.5(i)-6.5(on, c)9.5(o)5.5(e)9.5(r)]TJ
+7.95 0 TD
+0.0006 Tc
+0.0294 Tw
+[(c)4.6(i)-1.4(on a)4.6(nd pr)3.6(e)4.6(ssur)3.6(e)4.6( ta)4.6(c)4.6(tic)4.6(s, pr)3.6(oduc)4.6(t bundling)10.6(,)0.6( e)4.6(x)-9.4(c)4.6(e)4.6(ssive)]TJ
+-7.95 -1.12 TD
+-0.002 Tc
+-0.038 Tw
+[(prem)-4(i)-4(u)-2(m)-4( charg)8(e)2(s for credi)-4(t)-4( i)-4(n)-2(surance and m)-4(o)-2(rt)-4(g)8(a)2(g)8(e)2( )-10(i)-4(n)-2(surance, )-10(and )-10(I)21(n)-2(t)-4(e)2(rnet)]TJ
+0 -1.13 TD
+-0.0009 Tc
+0.0009 Tw
+[(marketing)9.1( of insurance products.\224)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 208.0404 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 208.0404 Tm
+-0.0011 Tc
+0.3511 Tw
+[(I)21.9(n)-1.1(surance S)-5.1(o)-1.1(lvency)28.9( Reg)8.9(u)-1.1(lation: )]TJ
+14 0 TD
+[(\223...ex)-11.1(a)2.9(min)-11.1(e)-7.1( the current accreditation)]TJ
+-14 -1.12 TD
+-0.0023 Tc
+-0.0477 Tw
+[(prog)7.7(ram)-4.3( )10(of )10(t)-4.3(h)-2.3(e NAI)20.7(C)-5.3( t)-4.3(h)-2.3(at)-4.3( j)-4.3(udg)7.7(es t)-4.3(h)-2.3(e adequacy)27.7( of st)-4.3(at)-4.3(e )10(i)-4.3(n)-2.3(surance )10(reg)7.7(u)-2.3(l)-4.3(a)1.7(t)-4.3(o)-2.3(ry)]TJ
+0 -1.13 TD
+0.0005 Tc
+0 Tw
+[(sy)30.5(stems.\224)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 154.0403 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 154.0403 Tm
+-0.0017 Tc
+-0.0183 Tw
+[(I)21.3(n)-1.7(surance F)4.3(r)1.3(aud: \223...ex)-11.7(a)2.3(mine the effort)]TJ
+15.38 0 TD
+-0.0005 Tc
+-0.0195 Tw
+[(s by)29.5( the States, the NAI)22.5(C, and other)]TJ
+-15.38 -1.12 TD
+-0.0004 Tc
+0.0704 Tw
+[(entities, to locate and fig)9.6(h)-0.4(t insuran)]TJ
+14.16 0 TD
+0.0703 Tw
+[(ce fraud, par)-7.3(ticularly)29.7( in implementing)]TJ
+-14.16 -1.13 TD
+-0.0014 Tc
+0.0014 Tw
+(reforms developed after the )Tj
+11.24 0 TD
+-0.0007 Tc
+0.0007 Tw
+[(Martin F)5.3(r)2.3(ankel scandal.\224)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 100.0403 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 100.0403 Tm
+-0.0004 Tc
+0.1804 Tw
+[(NARAB)6.6( I)22.6(m)-2.4(plementation: \223...determin)]TJ
+15.68 0 TD
+-0.0013 Tc
+0.1813 Tw
+[(e whether a suf)-8.3(f)-8.3(i)-3.3(cient number of)]TJ
+-15.68 -1.12 TD
+-0.0022 Tc
+0.0222 Tw
+[(S)-6.2(t)-4.2(at)-4.2(es are i)-4.2(m)-4.2(p)-2.2(l)-4.2(e)1.8(m)-4.2(e)1.8(nt)-4.2(i)-4.2(n)-2.2(g)7.8( uni)-4.2(form)-4.2( or re)-8.2(c)-8.2(i)-14.2(p)-12.2(r)-9.2(ocal)-4.2( i)-4.2(n)-2.2(surance ag)7.8(ency)27.8( l)-4.2(i)-4.2(censi)-4.2(ng)]TJ
+0 -1.13 TD
+-0.0012 Tc
+0.1812 Tw
+[(rules as required under the NARAB)5.8( T)]TJ
+16.26 0 TD
+-0.0006 Tc
+0.1806 Tw
+[(itle of)-7.6( )-10(G)-8.6(L)10.4(B)6.4(A)1.4(, and what further)]TJ
+-16.26 -1.12 TD
+0.0002 Tc
+-0.0002 Tw
+[(me)4.2(a)4.2(s)-0.8(ure)4.2(s)-0.8( a)4.2(r)3.2(e)4.2( ne)4.2(c)4.2(e)4.2(ssa)4.2(ry)30.2( to promote)4.2( uniformity)30.2( in insura)4.2(nc)4.2(e)4.2( lic)4.2(e)4.2(n)0.2(sing)10.2<2e94>]TJ
+ET
+endstream
+endobj
+
+42 0 obj
+9288
+endobj
+
+%% Original object ID: 35 0
+43 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F4 62 0 R
+    /TT5 68 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 8
+%% Original object ID: 36 0
+44 0 obj
+<<
+  /Length 45 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10106)-28870.5(08-28-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(5)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 698.7203 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 698.7203 Tm
+-0.0011 Tc
+0.0611 Tw
+[(I)21.9(n)-1.1(surance Produc)-7.1(t)-13.1( )-10(Approval: \223...review )]TJ
+16.18 0 TD
+-0.0009 Tc
+0.0609 Tw
+(the 50 State approval process for)Tj
+-16.18 -1.12 TD
+-0.001 Tc
+0.291 Tw
+[(allowing)9( n)-11(e)3(w insurance products a)]TJ
+15.02 0 TD
+0.0001 Tc
+0.2899 Tw
+[(nd forms to be admitted into the)]TJ
+-15.02 -1.13 TD
+-0.002 Tc
+0.002 Tw
+[(i)-4(n)-2(surance m)-4(a)2(rket)-4<732e94>]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 644.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 644.7203 Tm
+-0.0004 Tc
+0.5704 Tw
+[(N)-8.4(a)3.6(tional I)22.6(n)-0.4(surance Uniformity)29.6(: \223...r)]TJ
+16.03 0 TD
+-0.001 Tc
+0.571 Tw
+[(eview various alternatives f)-8(o)-11(r)]TJ
+-16.03 -1.12 TD
+0.0003 Tc
+0.0897 Tw
+[(mode)4.3(rnizing)10.3( the)4.3( re)4.3(g)10.3(u)0.3(la)4.3(tion of insu)-9.7(ran)-9.7(c)-5.7(e)4.3(,)0.3( inc)4.3(l)-1.7(uding)10.3( re)4.3(form e)4.3(fforts by)30.3( the)]TJ
+0 -1.13 TD
+0.0002 Tc
+0.3898 Tw
+[(NAI)23.2(C, de)4.2(ve)4.2(lopme)4.2(n)0.2(t of inte)4.2(rsta)4.2(te)4.2( a)4.2(nd re)4.2(g)10.2(i)-1.8(ona)4.2(l re)4.2(g)10.2(u)0.2(la)4.2(to)-9.8(ry)30.2( c)4.2(o)0.2(mpa)4.2(c)4.2(t)-1.8(s,)]TJ
+0 -1.12 TD
+0.2998 Tw
+[(fa)4.2(c)4.2(ilita)4.2(tion )-10(o)-9.8(f)-6.8( )-10(n)-9.8(a)-5.8(tionwide)4.2( sta)4.2(t)-1.8(e)4.2( \226 run insura)4.2(nc)4.2(e)4.2( re)4.2(g)10.2(u)0.2(la)4.2(tion prog)10.2(ra)4.2(ms,)]TJ
+0 -1.13 TD
+-0.0005 Tc
+0.0505 Tw
+[(proposals )-10(f)-7.5(o)-10.5(r)-7.5( an optional federal insura)]TJ
+15.95 0 TD
+-0.0016 Tc
+0.0516 Tw
+[(nce charter, and other reforms for)]TJ
+-15.95 -1.12 TD
+-0.0012 Tc
+0.0012 Tw
+[(improving)8.8( the efficiency)28.8( and eff)]TJ
+12.87 0 TD
+-0.001 Tc
+0.001 Tw
+[(ectiveness of insurance reg)9(u)-1(lation.\224)]TJ
+/F2 1 Tf
+15.96 0 0 15.96 181.439 532.7603 Tm
+-0.0006 Tc
+0.0008 Tw
+(Legislation in the 107)Tj
+9.6 0 0 9.6 343.559 539.4803 Tm
+0.0045 Tc
+0 Tw
+(th)Tj
+15.96 0 0 15.96 352.679 532.7603 Tm
+-0.0003 Tc
+0.0005 Tw
+( Congress)Tj
+14.04 0 0 14.04 89.9991 502.8803 Tm
+-0.0008 Tc
+0 Tw
+(Senate)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 475.6403 Tm
+-0.0092 Tw
+[(L)20.2(e)3.2(g)9.2(i)-2.8(slation )-10(first )-10(presented on December 20, )]TJ
+17.7 0 TD
+-0.0006 Tc
+0.0006 Tw
+[(2001, )10(by)29.4( S)-4.6(e)3.4(nator S)-4.6(c)3.4(humer to provide for)]TJ
+-19.7 -1.12 TD
+0.0001 Tc
+-0.0001 Tw
+[(a)4.1(n)0.1( optiona)4.1(l fe)4.1(de)4.1(ra)4.1(l c)4.1(h)0.1(a)4.1(r)3.1(te)4.1(r for insure)4.1(rs ha)4.1(s not be)4.1(e)4.1(n)0.1( a)4.1(ssig)10.1(n)0.1(e)4.1(d)0.1( a)4.1( )-10(numbe)4.1(r. )-10( )-10(I)23.1(t)-1.9( is e)4.1(n)0.1(title)4.1<642093>4.1(T)1.1(he)]TJ
+0 -1.13 TD
+-0.001 Tc
+-0.009 Tw
+[(National I)22(n)-1(surance Chartering)9( )]TJ
+12.28 0 TD
+-0.0007 Tc
+0.0007 Tw
+[(and Supervision Act\224 \(NI)22.3(C)-3.7(SA\),)]TJ
+12.74 0 TD
+[( and is modeled on the )10(dual)]TJ
+-25.02 -1.12 TD
+-0.0493 Tw
+[(state/federal reg)9.3(u)-0.7(lation that now )10(ex)-10.7(ists )10(for th)]TJ
+17.54 0 TD
+-0.0008 Tc
+-0.0492 Tw
+[(e banking)9.2( industry)29.2( and would enable insurance)]TJ
+-17.54 -1.13 TD
+-0.001 Tc
+-0.019 Tw
+[(companies and ag)9(encies )-10(to )-10(choos)]TJ
+13.18 0 TD
+-0.0019 Tc
+-0.0081 Tw
+[(e between state or federal reg)8.1(u)]TJ
+12.14 0 TD
+0 Tc
+-0.02 Tw
+[(lation. )-10( )-10(I)23(t)-2(  provides that the)]TJ
+-25.32 -1.12 TD
+-0.0006 Tc
+0.2006 Tw
+[(chartering)9.4(, supervision,  and reg)9.4(u)-0.6(lation  )]TJ
+17.32 0 TD
+-0.0013 Tc
+0.2013 Tw
+[(of Nat)-13.3(i)-13.3(o)-11.3(n)-11.3(a)-7.3(l)-13.3( )-10(I)21.7(n)-1.3(surance Companies\(NI)21.7(Cs\) and)]TJ
+-17.32 -1.13 TD
+-0.0021 Tc
+-0.0179 Tw
+[(Nat)-4.1(i)-4.1(onal)-4.1( I)20.9(n)-2.1(surance Ag)7.9(enci)-4.1(es \(NI)20.9(A)-0.1(s\) be )-10(adm)-4.1(i)-4.1(n)-2.1(i)-4.1(s)]TJ
+19.06 0 TD
+-0.0015 Tc
+-0.0185 Tw
+[(tered by)28.5( the federal g)]TJ
+8.35 0 TD
+-0.001 Tc
+-0.019 Tw
+[(overnment in a newly)]TJ
+-27.41 -1.12 TD
+-0.0018 Tc
+-0.0082 Tw
+[(created federal ag)8.2(ency)28.2( within the Treasury)28.2( )]TJ
+17.14 0 TD
+-0.0013 Tc
+0.0013 Tw
+[(Department.  The new ag)8.7(ency)28.7( would be known)]TJ
+-17.14 -1.13 TD
+-0.0026 Tc
+0.0126 Tw
+[(as t)-4.6(h)-2.6(e Offi)-4.6(ce of t)-4.6(h)-2.6(e Nat)-4.6(i)-4.6(onal)-4.6( I)20.4(n)-2.6(surance C)-5.6(o)]TJ
+16.92 0 TD
+-0.0005 Tc
+0.0105 Tw
+[(mmissioner \(ONI)22.5(C\), and it would)-10.5( )-10(b)-10.5(e)3.5( headed by)]TJ
+-16.92 -1.12 TD
+0.0705 Tw
+[(the National I)22.5(n)-0.5(surance Commissi)-12.5(oner, who would )]TJ
+20.75 0 TD
+-0.0013 Tc
+0.0713 Tw
+[(be appointed for a 5-y)28.7(ear term by)28.7( the)]TJ
+-20.75 -1.13 TD
+-0.0004 Tc
+-0.0896 Tw
+[(President,  subject to )10(Senate )]TJ
+11.02 0 TD
+[(confirmation.  I)22.6(n)-0.4( addition to ch)]TJ
+12.02 0 TD
+-0.0009 Tc
+-0.0891 Tw
+[(artering)9.1( new NI)22.1(Cs and approving)]TJ
+-23.04 -1.12 TD
+-0.0013 Tc
+-0.0487 Tw
+[(conversions of current )-10(state ch)]TJ
+12 0 TD
+-0.0008 Tc
+-0.0492 Tw
+[(artered insurers into NI)22.2(Cs, NI)]TJ
+11.65 0 TD
+-0.0004 Tc
+-0.0496 Tw
+[(CSA provides that the National)]TJ
+-23.65 -1.13 TD
+-0.0009 Tc
+-0.0491 Tw
+[(I)22.1(n)-0.9(surance Commissioner would have reg)9.1(u)-0.9(latory)]TJ
+18.93 0 TD
+-0.0004 Tc
+-0.0496 Tw
+[( and supervisory)29.6( )10(powers )10(that would include)]TJ
+-18.93 -1.12 TD
+0.0003 Tc
+-0.0003 Tw
+[(the)4.3( following)10.3(:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 273.2003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 273.2003 Tm
+0.0006 Tc
+0.5394 Tw
+[(Re)4.6(g)10.6(u)0.6(la)4.6(tion of a)4.6(ll line)4.6(s)-0.4( of insura)4.6(nc)4.6(e)4.6(,)0.6( inc)4.6(l)-1.4(uding)10.6( life)4.6(,)0.6( he)4.6(a)4.6(lth, a)4.6(n)0.6(d)]TJ
+0 -1.13 TD
+-0.0009 Tc
+0 Tw
+[(property)29.1(/)-2.9(casualty)29.1(;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 246.2003 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 246.2003 Tm
+-0.0006 Tc
+-0.0694 Tw
+[(Establishment of a main office in W)-6.6(a)]TJ
+14.51 0 TD
+-0.0005 Tc
+-0.0695 Tw
+[(shing)9.5(t)-2.5(on, DC, )10(and )10(six)-10.5( reg)9.5(i)-2.5(onal offices;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 232.6404 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 232.6404 Tm
+-0.0008 Tc
+0.0008 Tw
+[(I)22.2(m)-2.8(position of fees as necessary)29.2( to)]TJ
+13.45 0 TD
+-0.0013 Tc
+0.0013 Tw
+[( cover the ex)-11.3(penses of the ONI)21.7(C;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 219.2003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 219.2003 Tm
+0.0005 Tc
+-0.0005 Tw
+[(Esta)4.5(blishme)4.5(n)0.5(t of insura)4.5(nc)4.5(e)4.5( polic)4.5(y)30.5( sta)4.5(nda)4.5(rds;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 205.6404 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 205.6404 Tm
+0.0003 Tc
+0.0597 Tw
+[(Esta)4.3(blishme)4.3(n)0.3(t of )-10(c)4.3(a)4.3(p)0.3(ita)4.3(l, re)4.3(se)4.3(rve)4.3(,)0.3( a)4.3(nd a)4.3(c)4.3(c)4.3(ounting)10.3( sta)4.3(nda)4.3(rds for insura)4.3(nc)4.3(e)]TJ
+0 -1.12 TD
+0.0013 Tc
+0 Tw
+[(polic)5.3(ie)5.3(s;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 178.6404 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 178.6404 Tm
+-0.001 Tc
+0.001 Tw
+(Enforcement of financial a)Tj
+10.66 0 TD
+-0.0006 Tc
+0.0006 Tw
+(nd market conduct standards;)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 165.2003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 165.2003 Tm
+-0.0009 Tc
+0.3409 Tw
+[(Approval of any)29.1( chang)9.1(e)-6.9(s in contro)]TJ
+15.5 0 TD
+-0.0011 Tc
+0.3411 Tw
+[(l of NI)21.9(Cs, and any)28.9( merg)8.9(er and)]TJ
+-15.5 -1.13 TD
+0.0007 Tc
+-0.0007 Tw
+[(c)4.7(onsolida)4.7(tion if the)4.7( NI)23.7(C is the)4.7( surviving)10.7( e)4.7(n)0.7(tity)30.7(;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 138.2003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 138.2003 Tm
+-0.0021 Tc
+-0.0479 Tw
+[(General)-4.1( enforcem)-4.1(ent)-4.1( aut)-4.1(hori)-4.1(t)-4.1(y)27.9(, )-10(i)-4.1(n)-2.1(cl)-4.1(udi)]TJ
+15.35 0 TD
+-0.0006 Tc
+-0.0494 Tw
+[(ng)9.4( license revocation or suspension,)]TJ
+-15.35 -1.13 TD
+-0.0012 Tc
+0.0012 Tw
+(cease and desist orders, and the )Tj
+12.77 0 TD
+0.0004 Tc
+-0.0004 Tw
+(imposition of civ)Tj
+6.84 0 TD
+0 Tc
+0 Tw
+[(il money)30( penalties;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 111.2003 Tm
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 111.2003 Tm
+-0.0009 Tc
+-0.0691 Tw
+[(L)20.1(i)-2.9(censing)9.1( and reg)9.1(u)-0.9(lation of )10(NI)22.1(As )10(and )]TJ
+14.85 0 TD
+-0.001 Tc
+-0.079 Tw
+[(ag)9(ents \(producers\) who sell insurance)]TJ
+-14.85 -1.13 TD
+0.0011 Tw
+[(for NI)21.9(C)-4.1(s)-2.1(; )]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 84.2003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 84.2003 Tm
+-0.0009 Tc
+0.0009 Tw
+[(L)20.1(i)-2.9(censing)9.1( and reg)9.1(u)-0.9(lation of fede)]TJ
+12.93 0 TD
+-0.0001 Tc
+0.0001 Tw
+[(ra)3.9(lly)29.9( qua)3.9(lifie)3.9(d re)3.9(insure)3.9(rs; a)3.9(n)-0.1(d)]TJ
+ET
+endstream
+endobj
+
+45 0 obj
+8600
+endobj
+
+%% Original object ID: 37 0
+46 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F4 62 0 R
+    /TT5 68 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 9
+%% Original object ID: 38 0
+47 0 obj
+<<
+  /Length 48 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10106)-28870.5(08-28-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(6)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 712.2803 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 712.2803 Tm
+-0.0023 Tc
+0.2723 Tw
+[(R)-5.3(e)1.7(qui)-4.3(ri)-4.3(ng)7.7( NI)20.7(C)-5.3(s)-3.3( t)-4.3(o)-2.3( part)-4.3(i)-4.3(c)1.7(i)-4.3(p)-2.3(at)-4.3(e i)-4.3(n)-2.3<209371>-12.3(u)-12.3(a)-8.3(l)-14.3(i)-14.3(f)0.7(i)-4.3(e)1.7(d\224 st)-4.3(at)-4.3(e i)-4.3(n)-2.3(surance g)7.7(u)-2.3(arant)-4.3(y)]TJ
+0 -1.13 TD
+-0.0008 Tc
+0.1008 Tw
+[(associations and creating)9.2( )]TJ
+10.52 0 TD
+-0.0016 Tc
+0.1016 Tw
+[(a federal backup g)8.4(u)-1.6(ara)-7.6(n)-1.6(ty)]TJ
+10.59 0 TD
+-0.0006 Tc
+0.1006 Tw
+[( association to cover)]TJ
+-21.11 -1.12 TD
+-0.001 Tc
+0.001 Tw
+[(\223non-qualify)29(i)-3(ng)9(\224 states.)]TJ
+-1.2 -2.25 TD
+-0.0009 Tc
+-0.0391 Tw
+[(The broad powers g)9.1(r)2.1(anted to )10(the )10(National )]TJ
+16.56 0 TD
+-0.0004 Tc
+-0.0396 Tw
+[(I)22.6(n)-0.4(surance )10(Commissioner )10( would not include)]TJ
+-18.56 -1.13 TD
+-0.0009 Tc
+0.0509 Tw
+[(the authority)29.1( to reg)9.1(u)-0.9(late ra)]TJ
+10.75 0 TD
+[(tes or policy)29.1( forms.  Nor would the )-10(S)-14.9(c)-6.9(h)-10.9(u)-10.9(m)-2.9(er proposal ex)-10.9(empt)]TJ
+-10.75 -1.12 TD
+-0.0002 Tc
+-0.0698 Tw
+[(fe)3.8(de)3.8(ra)3.8(lly)29.8( c)3.8(h)-0.2(a)3.8(r)2.8(te)3.8(re)3.8(d NI)22.8(Cs from  a)3.8(n)-0.2(ti-trust la)3.8(ws, e)3.8(x)-10.2(c)3.8(e)3.8(p)-0.2(t for purpose)3.8(s)-1.2( )10(of )10(pre)3.8(p)-0.2(a)3.8(r)2.8(ing)9.8( )10(polic)3.8(y)29.8( forms)]TJ
+0 -1.13 TD
+-0.0006 Tc
+-0.0794 Tw
+[(and participating)9.4( in state residua)]TJ
+12.65 0 TD
+-0.0002 Tc
+-0.0798 Tw
+[(l market )10(prog)9.8(rams )10(such )10(as assig)9.8(n)-0.2(ed risk pools in automobile)]TJ
+-12.65 -1.12 TD
+-0.001 Tc
+0.001 Tw
+(insurance.   )Tj
+2 -1.13 TD
+-0.0005 Tc
+-0.0995 Tw
+[(NI)22.5(CSA provides that a NI)22.5(C )-10(could be org)9.5(a)3.5(niz)-6.5(e)]TJ
+17.71 0 TD
+-0.0018 Tc
+-0.0982 Tw
+[(d as a st)-3.8(ock, m)-3.8(u)-1.8(t)-3.8(u)-1.8(al)-3.8(, or frat)-3.8(e)2.2(rnal)-3.8( com)-3.8(p)-1.8(any)28.2(,)]TJ
+-19.71 -1.12 TD
+-0.0005 Tc
+-0.0495 Tw
+[(allows the conversion of mutual companies to )]TJ
+18.27 0 TD
+-0.0004 Tc
+-0.0496 Tw
+[(stock companies, and contains provisions for)]TJ
+-18.27 -1.13 TD
+-0.0008 Tc
+0.0608 Tw
+[(the reg)9.2(u)-0.8(lation of insurance holding)9.2( compani)-12.8(e)-6.8(s)-11.8(.)]TJ
+19.07 0 TD
+-0.0009 Tc
+[( )-10( )-10(H)-8.9(o)-10.9(w)-8.9(e)-6.9(v)-10.9(e)-6.9(r, reg)9.1(a)3.1(rdless of a NI)22.1(C)-3.9<92>2.1(s form, it)]TJ
+-19.07 -1.12 TD
+-0.0008 Tc
+-0.0692 Tw
+[(would not be able to eng)9.2(a)3.2(g)9.2(e)3.2( )-10(in )-10(any)29.2( )-10(underwr)]TJ
+16.94 0 TD
+-0.0002 Tc
+-0.0598 Tw
+[(iting)9.8( activities until it received )10(a )10(license )10(from )10(the)]TJ
+-16.94 -1.13 TD
+0.0002 Tc
+-0.0302 Tw
+[(Na)4.2(tiona)4.2(l I)23.2(n)0.2(sura)4.2(nc)4.2(e)4.2( Commissione)4.2(r.  The)4.2( lic)4.2(e)4.2(n)0.2(se)4.2( would spe)4.2(c)4.2(i)-1.8(fy)30.2( the)4.2( line)4.2( or line)4.2(s)-0.8( of insura)4.2(nc)4.2(e)]TJ
+0 -1.12 TD
+-0.0007 Tc
+-0.0793 Tw
+[(the NI)22.3(C could underwrite, and )-10(no )]TJ
+13.19 0 TD
+-0.0004 Tc
+-0.0796 Tw
+[(sing)9.6(le )-10(NI)22.6(C could be licensed )]TJ
+11.37 0 TD
+[(to underwrite both life/health)]TJ
+-24.56 -1.13 TD
+-0.0012 Tc
+0.2812 Tw
+[(insurance and property)28.8(/)-3.2(casualty)28.8( insurance, )]TJ
+18.32 0 TD
+-0.0004 Tc
+0.2804 Tw
+[(althoug)9.6(h an affiliate)]TJ
+8.59 0 TD
+-0.0002 Tc
+0.2802 Tw
+[(d g)9.8(r)2.8(oup of insu)-10.2(r)-7.2(a)-6.2(nce)]TJ
+-26.91 -1.12 TD
+0.0002 Tc
+0.0298 Tw
+[(c)4.2(o)0.2(mpa)4.2(n)0.2(ie)4.2(s \(sta)4.2(te)4.2( a)4.2(nd/or fe)4.2(de)4.2(ra)4.2(lly)30.2( c)4.2(h)0.2(a)4.2(r)3.2(te)4.2(re)4.2(d\) c)4.2(o)-9.8(u)-9.8(l)-11.8(d)-9.8( )-10(h)-9.8(a)4.2(ve)4.2( se)4.2(pa)4.2(ra)4.2(te)4.2( c)4.2(o)0.2(mpa)4.2(n)0.2(ie)4.2(s writing)10.2( those)]TJ
+0 -1.13 TD
+-0.0017 Tc
+-0.0683 Tw
+[(di)-3.7(fferent)-3.7( l)-3.7(i)-3.7(n)-1.7(es of i)-3.7(n)-1.7(surance.  R)-4.7(ecei)-3.7(vershi)-3.7(p pr)]TJ
+17.34 0 TD
+-0.0013 Tc
+-0.0587 Tw
+[(ovi)-3.3(si)-3.3(ons for NI)21.7(C)-4.3(s)-2.3( are al)-3.3(so i)-3.3(n)-1.3(cl)-3.3(uded and )10(provi)-3.3(de)]TJ
+-17.34 -1.12 TD
+-0.0019 Tc
+0.1719 Tw
+[(t)-3.9(h)-1.9(at)-3.9( t)-3.9(h)-1.9(e venue for recei)-3.9(vershi)-3.9(p proceedi)-13.9(n)-11.9(gs)-12.9( )-10(woul)-3.9(d be t)-3.9(h)-1.9(e U.S)-5.9(.)-1.9( Di)-3.9(st)-3.9(ri)-3.9(ct)-3.9( C)-4.9(ourt)-3.9( t)-3.9(h)-1.9(at)-3.9( has)]TJ
+0 -1.13 TD
+0.0002 Tc
+-0.0002 Tw
+[(jurisdic)4.2(tion ove)4.2(r the)4.2( NI)23.2(C\222s ma)4.2(in offic)4.2(e)4.2(.)0.2(  )]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 426.5603 Tm
+-0.0009 Tc
+0.005 Tw
+[(House of Representativ)8.1(e)-0.5(s)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 399.3203 Tm
+-0.0006 Tc
+0.0606 Tw
+[(H.R. 3766 was introduce)-6.6(d)-10.6( )-10(o)-10.6(n)-10.6( )-10(February)29.4( 14, )]TJ
+17.76 0 TD
+[(2002, by)29.3( Representative L)20.3(a)3.3(F)5.3(a)3.3(lce, and is)]TJ
+-19.76 -1.12 TD
+-0.0193 Tw
+[(entitled \223The I)22.3(n)-0.7(surance )-10(I)22.3(ndustry)29.3( Modernizati)]TJ
+17.94 0 TD
+-0.0005 Tc
+-0.0195 Tw
+[(on and Consumer Protec)]TJ
+9.79 0 TD
+-0.0004 Tc
+[(tion Act\224 \(I)22.6(I)22.6(M)-1.4(CPA\).)]TJ
+-27.73 -1.13 TD
+-0.001 Tc
+0.101 Tw
+[(I)22(t)-3(  would also cre)-7(a)-7(t)-13(e)-7( )-10(a)-7(n)-11( )-10(o)-11(p)-11(tional federal char)]TJ
+18.66 0 TD
+[(ter for National I)22(n)-1(surers \(NI)22(s)-2(\), but not for)]TJ
+-18.66 -1.12 TD
+-0.0015 Tc
+0.0215 Tw
+[(i)-13.5(n)-11.5(s)-12.5(u)-11.5(r)-8.5(a)-7.5(nce ag)8.5(encies, brokers, or ag)8.5(ents.  L)19.5(i)]TJ
+16.9 0 TD
+-0.001 Tc
+0.021 Tw
+[(ke the Schumer proposal, it would create a ne)-7(w)]TJ
+-16.9 -1.13 TD
+-0.0015 Tc
+-0.0885 Tw
+[(federal ag)8.5(ency)28.5( within the Treasury)28.5( Department)]TJ
+18.34 0 TD
+-0.0013 Tc
+-0.0987 Tw
+[(, )-10(but the ag)8.7(ency)28.7( would be known as )-10(the )-10(Office)]TJ
+-18.34 -1.12 TD
+-0.0388 Tw
+[(of National I)21.8(n)-1.2(surers \(ONI)21.8(\) and would be )10(head)]TJ
+18.09 0 TD
+-0.0021 Tc
+-0.0479 Tw
+[(ed by)27.9( a Di)-4.1(rect)-4.1(or, rat)-4.1(h)-2.1(er t)-4.1(h)-2.1(an )-10(a )-10(C)-5.1(o)-2.1(m)-4.1(m)-4.1(i)-4.1(ssi)-4.1(oner.)]TJ
+-18.09 -1.13 TD
+-0.0001 Tc
+0.1101 Tw
+[(Althoug)9.9(h H.R.3766 is similar in some respects )]TJ
+19.73 0 TD
+-0.0006 Tc
+0.1106 Tw
+[(to the Schumer bill and the ACL)20.4(I)12.4( )-10(d)-10.6(r)2.4(aft)]TJ
+-19.73 -1.12 TD
+-0.0002 Tc
+0.0002 Tw
+[(proposal, H.R. 3766 has some sig)9.8(n)-0.2(ificant )]TJ
+16.73 0 TD
+-0.0007 Tc
+0.0007 Tw
+[(differences, including)9.3( the following)9.3(:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 277.8804 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 277.8804 Tm
+-0.0018 Tc
+0.0718 Tw
+[(T)-10.8(h)-11.8(e charter could provide for a NI)21.2( )]TJ
+14.47 0 TD
+-0.0007 Tc
+0.0707 Tw
+[(to underwrite both life insuranc)-6.7(e)-6.7( )-10(a)-6.7(n)-10.7(d)]TJ
+-14.47 -1.13 TD
+-0.0011 Tc
+0.0011 Tw
+[(property)28.9(/)-3.1(casualty)28.9( insurance;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 250.8804 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 250.8804 Tm
+-0.0014 Tc
+0.0314 Tw
+[(The )-10(D)-9.4(i)-13.4(r)-8.4(e)-7.4(ctor would have g)8.6(e)2.6(neral reg)8.6(u)]TJ
+15.38 0 TD
+-0.0005 Tc
+0.0305 Tw
+[(latory)29.5( authority)29.5( over NI)22.5(s, including)]TJ
+-15.38 -1.13 TD
+-0.0195 Tw
+[(solvency)29.5( oversig)9.5(ht and policy)29.5( forms, but)]TJ
+16.15 0 TD
+0.0002 Tc
+-0.0202 Tw
+[( )10(ra)4.2(te)4.2( )10(re)4.2(g)10.2(u)0.2(la)4.2(tion would be)4.2( le)4.2(ft with)]TJ
+-16.15 -1.12 TD
+-0.0023 Tc
+0.0023 Tw
+[(st)-4.3(at)-4.3(e i)-4.3(n)-2.3(surance reg)7.7(u)-2.3(l)-4.3(a)1.7(t)-4.3(o)-2.3(rs;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 210.3204 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 210.3204 Tm
+-0.0004 Tc
+-0.0096 Tw
+[(Even thoug)9.6(h the leg)9.6(i)-2.4(slation has no provi)]TJ
+16.08 0 TD
+-0.0008 Tc
+-0.0092 Tw
+[(sion for the )-10(licensing)9.2( of insurance)]TJ
+-16.08 -1.12 TD
+-0.0012 Tc
+0.1612 Tw
+[(producers,)-11.2( the Director would have )]TJ
+15.16 0 TD
+-0.0024 Tc
+0.1624 Tw
+[(t)-4.4(h)-2.4(e aut)-4.4(hori)-4.4(t)-4.4(y)27.6( t)-4.4(o)-2.4( enforce unfai)-4.4(r and)]TJ
+-15.16 -1.13 TD
+-0.0015 Tc
+-0.0785 Tw
+[(deceptive practices rules ag)]TJ
+10.74 0 TD
+-0.0006 Tc
+-0.0794 Tw
+[(ainst state-licensed )10(producers )10(with respect to the)]TJ
+-10.74 -1.12 TD
+-0.0009 Tc
+-0.0091 Tw
+[(sale of )10(insurance )10(products issued by)29.1( NI)]TJ
+15.56 0 TD
+-0.0002 Tc
+-0.0098 Tw
+[(s, and all states would be subject to)]TJ
+-15.56 -1.13 TD
+0.0002 Tc
+-0.0002 Tw
+[(fe)4.2(de)4.2(ra)4.2(l minimum sta)4.2(nda)4.2(rds;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 142.8804 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 142.8804 Tm
+0.0006 Tc
+0.0394 Tw
+[(NI)23.6(s would be)4.6( e)4.6(n)0.6(c)4.6(oura)4.6(g)10.6(e)4.6(d)0.6( to inve)4.6(st in the)4.6( c)4.6(o)0.6(mmunitie)4.6(s i)-11.4(n)-9.4( )-10(whic)4.6(h the)4.6(y)30.6( se)4.6(ll)]TJ
+T*
+0.0013 Tc
+0 Tw
+[(polic)5.3(ie)5.3(s;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 115.8803 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 115.8803 Tm
+-0.0007 Tc
+0.0007 Tw
+[(NI)22.3(s would be required to )]TJ
+10.2 0 TD
+0.0007 Tc
+-0.0107 Tw
+[(file)4.7( re)4.7(ports c)4.7(onta)4.7(i)-1.3(ning)10.7( c)4.7(o)0.7(mmunity)30.7( sa)4.7(le)4.7(s da)4.7(ta)4.7( )-10(tha)4.7(t)]TJ
+-10.2 -1.13 TD
+-0.001 Tc
+-0.079 Tw
+[(could be used by)29( federal )]TJ
+9.57 0 TD
+0 Tc
+-0.08 Tw
+[(re)4(g)10(u)0(la)4(tors to c)4(o)0(mba)4(t)-2( insura)4(nc)4(e)4( )10(re)4(dlining)10(,)0( )10(a)4(nd )10(c)4(ould)]TJ
+-9.57 -1.12 TD
+-0.0005 Tc
+0.0905 Tw
+[(not refuse to insure, or limit covera)]TJ
+14.6 0 TD
+-0.0002 Tc
+0.0902 Tw
+[(g)9.8(e)3.8( on, a pr)-7.2(o)-10.2(p)-10.2(e)-6.2(r)-7.2(t)-12.2(y)29.8( based solely)29.8( on its)]TJ
+-14.6 -1.13 TD
+-0.0008 Tc
+0.0008 Tw
+[(g)9.2(e)3.2(og)9.2(raphic location.)]TJ
+ET
+endstream
+endobj
+
+48 0 obj
+9601
+endobj
+
+%% Original object ID: 39 0
+49 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F4 62 0 R
+    /TT5 68 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 10
+%% Original object ID: 40 0
+50 0 obj
+<<
+  /Length 51 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10106)-28870.5(08-28-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(7)]TJ
+/F2 1 Tf
+15.96 0 0 15.96 113.1591 708.3203 Tm
+-0.0004 Tc
+0.0006 Tw
+(Congressional Hearings During the 107)Tj
+9.6 0 0 9.6 411.8391 715.0403 Tm
+0.0045 Tc
+0 Tw
+(th)Tj
+15.96 0 0 15.96 420.959 708.3203 Tm
+-0.0003 Tc
+0.0005 Tw
+( Congress)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 680.6003 Tm
+-0.0009 Tc
+-0.0091 Tw
+[(During)9.1( the 1)]TJ
+7.2 0 0 7.2 174.239 685.4003 Tm
+-0.0057 Tc
+0 Tw
+(st)Tj
+12 0 0 12 179.039 680.6003 Tm
+-0.0003 Tc
+-0.0097 Tw
+[( Session of the 107)]TJ
+7.2 0 0 7.2 269.879 685.4003 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 275.519 680.6003 Tm
+0.0007 Tc
+-0.0107 Tw
+[( Cong)10.7(re)4.7(ss, subc)4.7(ommitte)4.7(e)4.7(s)-0.3( of the)4.7( F)6.7(i)-1.3(na)4.7(nc)4.7(ia)4.7(l Se)4.7(rvic)4.7(e)4.7(s)]TJ
+-15.46 -1.13 TD
+0.0002 Tc
+-0.0302 Tw
+[(Committe)4.2(e)4.2( he)4.2(ld thre)4.2(e)4.2( he)4.2(a)4.2(r)3.2(ing)10.2(s)-0.8( to e)4.2(x)-9.8(a)4.2(mine)4.2( the)4.2( c)4.2(u)0.2(rre)4.2(nt struc)4.2(t)-1.8(ure)4.2( of insura)4.2(nc)4.2(e)4.2( re)4.2(g)10.2(u)0.2(la)4.2(tion a)4.2(n)0.2(d)]TJ
+0 -1.12 TD
+-0.0009 Tc
+0.1509 Tw
+[(assess its current inefficiencies.)-10.9( )-10( )-10(I)12.1(n)-10.9( )]TJ
+15.1 0 TD
+-0.0003 Tc
+0.1503 Tw
+[(M)-11.3(a)-6.3(y)19.7( )-10(2001, the Subcommittee on Capital Markets,)]TJ
+-15.1 -1.13 TD
+-0.0011 Tc
+-0.0489 Tw
+[(I)21.9(n)-1.1(surance, and Government Sponsored Enterpri)]TJ
+18.82 0 TD
+-0.0008 Tc
+-0.0492 Tw
+[(ses held a hearing)9.2( on )-10(state )-10(efforts )-10(to )-10(comply)]TJ
+-18.82 -1.12 TD
+0.0002 Tc
+0.1598 Tw
+[(with the)4.2( NARAB)7.2( Title)4.2( of GL)21.2(B)7.2(A)2.2(, whic)4.2(h re)4.2(quire)4.2(s a)4.2( mi)-11.8(n)-9.8(i)-11.8(m)-11.8(u)-9.8(m)-11.8( of 29 sta)4.2(t)-1.8(e)4.2(s)-0.8( to institute)]TJ
+0 -1.13 TD
+-0.0012 Tc
+-0.0388 Tw
+[(producer licensing)8.8( reciprocity)28.8( or face activati)]TJ
+17.9 0 TD
+[(on )10(of a federal licensing)8.8( ag)8.8(ency)28.8(, known as the)]TJ
+-17.9 -1.12 TD
+-0.0006 Tc
+-0.0394 Tw
+[(National Association of Reg)9.4(i)-2.6(stered Ag)9.4(ents )]TJ
+17.12 0 TD
+-0.0009 Tc
+-0.0391 Tw
+[(and B)6.1(r)2.1(okers \(NARAB)6.1(\).  I)22.1(n)-0.9( )-10(J)-11.9(une )-10(2001, )-10(the )-10(same)]TJ
+-17.12 -1.13 TD
+0.0003 Tc
+0.1897 Tw
+[(subc)4.3(ommitte)4.3(e)4.3( he)4.3(ld a)4.3( he)4.3(a)4.3(r)3.3(ing)10.3( to re)4.3(vie)4.3(w)2.3( the)4.3( sta)4.3(t)-1.7(e)4.3( re)4.3(g)10.3(u)0.3(la)4.3(tory)30.3( ap)-9.7(p)-9.7(r)-6.7(o)-9.7(v)-9.7(a)-5.7(l proc)4.3(e)4.3(ss for ne)4.3(w)]TJ
+0 -1.12 TD
+-0.0012 Tc
+0.0612 Tw
+[(i)-13.2(n)-11.2(s)-12.2(u)-11.2(r)-8.2(a)-7.2(n)-11.2(c)-7.2(e)-7.2( products, referred to as \223speed to )]TJ
+18.01 0 TD
+-0.0008 Tc
+0.0608 Tw
+[(market.\224 I)22.2(n)-0.8( Aug)9.2(u)-0.8(st 2001, a  third hearing)9.2( )-10(t)-12.8(o)]TJ
+-18.01 -1.13 TD
+-0.0016 Tc
+0.0916 Tw
+[(revi)-13.6(e)-7.6(w)-9.6( w)-9.6(h)-11.6(e)-7.6(t)-13.6(her )10(\223over-reg)8.4(u)-1.6(lation\224)]TJ
+13.68 0 TD
+-0.0009 Tc
+0.0809 Tw
+[( of automobile insurance )]TJ
+10.47 0 TD
+-0.0012 Tc
+0.0812 Tw
+[(denies consumers choice and)]TJ
+-24.15 -1.12 TD
+0.0008 Tc
+-0.0808 Tw
+[(c)4.8(o)0.8(mpe)4.8(tition wa)4.8(s he)4.8(ld by)30.8( the)4.8( Subc)4.8(ommitte)4.8(e)4.8( on Ove)4.8(r)3.8(sig)10.8(h)0.8(t )10(a)4.8(nd )10(I)23.8(nve)4.8(stig)10.8(a)4.8(tions. )10( The)4.8( c)4.8(o)0.8(mmitte)4.8(e)]TJ
+0 -1.13 TD
+-0.0007 Tc
+-0.0093 Tw
+[(had orig)9.3(inally)29.3( planned for a)]TJ
+11.01 0 TD
+-0.0004 Tc
+-0.0196 Tw
+[(dditional hearing)9.6(s)-1.4( to be held during)9.6( 2001, )-10(but )-10(those )-10(plans )-10(were)]TJ
+-11.01 -1.12 TD
+0.0004 Tw
+[(put on hold following)9.6( the events of September 11.)]TJ
+2 -2.25 TD
+-0.0009 Tc
+0.0309 Tw
+[(During)9.1( the 2)]TJ
+7.2 0 0 7.2 175.199 496.4003 Tm
+0 Tc
+0 Tw
+(nd)Tj
+12 0 0 12 182.399 491.6003 Tm
+-0.0003 Tc
+0.0303 Tw
+[( Session of the 107)]TJ
+7.2 0 0 7.2 275.159 496.4003 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 280.799 491.6003 Tm
+0.012 Tc
+0.018 Tw
+[( C)9(o)12(n)12(g)22(r)15(e)16(s)11(s)11(,)12( t)10(h)12(e)16( S)8(u)12(b)12(c)16(o)12(mmitte)16(e)16( o)12(n)12( C)9(a)16(p)12(i)10(t)10(a)16(l)10( M)11(a)16(r)15(k)12(e)16(t)10(s)11(,)]TJ
+-15.9 -1.13 TD
+-0.0007 Tc
+0.2507 Tw
+[(I)22.3(n)-0.7(surance, and Government Sponsored Ente)]TJ
+18.58 0 TD
+-0.0001 Tc
+0.2501 Tw
+[(rprises)-11.1( )-10(t)-12.1(r)-7.1(ansitioned from ex)-10.1(amining)9.9( state)]TJ
+-18.58 -1.12 TD
+0.0011 Tc
+0.0089 Tw
+[(re)5.1(g)11.1(u)1.1(la)5.1(tory)31.1( ine)5.1(ffic)5.1(i)-0.9(e)5.1(n)-8.9(ci)-10.9(es)-9.9( )-10(co)-8.9(nside)5.1(r)4.1(e)5.1(d)1.1( during)11.1( the)5.1( 1)]TJ
+7.2 0 0 7.2 323.399 469.4003 Tm
+-0.0057 Tc
+0 Tw
+(st)Tj
+12 0 0 12 328.199 464.6003 Tm
+-0.0003 Tc
+0.0103 Tw
+[(  Session to reviewing)9.7( various proposals)]TJ
+-19.85 -1.13 TD
+-0.0015 Tc
+-0.0685 Tw
+[(for )10(reform. )10( )10(I)21.5(t)-3.5( held a series of )]TJ
+11.37 0 TD
+-0.0784 Tw
+[(three hearing)8.4(s)-2.6( under the heading)8.4( of )]TJ
+/F5 1 Tf
+13.85 0 TD
+-0.0003 Tc
+-0.0797 Tw
+(\223Insurance Regulation and)Tj
+-25.22 -1.12 TD
+0.0008 Tc
+0.0092 Tw
+[(Compe)4.8(tition for the)4.8( 21)]TJ
+7.2 0 0 7.2 199.439 442.4003 Tm
+-0.0057 Tc
+0 Tw
+(st)Tj
+12 0 0 12 204.239 437.6003 Tm
+0.0003 Tc
+-0.0003 Tw
+( Century)Tj
+/F4 1 Tf
+3.47 0 TD
+-0.0007 Tc
+0.0107 Tw
+[<2e9420>10( )10(A )10(brief summary)29.3( of the hig)9.3(h)-0.7(lig)9.3(hts from those hearing)9.3(s)]TJ
+-12.99 -1.13 TD
+0 Tc
+0 Tw
+(follows. )Tj
+/F2 1 Tf
+2 -2.27 TD
+0.0022 Tc
+0.4198 Tw
+[(June 4, 2002 H)4.2(earing.)]TJ
+/F4 1 Tf
+11.53 0 TD
+-0.0023 Tc
+0.4223 Tw
+[(.  R)-5.3(e)1.7(present)-4.3(a)1.7(t)-4.3(i)-4.3(v)-2.3(e R)-5.3(i)-4.3(c)-8.3(h)-12.3(a)-8.3(r)-9.3(d)-12.3( )-10(Baker, chai)-4.3(rm)-4.3(an of t)-4.3(h)-2.3(e)]TJ
+-13.53 -1.12 TD
+0.0004 Tc
+0.0296 Tw
+[(subc)4.4(ommitte)4.4(e)4.4(,)0.4( in)-9.6(dic)4.4(a)4.4(t)-1.6(e)4.4(d)0.4( in his ope)4.4(ning)10.4( re)4.4(ma)4.4(rks tha)4.4(t)-1.6( the)4.4( he)4.4(a)4.4(r)3.4(ing)10.4(s)-0.6( we)4.4(re)4.4( to be)4.4( the)4.4( first ste)4.4(p)]TJ
+0 -1.13 TD
+-0.0001 Tc
+-0.0599 Tw
+[(towa)3.9(rd le)3.9(g)9.9(i)-2.1(sla)3.9(tive)3.9( re)3.9(c)3.9(o)-0.1(mme)3.9(nda)3.9(tions for a)3.9(c)3.9(tion )-10(on )-10(insura)3.9(nc)3.9(e)3.9( )-10(re)3.9(g)9.9(u)-0.1(la)3.9(tory)29.9( )-10(re)3.9(form.  He)3.9( sa)3.9(id tha)3.9(t)]TJ
+0 -1.12 TD
+-0.001 Tc
+-0.029 Tw
+[(it )10(is )10(clear that some sort of reg)9(u)-1(latory)29( reform)]TJ
+17.61 0 TD
+-0.0012 Tc
+-0.0288 Tw
+[( is in order because )10(insurance )10(products )10(that )10(are)]TJ
+-17.61 -1.13 TD
+-0.0022 Tc
+0.0122 Tw
+[(n)-12.2(o)-12.2(t)-14.2( )-10(l)-14.2(a)-8.2(b)-12.2(e)1.8(l)-4.2(e)1.8(d as such can ent)-4.2(e)1.8(r t)-4.2(h)-2.2(e m)-4.2(a)1.8(rket)-4.2(pl)-4.2(ace )]TJ
+18.43 0 TD
+-0.0019 Tc
+0.0119 Tw
+[(m)-3.9(o)-1.9(re freel)-3.9(y)28.1( t)-3.9(h)-1.9(an t)-3.9(hose l)-3.9(a)2.1(bel)-3.9(e)2.1(d as i)-3.9(n)-1.9(su)-11.9(r)-8.9(a)-7.9(n)-11.9(c)-7.9(e)-7.9(.)]TJ
+-18.43 -1.12 TD
+-0.0008 Tc
+-0.0092 Tw
+[(Two panels of witne)]TJ
+8.15 0 TD
+-0.0017 Tc
+0.0017 Tw
+[(sses represent)-3.7(i)-3.7(n)-1.7(g)8.3( banki)-3.7(ng)8.3( and i)-3.7(n)-1.7(surance )10(com)-3.7(p)-1.7(ani)-3.7(e)2.3(s )10(and )10(ag)8.3(ent)-3.7(s)-2.7( )10(ag)8.3(reed)]TJ
+-8.15 -1.13 TD
+-0.0002 Tc
+-0.0398 Tw
+[(tha)3.8(t)-2.2( insura)3.8(nc)3.8(e)3.8( re)3.8(g)9.8(u)-0.2(la)3.8(tion ne)3.8(e)3.8(d)-0.2(s to )-10(be)3.8( )-10(re)3.8(forme)]TJ
+17.78 0 TD
+-0.0011 Tc
+-0.0289 Tw
+[(d, but they)28.9( were divided over whether the best)]TJ
+-17.78 -1.12 TD
+-0.002 Tc
+-0.008 Tw
+[(way)28( t)-4(o)-2( accom)-4(p)-2(l)-4(i)-4(s)-3(h t)-4(h)-2(e needed reform)-4( woul)-4(d be )]TJ
+19.07 0 TD
+-0.0019 Tc
+[(t)-3.9(o)-1.9( est)-3.9(a)2.1(bl)-3.9(i)-3.9(s)-2.9(h an opt)-3.9(i)-3.9(onal)-3.9( )-10(federal)-3.9( )-10(chart)-3.9(e)2.1(r )-10(and)]TJ
+-19.07 -1.13 TD
+-0.0011 Tc
+0.1911 Tw
+[(reg)8.9(u)-1.1(latory)28.9( sy)28.9(stem, or to reform the current)]TJ
+18.06 0 TD
+0.0006 Tc
+0.1894 Tw
+[( state reg)10.6(u)0.6(latory)30.6( sy)30.6(stem.  Ch)-9.4(ai)-11.4(r)-6.4(m)-11.4(an)-9.4( )-10(Baker)]TJ
+-18.06 -1.12 TD
+-0.0019 Tc
+0.0019 Tw
+[(em)-3.9(phasi)-3.9(z)-7.9(e)2.1(d )-10(t)-3.9(h)-1.9(at)-3.9( i)-3.9(f)1.1( st)-3.9(at)-3.9(es bel)-3.9(i)-3.9(e)2.1(ve t)-3.9(h)-1.9(at)-3.9( t)-3.9(h)-1.9(ey)28.1( can adequat)-3.9(e)2.1(l)-3.9(y)28.1( reform)-3.9( t)-3.9(h)-1.9(e ex)-11.9(i)-3.9(s)-2.9(t)-3.9(i)-3.9(n)-1.9(g)8.1( )-10(st)-3.9(at)-3.9(e )-10(sy)28.1(st)-3.9(em)-3.9(,)]TJ
+0 -1.13 TD
+-0.0005 Tc
+-0.0095 Tw
+[(they)29.5( should be g)9.5(i)-2.5(ven a reasonable time limit in )]TJ
+18.82 0 TD
+-0.0007 Tc
+-0.0093 Tw
+[(which to do so before)]TJ
+8.61 0 TD
+[( Cong)9.3(ress determines)]TJ
+-27.43 -1.12 TD
+-0.0019 Tc
+0.0019 Tw
+[(t)-3.9(h)-1.9(at)-3.9( i)-3.9(t)-3.9( m)-3.9(u)-1.9(st)-3.9( act)-3.9(. He al)-3.9(so added t)-3.9(h)-1.9(at)-3.9( t)-3.9(h)-1.9(e heari)-3.9(n)]TJ
+18.03 0 TD
+-0.0008 Tc
+0.0008 Tw
+[(g)9.2(s)-1.8( would )-10(be )-10(a \223first step\224 toward his drafting)]TJ
+-18.03 -1.13 TD
+-0.0006 Tc
+-0.0094 Tw
+[(some ty)29.4(pe of proposed leg)9.4(i)-2.6(sla)]TJ
+11.85 0 TD
+-0.0005 Tc
+[(tion to reform and streamline in)]TJ
+12.63 0 TD
+-0.001 Tc
+-0.009 Tw
+[(surance reg)9(u)-1(lation that could)]TJ
+-24.48 -1.12 TD
+-0.0003 Tc
+0.0103 Tw
+[(be )10(unveiled in 2003, but that he )]TJ
+12.94 0 TD
+-0.0009 Tc
+0.0009 Tw
+[(had )-10(no preconceived ideas as to)]TJ
+12.67 0 TD
+-0.001 Tc
+0.001 Tw
+[( any)29( specific leg)9(i)-3(slation at)]TJ
+-25.61 -1.13 TD
+0.0014 Tc
+-0.0014 Tw
+[(this time)5.4(.)]TJ
+/F2 1 Tf
+2 -2.27 TD
+0.0036 Tc
+0.1884 Tw
+[(J)-10.4(une)-10.4( )-10(11, 2002 H)5.6(earing.)]TJ
+/F4 1 Tf
+11.45 0 TD
+-0.0023 Tc
+0.1923 Tw
+[(  R)-5.3(e)1.7(present)-4.3(a)1.7(t)-4.3(i)-4.3(v)-2.3(e Mi)-4.3(chael)-4.3( Ox)-12.3(l)-4.3(e)1.7(y)27.7(,)-2.3( chai)-4.3(rm)-4.3(an of t)-4.3(h)-2.3(e ful)-4.3(l)]TJ
+-13.45 -1.12 TD
+0.0002 Tc
+-0.0602 Tw
+[(c)4.2(o)0.2(mmitte)4.2(e)4.2(,)0.2( g)10.2(a)4.2(ve)4.2( )-10(a)4.2(n)0.2( )-10(ope)4.2(ning)10.2( sta)4.2(t)-1.8(e)4.2(m)-1.8(e)4.2(n)0.2(t urg)10.2(i)-1.8(ng)10.2( a)4.2<2093>4.2(g)10.2(o-slow\224)4.2( a)4.2(pproa)4.2(c)4.2(h)0.2( to the)4.2( ta)4.2(sk of re)4.2(forming)]TJ
+0 -1.13 TD
+-0.0014 Tc
+0.0014 Tw
+[(insurance reg)8.6(u)-1.4(lation, and ex)-11.4(pre)]TJ
+12.52 0 TD
+-0.0004 Tc
+0.0004 Tw
+[(ssing)9.6( his hope that the necessa)]TJ
+12.17 0 TD
+-0.0011 Tc
+0.0011 Tw
+[(ry)28.9( state-based )-10(reforms could)]TJ
+-24.69 -1.12 TD
+-0.0018 Tc
+0.0418 Tw
+[(be set)-3.8( i)-3.8(n)-1.8( pl)-3.8(ace so t)-3.8(h)-1.8(at)-3.8( no federal)-3.8( act)-3.8(i)-3.8(on woul)]TJ
+18.13 0 TD
+-0.0016 Tc
+0.0416 Tw
+[(d be necessary)28.4(.  )-10(T)-10.6(h)-11.6(e)-7.6( )-10(wi)-3.6(t)-3.6(n)-1.6(esses, represent)-3.6(i)-3.6(n)-1.6(g)]TJ
+-18.13 -1.13 TD
+-0.0007 Tc
+0.0007 Tw
+[(individual insurers and various )10(trade )10(associa)]TJ
+17.7 0 TD
+-0.0005 Tc
+-0.0095 Tw
+[(tions, ag)9.5(ain ex)-10.5(pressed differing)9.5( )-10(opinions )-10(as )-10(to)]TJ
+-17.7 -1.12 TD
+-0.0003 Tc
+0.0103 Tw
+[(whether Cong)9.7(ress should pass opti)]TJ
+13.91 0 TD
+-0.001 Tc
+0.011 Tw
+[(onal federal chartering)9( leg)9(i)-3(sl)]TJ
+11.45 0 TD
+-0.0005 Tc
+0.0005 Tw
+[(ation, )-10(or take any)29.5( action )-10(to)]TJ
+-25.36 -1.13 TD
+0.0001 Tc
+0.0399 Tw
+[(re)4.1(quire)4.1( the)4.1( sta)4.1(t)-1.9(e)4.1(s)-0.9( to ma)4.1(ke)4.1( spe)4.1(c)4.1(i)-1.9(fic)4.1( re)4.1(forms in orde)4.1(r to impro)-9.9(v)-9.9(e)-5.9( the)4.1( position of insure)4.1(rs in)]TJ
+0 -1.12 TD
+0.0006 Tc
+0.0794 Tw
+[(c)4.6(o)0.6(mpe)4.6(tition)-9.4( with othe)4.6(r fina)4.6(nc)4.6(ia)4.6(l institutions.  Subc)4.6(ommitte)4.6(e)4.6( Cha)4.6(i)-1.4(rma)4.6(n)0.6( B)7.6(a)4.6(ke)4.6(r re)4.6(pe)4.6(a)4.6(t)-1.4(e)4.6(d)0.6(ly)]TJ
+0 -1.13 TD
+0.001 Tc
+-0.021 Tw
+[(a)5(tte)5(mpte)5(d )10(to g)11(e)5(t witne)5(sse)5(s to re)5(c)5(o)1(mme)5(nd a)5<2093>]TJ
+17.73 0 TD
+0.0005 Tc
+-0.0205 Tw
+[(time)4.5(-line)4.5<94>4.5( during)10.5( whic)4.5(h the)4.5( sta)4.5(t)-1.5(e)4.5(s)-0.5( )10(would )10(ha)4.5(ve)]TJ
+ET
+endstream
+endobj
+
+51 0 obj
+11639
+endobj
+
+%% Original object ID: 41 0
+52 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F4 62 0 R
+    /F5 67 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 11
+%% Original object ID: 42 0
+53 0 obj
+<<
+  /Length 54 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10106)-28870.5(08-28-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(8)]TJ
+-16.63 56.72 TD
+-0.0021 Tc
+-0.0279 Tw
+[(t)-4.1(o)-2.1( m)-4.1(a)1.9(ke t)-4.1(h)-2.1(e reform)-4.1(s necessary)27.9( t)-4.1(o)-2.1( obt)-4.1(ai)-4.1(n t)-4.1(h)-2.1(e g)7.9(o)-2.1(al)-4.1( of )-10(m)-4.1(oderni)-4.1(z)-8.1(i)-4.1(n)-2.1(g)7.9( )-10(st)-4.1(at)-4.1(e )-10(reg)7.9(u)-2.1(l)-4.1(a)1.9(t)-4.1(i)-4.1(on )-10(and )-10(creat)-4.1(e)]TJ
+0 -1.13 TD
+0.002 Tw
+[(a m)-4(o)-2(re l)-4(e)2(vel)-4( pl)-4(ay)28(i)-4(n)-2(g)8( fi)-4(el)-4(d for i)-4(n)-2(surers i)-4(n)-2( t)-4(h)-2(e fi)-4(nanci)-4(a)2(l)-4( servi)-4(ces m)-4(a)2(rket)-4(pl)-4(ace.   )]TJ
+/F2 1 Tf
+2 -2.27 TD
+0.0023 Tc
+0.2597 Tw
+[(June 18, 2002 H)4.3(earing.)]TJ
+/F4 1 Tf
+11.61 0 TD
+-0.0023 Tc
+0.2623 Tw
+[(  Mos)-13.3(t)-14.3( )-10(o)-12.3(f)-9.3( )-10(t)-14.3(h)-12.3(e)-8.3( )-10(w)-10.3(i)-14.3(t)-4.3(n)-2.3(esses at)-4.3( t)-4.3(h)-2.3(i)-4.3(s)-3.3( heari)-4.3(n)-2.3(g)7.7( were ag)7.7(ai)-4.3(n)]TJ
+-13.61 -1.12 TD
+-0.001 Tc
+0.151 Tw
+[(representatives of )-10(i)-13(n)-11(surance industry)29( g)9(r)2(oups )]TJ
+18.62 0 TD
+-0.0004 Tc
+0.1504 Tw
+[(with definite positions for or ag)9.6(ainst dual)]TJ
+-18.62 -1.13 TD
+-0.0013 Tc
+0.0913 Tw
+[(chartering)8.7(.  However, one ag)8.7(ent g)8.7(r)1.7(oup a)]TJ
+16.57 0 TD
+-0.0006 Tc
+0.0906 Tw
+[(nnounced it was developing)9.4( a \223mi)-12.6(d)-10.6(d)-10.6(l)-12.6(e)-6.6( g)9.4(r)2.4(ound\224)]TJ
+-16.57 -1.12 TD
+0.0051 Tc
+0.0649 Tw
+[(a)9.1(pproach )-10(under w)7.1(h)5.1(ic)9.1(h th)]TJ
+10.21 0 TD
+0.0009 Tc
+0.0691 Tw
+[(e)4.9( sta)4.9(t)-1.1(e)4.9(s)-0.1( w)2.9(ould c)4.9(ontinue)4.9( to r)3.9(e)4.9(g)10.9(u)0.9(la)4.9(te)4.9( insur)3.9(a)4.9(nc)4.9(e)4.9(,)0.9( but unde)4.9(r)3.9( c)4.9(e)4.9(r)3.9(ta)4.9(in)]TJ
+-10.21 -1.13 TD
+0.0002 Tc
+-0.1002 Tw
+[(fe)4.2(de)4.2(ra)4.2(lly)30.2( ma)4.2(nda)4.2(te)4.2(d sta)4.2(nda)4.2(rds.  The)4.2( pre)4.2(s)-0.8(ide)4.2(n)0.2(t of a)4.2( sma)4.2(ll life)4.2( insura)4.2(nc)4.2(e)4.2( c)4.2(o)0.2(mpa)4.2(n)0.2(y)30.2( g)10.2(a)4.2(ve)4.2( c)4.2(onc)4.2(r)13.2(e)14.2(t)8.2(e)]TJ
+0 -1.12 TD
+-0.0018 Tc
+-0.0582 Tw
+[(ex)-11.8(am)-3.8(pl)-3.8(es )10(of )10(probl)-3.8(em)-3.8(s hi)-3.8(s com)-3.8(p)-1.8(any)28.2( has ex)-11.8(peri)-3.8(enced wi)-3.8(t)-3.8(h)-1.8( t)-3.8(h)-1.8(e current)-3.8( st)-3.8(at)-3.8(e reg)8.2(u)-1.8(l)-3.8(a)2.2(t)-3.8(o)-1.8(ry)28.2( sy)28.2(st)-3.8(em)]TJ
+0 -1.13 TD
+-0.0005 Tc
+-0.0795 Tw
+[(and asked that if Cong)9.5(ress does )]TJ
+12.38 0 TD
+-0.0014 Tc
+-0.0786 Tw
+[(enact federal chartering)8.6( leg)8.6(i)-3.4(sl)]TJ
+11.56 0 TD
+-0.0001 Tc
+-0.0699 Tw
+[(ation, small companies )10(like )10(his)]TJ
+-23.94 -1.12 TD
+-0.0007 Tc
+-0.0193 Tw
+[(not )10(be ex)-10.7(cluded by)29.3( hig)9.3(h)-0.7( capita)]TJ
+12.09 0 TD
+0.0004 Tc
+-0.0304 Tw
+[(l )-10(or re)4.4(ve)4.4(nue)4.4( minimums.  The)4.4( pre)4.4(s)-0.6(ide)4.4(n)0.4(t of the)4.4( NAI)23.4(C te)4.4(stifie)4.4(d)]TJ
+-12.09 -1.13 TD
+-0.001 Tc
+-0.019 Tw
+[(that state reg)9(u)-1(lators are well on their )-10(way)29( )-10(in )]TJ
+17.58 0 TD
+-0.009 Tw
+[(their efforts to modern)]TJ
+8.98 0 TD
+-0.0009 Tc
+-0.0091 Tw
+[(iz)-6.9(e state reg)9.1(u)-0.9(lation, )10(and)]TJ
+-26.56 -1.12 TD
+0.0001 Tc
+0.2099 Tw
+[(tha)4.1(t)-1.9( a)4.1(n)0.1(y)30.1( fe)4.1(de)4.1(ral)-11.9( le)4.1(g)10.1(i)-1.9(sla)4.1(tion de)4.1(a)4.1(ling)10.1( with insura)4.1(nc)4.1(e)4.1( re)4.1(g)10.1(u)0.1(la)4.1(tion would c)4.1(a)4.1(rry)30.1( the)4.1( risk of)]TJ
+0 -1.13 TD
+-0.0006 Tc
+0.0506 Tw
+[(undermining)9.4( state consumer pr)]TJ
+12.54 0 TD
+-0.0003 Tc
+0.0503 Tw
+[(otections due to unintended )]TJ
+11.47 0 TD
+-0.001 Tc
+0.051 Tw
+[(or unnecessary)29( pre)-7(e)-7(m)-13(p)-11(tion of)]TJ
+-24.01 -1.12 TD
+-0.0008 Tc
+0.0008 Tw
+[(state laws and reg)9.2(u)-0.8(lations.)]TJ
+2 -2.25 TD
+-0.0011 Tc
+-0.0589 Tw
+[(Two )10(other hearing)8.9(-related events took place )10(th)]TJ
+18.23 0 TD
+-0.0012 Tc
+-0.0688 Tw
+[(at had a bearing)8.8( on the issues considered)]TJ
+-20.23 -1.13 TD
+-0.0588 Tw
+[(at the J)-12.2(une 18 hearing)8.8(.)-1.2(  First, the General )]TJ
+16.17 0 TD
+-0.0018 Tc
+-0.0582 Tw
+[(Accounting)8.2( Office \(GAO\) re)]TJ
+11.35 0 TD
+-0.0011 Tc
+-0.0589 Tw
+[(leased a statement )10(for)]TJ
+-27.52 -1.12 TD
+-0.0012 Tc
+0.0312 Tw
+[(the record \(GAO-02-842T\) in which it co)-11.2(n)-11.2(c)-7.2(l)-13.2(u)-11.2(d)-11.2(e)]TJ
+19.48 0 TD
+-0.0007 Tc
+0.0307 Tw
+[(d)-10.7( )-10(t)-12.7(h)-10.7(a)-6.7(t)-12.7( even thoug)9.3(h the NAI)22.3(C has made a)]TJ
+-19.48 -1.13 TD
+-0.0008 Tc
+-0.0092 Tw
+[(concerted )-10(effort in promoting)9.2( more uniform )]TJ
+17.74 0 TD
+-0.0015 Tc
+-0.0085 Tw
+[(reg)8.5(u)-1.5(latory)28.5( processes a)]TJ
+8.8 0 TD
+-0.0003 Tc
+0.0003 Tw
+(nd requirements, it may)Tj
+-26.54 -1.12 TD
+-0.0006 Tc
+-0.0694 Tw
+[(not be able to achieve )-10(uniformity)]TJ
+12.86 0 TD
+-0.0012 Tc
+-0.0688 Tw
+[( )-10(in certain areas, and that \223)]TJ
+10.25 0 TD
+-0.0005 Tc
+-0.0695 Tw
+[(... ong)9.5(oing)9.5( federal oversig)9.5(ht and,)]TJ
+-23.11 -1.13 TD
+0.0007 Tc
+0.0593 Tw
+[(possibly)30.7(,)0.7( fe)4.7(de)4.7(ra)4.7(l inte)4.7(rve)4.7(n)0.7(tion ma)4.7(y)30.7( be)4.7( n)-9.3(eed)-9.3(ed)-9.3( )-10(t)-11.3(o)-9.3( )-10(provide)4.7( impe)4.7(t)-1.3(us for positive)4.7( c)4.7(h)0.7(a)4.7(n)0.7(g)10.7(e)4.7( a)4.7(n)0.7(d)]TJ
+0 -1.12 TD
+-0.0001 Tc
+-0.0099 Tw
+[(continuing)9.9( improvement in )-10(stat)]TJ
+12.5 0 TD
+-0.0013 Tc
+0.0013 Tw
+[(e reg)8.7(u)-1.3(lation of insurance.\224  )]TJ
+11.07 0 TD
+-0.0007 Tc
+0.0007 Tw
+[(Second, a g)9.3(r)2.3(oup of some of )10(the)]TJ
+-23.57 -1.13 TD
+-0.0011 Tc
+-0.0889 Tw
+[(larg)8.9(est financial services trad)]TJ
+11.38 0 TD
+-0.0008 Tc
+-0.0992 Tw
+[(e )-10(g)9.2(r)2.2(oups favoring)9.2( optional )-10(federal )]TJ
+13.34 0 TD
+-0.0013 Tc
+-0.0887 Tw
+[(charter leg)8.7(i)-3.3(slation \(F)4.7(inancial)]TJ
+-24.72 -1.12 TD
+-0.0003 Tc
+-0.0997 Tw
+[(Services Coordinating)9.7( Counci)7.7(l)7.7(,)9.7( A)11.7(m)7.7(e)13.7(r)12.7(i)7.7(c)13.7(a)13.7(n)9.7( B)16.7(a)13.7(n)9.7(k)9.7(e)]TJ
+18.98 0 TD
+-0.0007 Tc
+-0.0993 Tw
+[(r)12.3(s)8.3( I)32.3(n)9.3(s)8.3(u)9.3(r)12.3(a)13.3(n)9.3(c)13.3(e)13.3( A)11.3(s)8.3(s)8.3(o)9.3(c)13.3(i)7.3(a)13.3(t)7.3(i)7.3(o)9.3(n)9.3(,)-0.7( American Council)]TJ
+-18.98 -1.13 TD
+-0.0017 Tc
+-0.0783 Tw
+[(of L)19.3(i)-3.7(fe I)21.3(n)-1.7(surers, American I)21.3(n)-1.7(surance Associ)]TJ
+17.26 0 TD
+-0.0008 Tc
+-0.0892 Tw
+[(ation, Council of I)22.2(n)-0.8(surance Ag)9.2(ents )-10(and )-10(B)6.2(r)2.2(okers,)]TJ
+-17.26 -1.12 TD
+0.0108 Tw
+[(and F)5.2(i)-2.8(nancial Services Roundtab)]TJ
+13.2 0 TD
+-0.0011 Tc
+0.0111 Tw
+[(le\) announced prior to the hearing)8.9( )10(that )10(they)28.9( )10(had )10(formed a)]TJ
+-13.2 -1.13 TD
+-0.0007 Tc
+0.0107 Tw
+[(coalition dedicated to establishment of \223...a char)]TJ
+19.33 0 TD
+-0.0003 Tc
+0.0103 Tw
+[(tering)9.7( sy)29.7(stem for insurers that mi)-12.3(r)-7.3(r)-7.3(o)-10.3(r)-7.3(s)-11.3( the)]TJ
+-19.33 -1.12 TD
+0 Tc
+0.13 Tw
+[(ex)-10(isting)10( dual banking)10( sy)30(stem, w)-8(h)-10(i)-12(c)-6(h)-10( )-10(allows )]TJ
+18.49 0 TD
+-0.0014 Tc
+0.1314 Tw
+[(banks to choose between state and federal)]TJ
+-18.49 -1.13 TD
+-0.0002 Tc
+0 Tw
+[(re)3.8(g)9.8(u)-0.2(la)3.8(tors.\224)]TJ
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 273.8004 Tm
+0 Tc
+(F)Tj
+12.72 0 0 12.72 100.6791 273.8004 Tm
+-0.0035 Tc
+(OR )Tj
+15.96 0 0 15.96 125.2791 273.8004 Tm
+0 Tc
+(A)Tj
+12.72 0 0 12.72 137.639 273.8004 Tm
+-0.0034 Tc
+[(DDIT)-7.6(I)-1(ONAL)-6.2( )]TJ
+15.96 0 0 15.96 220.079 273.8004 Tm
+0 Tc
+(R)Tj
+12.72 0 0 12.72 232.439 273.8004 Tm
+-0.0033 Tc
+[(E)-7.5(ADING)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 244.7604 Tm
+-0.0006 Tc
+0.2506 Tw
+[(F)5.4(o)-0.6(r add)-10.6(i)-12.6(tional information on the backg)9.4(r)]TJ
+17.54 0 TD
+-0.001 Tc
+0.251 Tw
+[(ound of state insurance reg)9(u)-1(lation and)]TJ
+-19.54 -1.13 TD
+0 Tc
+0.09 Tw
+[(proposals be)-6(f)-7(o)-10(r)-7(e)-6( )-10(Cong)10(ress, see CRS Report RS21153, )]TJ
+/F5 1 Tf
+22.64 0 TD
+0.0002 Tc
+0.0898 Tw
+[(Optional Federal Chartering for)]TJ
+-22.64 -1.12 TD
+-0.0002 Tw
+(Insurers: Legislation and Viewpoints)Tj
+/F4 1 Tf
+14.87 0 TD
+0.0004 Tc
+-0.0004 Tw
+[(, by)30.4( S. Roy)30.4( W)-5.6(oodall, J)-10.6(r)3.4(.  )]TJ
+-12.87 -2.25 TD
+-0.0003 Tc
+-0.0397 Tw
+[(F)5.7(o)-0.3(r )10(additional information on the major insu)]TJ
+17.57 0 TD
+-0.0011 Tc
+-0.0389 Tw
+[(rance industry)28.9( g)8.9(r)1.9(oups and how they)28.9( differ)]TJ
+-19.57 -1.13 TD
+-0.0007 Tc
+-0.0993 Tw
+[(in their positions on federal chartering)9.3( of insure)]TJ
+18.34 0 TD
+-0.0004 Tc
+-0.0996 Tw
+[(rs, as well other org)9.6(a)3.6(niz)-6.4(a)3.6(tions with an interest)]TJ
+-18.34 -1.12 TD
+-0.0013 Tc
+0.0513 Tw
+[(in federal chartering)8.7( and )]TJ
+10.21 0 TD
+-0.0008 Tc
+0.0508 Tw
+[(reg)9.2(u)-0.8(lation of the insurance industry)29.2(,)-0.8( see CR)-13.8(S)-14.8( )-10(R)-13.8(e)-6.8(p)-10.8(o)-10.8(r)-7.8(t)-12.8( )-10(R)-13.8(S)-4.8(21172,)]TJ
+/F5 1 Tf
+-10.21 -1.13 TD
+0.0003 Tc
+-0.0003 Tw
+(Optional Federal Chartering for )Tj
+13.34 0 TD
+-0.0004 Tc
+0.0004 Tw
+(Insurers: Major Interest Groups)Tj
+/F4 1 Tf
+12.96 0 TD
+0.0004 Tc
+-0.0004 Tw
+[(, by)30.4( S. Roy)30.4( W)-5.6(oodall, J)-10.6(r)3.4(.)]TJ
+-24.3 -2.25 TD
+0.0011 Tc
+0.2389 Tw
+[(F)7.1(o)1.1(r)4.1( a)5.1(dditiiona)5.1(l inf)4.1(o)1.1(r)4.1(m)-0.9(a)5.1(tion on P.)]TJ
+14.15 0 TD
+0.0058 Tc
+0.2442 Tw
+[(L)16.8(.)-4.2( 106-102, )10(se)9.8(e)9.8( )]TJ
+7.25 0 TD
+0.0014 Tc
+0.2386 Tw
+[(CRS Re)5.4(por)4.4(t RL)22.4(30375, )]TJ
+/F5 1 Tf
+10.1 0 TD
+-0.0003 Tc
+0 Tw
+(Major)Tj
+-33.5 -1.12 TD
+-0.0197 Tw
+[(Financial Services legislation, The Gr)]TJ
+15.22 0 TD
+-0.0015 Tc
+-0.0285 Tw
+[(amm-Leach-Bliley )-10(Act: An Overview)]TJ
+/F4 1 Tf
+14.63 0 TD
+0.0011 Tc
+-0.0311 Tw
+[(, by)31.1( Willia)5.1(m )-10(D.)]TJ
+-29.85 -1.13 TD
+-0.0007 Tc
+0.0007 Tw
+[(J)-11.7(ackson and F)5.3(.)-0.7( J)-11.7(ean W)-6.7(e)3.3(lls.  )]TJ
+/F5 1 Tf
+11.28 0 TD
+0 Tc
+0 Tw
+( )Tj
+/F4 1 Tf
+0.25 0 TD
+( )Tj
+ET
+endstream
+endobj
+
+54 0 obj
+9666
+endobj
+
+%% Original object ID: 43 0
+55 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 56 0 R
+  >>
+  /ExtGState <<
+    /GS1 57 0 R
+  >>
+  /Font <<
+    /F2 59 0 R
+    /F4 62 0 R
+    /F5 67 0 R
+    /TT3 63 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Original object ID: 44 0
+56 0 obj
+[
+  /CalRGB
+  <<
+    /Gamma [
+      2.22221
+      2.22221
+      2.22221
+    ]
+    /Matrix [
+      0.4124
+      0.2126
+      0.0193
+      0.3576
+      0.71519
+      0.1192
+      0.1805
+      0.0722
+      0.9505
+    ]
+    /WhitePoint [
+      0.9505
+      1
+      1.089
+    ]
+  >>
+]
+endobj
+
+%% Original object ID: 45 0
+57 0 obj
+<<
+  /SA false
+  /SM 0.02
+  /TR /Identity
+  /Type /ExtGState
+>>
+endobj
+
+%% Original object ID: 46 0
+58 0 obj
+<<
+  /BaseFont /Helvetica-BoldOblique
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 47 0
+59 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 48 0
+60 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 49 0
+61 0 obj
+<<
+  /BaseFont /IKJIDN+WPIconicSymbolsA
+  /FirstChar 33
+  /FontDescriptor 69 0 R
+  /LastChar 33
+  /Subtype /TrueType
+  /ToUnicode 70 0 R
+  /Type /Font
+  /Widths [
+    784
+  ]
+>>
+endobj
+
+%% Original object ID: 50 0
+62 0 obj
+<<
+  /BaseFont /Times-Roman
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 51 0
+63 0 obj
+<<
+  /BaseFont /ArialBlack
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 72 0 R
+  /LastChar 89
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [
+    333
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    778
+    778
+    778
+    778
+    722
+    667
+    833
+    0
+    389
+    0
+    833
+    667
+    944
+    833
+    833
+    722
+    0
+    778
+    722
+    722
+    833
+    778
+    0
+    0
+    778
+  ]
+>>
+endobj
+
+%% Original object ID: 52 0
+64 0 obj
+[
+  /Indexed
+  56 0 R
+  255
+  73 0 R
+]
+endobj
+
+%% Original object ID: 53 0
+65 0 obj
+<<
+  /BitsPerComponent 8
+  /ColorSpace 64 0 R
+  /Height 47
+  /Subtype /Image
+  /Type /XObject
+  /Width 73
+  /Length 66 0 R
+>>
+stream
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             	                                                                      
+                                                                                                                                                                                                                                                                                                                                                      !"                                                                     #$%                                                                      #&                                                                    '()*+                                                                   ,-./01                                                                  234567,                                                                89  :;< =>?                                                                      @AB                                                                      CDE                                                                      FGH                                                                      IJK                                                                LM,   NOP                                                               QR @#4STU                                                         VWBXYV, Z[ \]^_                                                     `abcdeffghijkV lNm                                                  nlop<q5rs/$tuvrwxyz{|                                               }~TSÄOÅOÇSÉÑÖdÖÜáàâäãg                                             Våå\qçjéè        *1ê(ácëíì<î                                           ;|  ï             D* ñóòôy4öxW                                                            õú ùû# ü,†Üí,                                                            °¢ h.£/§  n    •¶ß®© ™  'åß´ê                  ò)~¨Ö´Ö7àÜi´≠ó}9Æh       Ø∞! @õë9vKÑÑ36)±w≤©≥¥¥,             µ´d∂∑∏**πE"∫ª¨_ºΩªæóüø¿n      YÅ¡B  Y¬I   <√ƒ≈  g             P\ü¿¬xíùùmÑ∆∆qy«JG»jf_…#    {       ~àÀ¥ÃÕŒxNœ             Øu–Jmá´´ëc—ª≥≠öΩ7ÖimT4T“”   ã∏       Å“‘Ä} òªƒç&3             ’•π1œ?                 ÷§¨ ÆGŒ¿ 4|   ◊’Fç09 ? ÿ©,  ÷–             #                            *{=ß æŸ⁄ƒUúo   å¬—µnqúM                                             ÷ ÷#öŸ6!€öπ‹æ   k‹π›ﬁﬂ‡ﬂJH                                                    9#               ?                                                                                                                                                                                                                                                                                                                                                                                       
+endstream
+endobj
+
+%QDF: ignore_newline
+66 0 obj
+3431
+endobj
+
+%% Original object ID: 54 0
+67 0 obj
+<<
+  /BaseFont /Times-Italic
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 55 0
+68 0 obj
+<<
+  /BaseFont /WPTypographicSymbols
+  /Encoding /WinAnsiEncoding
+  /FirstChar 33
+  /FontDescriptor 75 0 R
+  /LastChar 33
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [
+    667
+  ]
+>>
+endobj
+
+%% Original object ID: 56 0
+69 0 obj
+<<
+  /Ascent 827
+  /CapHeight 0
+  /Descent -200
+  /Flags 4
+  /FontBBox [
+    -1
+    -144
+    981
+    827
+  ]
+  /FontFile2 76 0 R
+  /FontName /IKJIDN+WPIconicSymbolsA
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+>>
+endobj
+
+%% Original object ID: 57 0
+70 0 obj
+<<
+  /Length 71 0 R
+>>
+stream
+/CIDInit /ProcSet findresource begin 12 dict begin begincmap /CIDSystemInfo <<
+/Registry (IKJIDN+TT1+0) /Ordering (T42UV) /Supplement 0 >> def
+/CMapName /IKJIDN+TT1+0 def
+/CMapType 2 def
+1 begincodespacerange <21> <21> endcodespacerange
+1 beginbfchar
+<21> <02DC>
+endbfchar
+endcmap CMapName currentdict /CMap defineresource pop end end
+endstream
+endobj
+
+71 0 obj
+335
+endobj
+
+%% Original object ID: 58 0
+72 0 obj
+<<
+  /Ascent 1100
+  /CapHeight 718
+  /Descent -309
+  /Flags 32
+  /FontBBox [
+    -194
+    -307
+    1688
+    1083
+  ]
+  /FontName /ArialBlack
+  /ItalicAngle 0
+  /StemV 222
+  /Type /FontDescriptor
+>>
+endobj
+
+%% Original object ID: 59 0
+73 0 obj
+<<
+  /Length 74 0 R
+>>
+stream
+ˇˇˇ∫∫∫˚˚˚iii\\\JJJCCCËËËÿÿÿ   ^^^ﬁﬁﬁ⁄⁄⁄¯¯¯πππAAAªªªxxxpppPPP∏∏∏˙˙˙***ccc,,,îîîææærrrjjj≥≥≥˛˛˛˘˘˘‹‹‹∞∞∞√√√ÓÓÓ222ÙÙÙHHH444‡‡‡###QQQXXX///zzz¬¬¬˝˝˝………¶¶¶lllZZZóóó¸¸¸ààà'''›››ÀÀÀ===¡¡¡„„„)))∂∂∂◊◊◊KKKˆˆˆ£££ûûû$$$ÃÃÃ»»»öööUUU[[[ÒÒÒ˜˜˜ÁÁÁ€€€ııı±±±ÉÉÉ–––+++ßßßÄÄÄ···êêêooowwwsssèèè§§§ïïïÖÖÖgggvvváááWWWeeeÕÕÕMMMtttddd			
+
+
+TTT___«««°°°¿¿¿ÌÌÌõõõ???666!!!<<<aaabbbqqqmmm~~~uuu888```yyy000¥¥¥’’’”””nnnGGGâââÎÎÎÏÏÏ≈≈≈ΩΩΩÆÆÆççç:::EEE≤≤≤ƒƒƒÔÔÔÍÍÍÂÂÂ≠≠≠ÚÚÚííí;;;NNNòòò{{{fff|||ééé999‘‘‘   ∆∆∆@@@åååŸŸŸäää•••“““÷÷÷ñññÜÜÜÇÇÇÑÑÑüüüãããÅÅÅ]]]øøøLLLÊÊÊkkkVVVFFF´´´ëëëôôôOOOSSSÛÛÛ333"""———hhh‰‰‰úúú®®®%%%™™™555777ÈÈÈYYY                                                                                             
+endstream
+endobj
+
+%QDF: ignore_newline
+74 0 obj
+768
+endobj
+
+%% Original object ID: 60 0
+75 0 obj
+<<
+  /Ascent 812
+  /CapHeight 0
+  /Descent -226
+  /Flags 32
+  /FontBBox [
+    0
+    -226
+    1197
+    812
+  ]
+  /FontName /WPTypographicSymbols
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+>>
+endobj
+
+%% Original object ID: 61 0
+76 0 obj
+<<
+  /Length1 3804
+  /Length 77 0 R
+>>
+stream
+     Ä  POS/2B®GÍ  T   NcmapT3  d  <cvt e    ‹   ñfpgmßŸ^ì  t   dglyfd#s  t  ^headEl‡  §   6hhea  ÿ   $hmtxÜ∫!&  ¸  åloca  æ<  ‘  êmaxpΩ@  4    nameI–Ì,  ¿  qpost     †    prep	–Á"  à   Èæ¢Åh'>ÍS
+ ê–  M+;ˇÛ   _ à ™ F  ( Rˇ} óˇË 6 x ¿ˇëˇpˇ“ˇª ! ! E  } ¥ q ∞ 7 - ß=S „H^ œ è ª t ! [ N < g É ¢ ± « í  / v º    @ ,vE ∞%E#ah#h`D-,E ∞%E#ah#h`D-,  ∏ˇ¿8±@68-,  ∞@8∞6∏ˇ¿8-,∞Fv Gh#Fah X ∞%#8∞%∞6e8Y-   ;ˇ8  ¯ˇˇ  ’                „Ù     Ù  Ù  k !7 !Ï !( !õ ^õ ìõ õ õ õ Éõ õ  Ó TÙ \õ  õ øÙ !Ù !õ  õ  õ õ  Ë QÙ  õ Sõ S◊ õ °õ Ÿõ Á√ !õ    JŒ "¡ #Œ "‘ #œ " # # #≤ #¿ #ê )% W !è #• #è #± #Œ #Û "N $˙ #˘ #;ˇˇ• $˚ #¯ #˜ #Ú #Ó #( # #A #¥ # # # # # # #0 #7 # #I #7 #A #0 "? #õ #Ë #” #Ì # " #∑ $ #  # #˜ #√  ƒ #™ #Ë  Ω #: / " # #√ "Ø $∏ #± # "  … # # $ #i #˘ #˙ #˙ #˜ #˜ #| #| # # #∂ # ä # #ü #à #à #ú #ú    !N #N #Ü #Ü " # # Í # Í #É è ™ ˜ !Ú !c !} !' !} !H !S !& !§ !v !v !v !v !< !<  C !C  ¶ #õ "F  ‹ #  8  "é #õ "¯ #¯   #S "∂ #r " # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #~ #F 3¯ "  #Ï #ú #Ï #ñ #ü 5† #@%%$$  Eç∏ˇÖvEhD≥ F +≥F +≥F +≥F +≥F +≥F +≥F +≥	F +≥
+F +≥ F +≥F +≥F +≥ F +≥ F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥ F +≥!F +≥"F +≥#F +EhDEhDEhDEhDEhD       ’    =@% %$$   Fv/7 ?<?</<˝</<˝< ˝<˝<10≤ +3!'!∂˛à ¸‡‚˝  #ˇÚÌ¡     ∞@,$$
+		$$
+
+%%  ]x v?v?/÷ ˝˝/÷á.π+\/ƒπ--jƒπ-h-ƒπ“æ“æ¸π—ø”≈ƒ.π‘Ö—¸π”“nƒá.π‘ˆ/_ƒπ”Z-Ÿƒπ“ó-ƒπ+'–º¸π-B“æƒ.π-B“æ¸π.⁄‘dƒ..10≤+''7'7%7àììï˙†ïï≈ïïó˛üïï¡°ïïƒôôï˛§ññ∆ïïî          d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^                                                   {                                                                                                                                                                                                                                (       !ˇˇ  !ˇˇZ                                          f                         .   	  . E   	   s   	  . Å   	  . Ø   	  . ›IKJIDN+WPIconicSymbolsAIKJIDN+WPIconicSymbolsAIKJIDN+WPIconicSymbolsA I K J I D N + W P I c o n i c S y m b o l s A R e g u l a r I K J I D N + W P I c o n i c S y m b o l s A I K J I D N + W P I c o n i c S y m b o l s A I K J I D N + W P I c o n i c S y m b o l s A       „ ˛        @ 
+  ∂ˇˇ    Ùê  ÙÙ  ÙÙÙ  Ù 2                 ???? @ !Ë ˙ d;è        lJ ë_<ı  Ë    -∆ìb    ¥æ	(ˇˇˇp’;         
+endstream
+endobj
+
+%QDF: ignore_newline
+77 0 obj
+3804
+endobj
+
+xref
+0 78
+0000000000 65535 f 
+0000000052 00000 n 
+0000000169 00000 n 
+0000000416 00000 n 
+0000000627 00000 n 
+0000002029 00000 n 
+0000002077 00000 n 
+0000002189 00000 n 
+0000004109 00000 n 
+0000004245 00000 n 
+0000004366 00000 n 
+0000004572 00000 n 
+0000004711 00000 n 
+0000004945 00000 n 
+0000005179 00000 n 
+0000005413 00000 n 
+0000005647 00000 n 
+0000005881 00000 n 
+0000006115 00000 n 
+0000006349 00000 n 
+0000006583 00000 n 
+0000006818 00000 n 
+0000007053 00000 n 
+0000007300 00000 n 
+0000008736 00000 n 
+0000008786 00000 n 
+0000009048 00000 n 
+0000011312 00000 n 
+0000011362 00000 n 
+0000011594 00000 n 
+0000023072 00000 n 
+0000023123 00000 n 
+0000023461 00000 n 
+0000033342 00000 n 
+0000033392 00000 n 
+0000033654 00000 n 
+0000045220 00000 n 
+0000045271 00000 n 
+0000045502 00000 n 
+0000056610 00000 n 
+0000056661 00000 n 
+0000056907 00000 n 
+0000066252 00000 n 
+0000066302 00000 n 
+0000066549 00000 n 
+0000075206 00000 n 
+0000075256 00000 n 
+0000075503 00000 n 
+0000085161 00000 n 
+0000085211 00000 n 
+0000085459 00000 n 
+0000097155 00000 n 
+0000097206 00000 n 
+0000097453 00000 n 
+0000107176 00000 n 
+0000107226 00000 n 
+0000107465 00000 n 
+0000107790 00000 n 
+0000107899 00000 n 
+0000108046 00000 n 
+0000108186 00000 n 
+0000108321 00000 n 
+0000108544 00000 n 
+0000108681 00000 n 
+0000109282 00000 n 
+0000109366 00000 n 
+0000112979 00000 n 
+0000113029 00000 n 
+0000113167 00000 n 
+0000113396 00000 n 
+0000113662 00000 n 
+0000114054 00000 n 
+0000114103 00000 n 
+0000114346 00000 n 
+0000115193 00000 n 
+0000115242 00000 n 
+0000115486 00000 n 
+0000119385 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 78
+  /ID [<19c50ce75a0022adaad6373050152c5d><f2b6e17b1e93c286c99ccd3c600e433d>]
+>>
+startxref
+119407
+%%EOF

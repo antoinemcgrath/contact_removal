@@ -1,0 +1,6689 @@
+%PDF-1.4
+%ø˜¢˛
+%QDF-1.0
+
+%% Original object ID: 1 0
+1 0 obj
+<<
+  /AcroForm 3 0 R
+  /Metadata 4 0 R
+  /Pages 6 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Original object ID: 2 0
+2 0 obj
+<<
+  /Author (crsuser)
+  /CreationDate (D:20021227162730Z)
+  /Creator (PScript5.dll Version 5.2)
+  /ModDate (D:20021227112806-05'00')
+  /Producer (Acrobat Distiller 5.0 \(Windows\))
+  /Title (IB10097)
+>>
+endobj
+
+%% Original object ID: 3 0
+3 0 obj
+<<
+  /DA (/Helv 0 Tf 0 g )
+  /DR <<
+    /Encoding <<
+      /PDFDocEncoding 7 0 R
+    >>
+    /Font <<
+      /Helv 8 0 R
+      /ZaDb 9 0 R
+    >>
+  >>
+  /Fields [
+  ]
+>>
+endobj
+
+%% Original object ID: 4 0
+4 0 obj
+<<
+  /Subtype /XML
+  /Type /Metadata
+  /Length 5 0 R
+>>
+stream
+<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d' bytes='1291'?>
+
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+ xmlns:iX='http://ns.adobe.com/iX/1.0/'>
+
+ <rdf:Description about=''
+  xmlns='http://ns.adobe.com/pdf/1.3/'
+  xmlns:pdf='http://ns.adobe.com/pdf/1.3/'>
+  <pdf:CreationDate>2002-12-27T16:27:30Z</pdf:CreationDate>
+  <pdf:ModDate>2002-12-27T11:28:06-05:00</pdf:ModDate>
+  <pdf:Producer>Acrobat Distiller 5.0 (Windows)</pdf:Producer>
+  <pdf:Author>crsuser</pdf:Author>
+  <pdf:Creator>PScript5.dll Version 5.2</pdf:Creator>
+  <pdf:Title>IB10097</pdf:Title>
+ </rdf:Description>
+
+ <rdf:Description about=''
+  xmlns='http://ns.adobe.com/xap/1.0/'
+  xmlns:xap='http://ns.adobe.com/xap/1.0/'>
+  <xap:CreateDate>2002-12-27T16:27:30Z</xap:CreateDate>
+  <xap:ModifyDate>2002-12-27T11:28:06-05:00</xap:ModifyDate>
+  <xap:Author>crsuser</xap:Author>
+  <xap:MetadataDate>2002-12-27T11:28:06-05:00</xap:MetadataDate>
+  <xap:Title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>IB10097</rdf:li>
+   </rdf:Alt>
+  </xap:Title>
+ </rdf:Description>
+
+ <rdf:Description about=''
+  xmlns='http://purl.org/dc/elements/1.1/'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:creator>crsuser</dc:creator>
+  <dc:title>IB10097</dc:title>
+ </rdf:Description>
+
+</rdf:RDF>
+<?xpacket end='r'?>
+endstream
+endobj
+
+%QDF: ignore_newline
+5 0 obj
+1291
+endobj
+
+%% Original object ID: 5 0
+6 0 obj
+<<
+  /Count 16
+  /Kids [
+    10 0 R
+    11 0 R
+  ]
+  /Type /Pages
+>>
+endobj
+
+%% Original object ID: 6 0
+7 0 obj
+<<
+  /Differences [
+    24
+    /breve
+    /caron
+    /circumflex
+    /dotaccent
+    /hungarumlaut
+    /ogonek
+    /ring
+    /tilde
+    39
+    /quotesingle
+    96
+    /grave
+    128
+    /bullet
+    /dagger
+    /daggerdbl
+    /ellipsis
+    /emdash
+    /endash
+    /florin
+    /fraction
+    /guilsinglleft
+    /guilsinglright
+    /minus
+    /perthousand
+    /quotedblbase
+    /quotedblleft
+    /quotedblright
+    /quoteleft
+    /quoteright
+    /quotesinglbase
+    /trademark
+    /fi
+    /fl
+    /Lslash
+    /OE
+    /Scaron
+    /Ydieresis
+    /Zcaron
+    /dotlessi
+    /lslash
+    /oe
+    /scaron
+    /zcaron
+    160
+    /Euro
+    164
+    /currency
+    166
+    /brokenbar
+    168
+    /dieresis
+    /copyright
+    /ordfeminine
+    172
+    /logicalnot
+    /.notdef
+    /registered
+    /macron
+    /degree
+    /plusminus
+    /twosuperior
+    /threesuperior
+    /acute
+    /mu
+    183
+    /periodcentered
+    /cedilla
+    /onesuperior
+    /ordmasculine
+    188
+    /onequarter
+    /onehalf
+    /threequarters
+    192
+    /Agrave
+    /Aacute
+    /Acircumflex
+    /Atilde
+    /Adieresis
+    /Aring
+    /AE
+    /Ccedilla
+    /Egrave
+    /Eacute
+    /Ecircumflex
+    /Edieresis
+    /Igrave
+    /Iacute
+    /Icircumflex
+    /Idieresis
+    /Eth
+    /Ntilde
+    /Ograve
+    /Oacute
+    /Ocircumflex
+    /Otilde
+    /Odieresis
+    /multiply
+    /Oslash
+    /Ugrave
+    /Uacute
+    /Ucircumflex
+    /Udieresis
+    /Yacute
+    /Thorn
+    /germandbls
+    /agrave
+    /aacute
+    /acircumflex
+    /atilde
+    /adieresis
+    /aring
+    /ae
+    /ccedilla
+    /egrave
+    /eacute
+    /ecircumflex
+    /edieresis
+    /igrave
+    /iacute
+    /icircumflex
+    /idieresis
+    /eth
+    /ntilde
+    /ograve
+    /oacute
+    /ocircumflex
+    /otilde
+    /odieresis
+    /divide
+    /oslash
+    /ugrave
+    /uacute
+    /ucircumflex
+    /udieresis
+    /yacute
+    /thorn
+    /ydieresis
+  ]
+  /Type /Encoding
+>>
+endobj
+
+%% Original object ID: 7 0
+8 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding 7 0 R
+  /Name /Helv
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 8 0
+9 0 obj
+<<
+  /BaseFont /ZapfDingbats
+  /Name /ZaDb
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 9 0
+10 0 obj
+<<
+  /Count 9
+  /Kids [
+    12 0 R
+    13 0 R
+    14 0 R
+    15 0 R
+    16 0 R
+    17 0 R
+    18 0 R
+    19 0 R
+    20 0 R
+  ]
+  /Parent 6 0 R
+  /Type /Pages
+>>
+endobj
+
+%% Original object ID: 10 0
+11 0 obj
+<<
+  /Count 7
+  /Kids [
+    21 0 R
+    22 0 R
+    23 0 R
+    24 0 R
+    25 0 R
+    26 0 R
+    27 0 R
+  ]
+  /Parent 6 0 R
+  /Type /Pages
+>>
+endobj
+
+%% Page 1
+%% Original object ID: 11 0
+12 0 obj
+<<
+  /Contents 28 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 30 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 2
+%% Original object ID: 12 0
+13 0 obj
+<<
+  /Contents 31 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 33 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 3
+%% Original object ID: 13 0
+14 0 obj
+<<
+  /Contents 34 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 36 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 4
+%% Original object ID: 14 0
+15 0 obj
+<<
+  /Contents 37 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 39 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 5
+%% Original object ID: 15 0
+16 0 obj
+<<
+  /Contents 40 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 42 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 6
+%% Original object ID: 16 0
+17 0 obj
+<<
+  /Contents 43 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 45 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 7
+%% Original object ID: 17 0
+18 0 obj
+<<
+  /Contents 46 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 48 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 8
+%% Original object ID: 18 0
+19 0 obj
+<<
+  /Contents 49 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 51 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 9
+%% Original object ID: 19 0
+20 0 obj
+<<
+  /Contents 52 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 10 0 R
+  /Resources 54 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 10
+%% Original object ID: 20 0
+21 0 obj
+<<
+  /Contents 55 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 57 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 11
+%% Original object ID: 21 0
+22 0 obj
+<<
+  /Contents 58 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 60 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 12
+%% Original object ID: 22 0
+23 0 obj
+<<
+  /Contents 61 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 63 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 13
+%% Original object ID: 23 0
+24 0 obj
+<<
+  /Contents 64 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 66 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 14
+%% Original object ID: 24 0
+25 0 obj
+<<
+  /Contents 67 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 69 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 15
+%% Original object ID: 25 0
+26 0 obj
+<<
+  /Contents 70 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 72 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Page 16
+%% Original object ID: 26 0
+27 0 obj
+<<
+  /Contents 73 0 R
+  /CropBox [
+    0
+    0
+    612
+    792
+  ]
+  /MediaBox [
+    0
+    0
+    612
+    792
+  ]
+  /Parent 11 0 R
+  /Resources 75 0 R
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+%% Contents for page 1
+%% Original object ID: 27 0
+28 0 obj
+<<
+  /Length 29 0 R
+>>
+stream
+BT
+/F1 1 Tf
+12 0 0 12 134.0391 20.6003 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+0.0019 Tc
+0.0001 Tw
+(Congressional Research Service)Tj
+/F2 1 Tf
+15.62 0 TD
+0 Tc
+0 Tw
+( )Tj
+/TT1 1 Tf
+13.68 0 0 13.68 324.839 20.6003 Tm
+2 Tr
+/Cs5 CS 0 0 0 SC
+0 J 0 j 0.12 w 10 M []0 d
+(!)Tj
+/F2 1 Tf
+12 0 0 12 335.639 20.6003 Tm
+0 Tr
+( )Tj
+/F1 1 Tf
+0.28 0 TD
+0.001 Tc
+0.001 Tw
+(The Library of Congress)Tj
+ET
+35.999 32.48 540 -0.96 re
+f
+BT
+/F3 1 Tf
+27.96 0 0 27.96 268.199 700.7603 Tm
+0.0014 Tc
+-0.0004 Tw
+(Issue Brief for Congress)Tj
+14.04 0 0 14.04 369.119 682.1603 Tm
+0 Tc
+0.004 Tw
+[(Receiv)12.8(ed through the CRS W)-13.3(e)0.4(b)]TJ
+ET
+42.959 695.48 525.96 -0.96 re
+f
+35.999 733.76 0.96 -61.56 re
+f
+574.919 733.76 0.96 -61.56 re
+f
+35.999 733.76 539.76 -0.96 re
+f
+35.999 673.04 539.76 -0.96 re
+f
+BT
+12 0 0 12 452.1591 762.8003 Tm
+0.0035 Tc
+-0.0015 Tw
+[(Or)6.5(der)6.5( C)5.5(ode IB10097)]TJ
+/F2 1 Tf
+18.96 0 0 18.96 319.439 593.8403 Tm
+0.0018 Tc
+-0.0013 Tw
+[(The Higher)4.7( E)4.2(ducation Act: )]TJ
+-3.7911 -1.1392 TD
+0.0014 Tc
+-0.0009 Tw
+( Reauthorization Status and Issues)Tj
+15 0 0 15 363.479 453.5603 Tm
+0.0033 Tc
+-0.0013 Tw
+[(U)5.3(p)6.3(d)6.3(a)-0.7(ted)6.3( D)5.3(ecemb)6.3(e)-0.7(r 23, 2002)]TJ
+/F3 1 Tf
+4.848 -7.16 TD
+0.003 Tc
+-0.001 Tw
+[(James B)6(.)1( S)6(t)1(edman)]TJ
+-5.448 -1.104 TD
+0.0029 Tc
+-0.0009 Tw
+[(D)4.9(o)-1.1(mestic S)5.9(ocial P)5.9(o)-1.1(licy)14.9( D)4.9(i)0.9(v)14.9(i)0.9(sion)]TJ
+ET
+endstream
+endobj
+
+29 0 obj
+1384
+endobj
+
+%% Original object ID: 28 0
+30 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F1 78 0 R
+    /F2 79 0 R
+    /F3 80 0 R
+    /TT1 81 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 2
+%% Original object ID: 29 0
+31 0 obj
+<<
+  /Length 32 0 R
+>>
+stream
+BT
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 716.6003 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+0 Tc
+0 Tw
+(C)Tj
+12.72 0 0 12.72 102.3591 716.6003 Tm
+0.0042 Tc
+[(O)7(N)7(TEN)7(TS)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 687.5603 Tm
+0 Tc
+(S)Tj
+9.6 0 0 9.6 96.7191 687.5603 Tm
+-0.001 Tc
+(UMMARY)Tj
+12 0 0 12 89.9991 660.5603 Tm
+0 Tc
+(M)Tj
+9.6 0 0 9.6 100.6791 660.5603 Tm
+0.003 Tc
+[(OS)9(T)-11( )]TJ
+12 0 0 12 121.3191 660.5603 Tm
+0 Tc
+(R)Tj
+9.6 0 0 9.6 129.3591 660.5603 Tm
+0.0019 Tc
+[(EC)6.4(ENT)-12.1( )]TJ
+12 0 0 12 162.839 660.5603 Tm
+0 Tc
+(D)Tj
+9.6 0 0 9.6 171.479 660.5603 Tm
+0.0023 Tc
+[(EVEL)13.3(OPMENT)-11.7(S)]TJ
+12 0 0 12 89.9991 633.5603 Tm
+0 Tc
+(B)Tj
+9.6 0 0 9.6 97.9191 633.5603 Tm
+0.003 Tc
+-0.003 Tw
+[(AC)7.5(K)12.5(G)0(R)7.5(OUND AND )]TJ
+12 0 0 12 184.919 633.5603 Tm
+0 Tc
+0 Tw
+(A)Tj
+9.6 0 0 9.6 193.5591 633.5603 Tm
+0.003 Tc
+[(NAL)14(YS)9(I)11(S)]TJ
+12 0 0 12 89.9991 606.5603 Tm
+-0.0001 Tc
+[(I)22.9(n)-0.1(troduction)]TJ
+0 -2.25 TD
+-0.0009 Tc
+0.0009 Tw
+[(Postsecondary)29.1( Education Overview)]TJ
+T*
+0 Tc
+0 Tw
+[(Summa)4(ry)30( of the)4( HEA)]TJ
+2 -1.12 TD
+0.0004 Tc
+-0.0004 Tw
+(Student Aid)Tj
+0 -1.13 TD
+-0.0002 Tc
+0.0002 Tw
+(Student Support Services)Tj
+0 -1.12 TD
+0.0011 Tc
+-0.0011 Tw
+[(I)24.1(n)1.1(stitutiona)5.1(l Aid)]TJ
+0 -1.13 TD
+-0.0022 Tc
+0.0022 Tw
+[(P)-6.2(r)0.8(eservi)-4.2(ce Teacher Trai)-4.2(ni)-4.2(ng)]TJ
+-2 -2.25 TD
+-0.0013 Tc
+0.0013 Tw
+[(P)-5.3(o)-1.3(ssi)-3.3(bl)-3.3(e I)21.7(ssues for R)-4.3(eaut)-3.3(hori)-3.3(z)-7.3(at)-3.3(i)-3.3(o)-1.3(n)]TJ
+2 -1.12 TD
+-0.0008 Tc
+0.0008 Tw
+[(Access to Postsecondary)29.2( Education)]TJ
+0 -1.13 TD
+0.0015 Tc
+-0.0015 Tw
+[(Colle)5.5(g)11.5(e)5.5( Costs a)5.5(nd Pr)4.5(ic)5.5(e)5.5(s)]TJ
+0 -1.12 TD
+-0.0001 Tc
+0.0001 Tw
+[(F)5.9(e)3.9(de)3.9(ra)3.9(l Ta)3.9(x)-10.1( B)6.9(e)3.9(ne)3.9(fits)]TJ
+0 -1.13 TD
+-0.0003 Tc
+0.0003 Tw
+(Standards and Accountability)Tj
+0 -1.12 TD
+-0.0022 Tc
+0.0022 Tw
+[(Need Anal)-4.2(y)27.8(s)-3.2(i)-4.2(s)]TJ
+0 -1.13 TD
+-0.0019 Tc
+0.0019 Tw
+[(Di)-3.9(st)-3.9(ance Educat)-3.9(i)-3.9(o)-1.9(n)]TJ
+0 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+[(Teacher Quality)29.3( and Quantity)]TJ
+0 -1.13 TD
+0 Tc
+0 Tw
+[(Student L)21(o)0(ans)]TJ
+0 -1.12 TD
+0.0014 Tc
+-0.0014 Tw
+[(Pe)5.4(ll Gra)5.4(n)1.4(ts)]TJ
+-2 -2.25 TD
+0 Tc
+0 Tw
+(L)Tj
+9.6 0 0 9.6 97.0791 323.1203 Tm
+0.0026 Tc
+[(EGI)10.6(S)8.6(L)13.6(A)-0.4(T)-11.4(I)10.6(ON)]TJ
+12 0 0 12 89.9991 296.1203 Tm
+0 Tc
+(F)Tj
+9.6 0 0 9.6 96.5991 296.1203 Tm
+0.003 Tc
+[(OR)7.5( )]TJ
+12 0 0 12 112.3191 296.1203 Tm
+0 Tc
+(A)Tj
+9.6 0 0 9.6 120.9591 296.1203 Tm
+0.003 Tc
+[(DDI)11(T)-11(I)11(ONAL)14( )]TJ
+12 0 0 12 176.159 296.1203 Tm
+0 Tc
+(R)Tj
+9.6 0 0 9.6 184.199 296.1203 Tm
+0.0028 Tc
+[(EADI)10.8(NG)]TJ
+12 0 0 12 113.9991 282.5604 Tm
+0.0007 Tc
+-0.0007 Tw
+[(Prior Re)4.7(a)4.7(u)0.7(thoriza)4.7(tion)]TJ
+0 -1.12 TD
+-0.0001 Tc
+0.0001 Tw
+[(Student L)20.9(o)-0.1(an Prog)9.9(rams)]TJ
+0 -1.13 TD
+0.0005 Tc
+-0.0005 Tw
+[(Pe)4.5(ll Gra)4.5(n)0.5(t Prog)10.5(ra)4.5(m)]TJ
+0 -1.12 TD
+-0.0003 Tc
+0.0003 Tw
+[(Campus-B)6.7(ased Student )]TJ
+9.6 0 TD
+[(F)5.6(i)-2.4(nancial Aid Prog)9.6(rams)]TJ
+-9.6 -1.13 TD
+-0.0012 Tc
+0.0012 Tw
+[(F)4.8(e)2.8(deral Tax)-11.2( B)5.8(e)2.8(nefits for )]TJ
+10.02 0 TD
+-0.0007 Tc
+0.0007 Tw
+[(Postsecondary)29.3( Education)]TJ
+-10.02 -1.12 TD
+-0.0019 Tc
+0.0019 Tw
+[(Di)-3.9(st)-3.9(ance Educat)-3.9(i)-3.9(o)-1.9(n)]TJ
+0 -1.13 TD
+-0.0007 Tc
+0.0007 Tw
+[(Teacher Quality)29.3( and Quantity)29.3( )]TJ
+0 -1.12 TD
+-0.0002 Tc
+0.0002 Tw
+(Student Support Services)Tj
+0 -1.13 TD
+0.0009 Tc
+-0.0009 Tw
+[(Minority)30.9( I)23.9(n)0.9(stitutions)]TJ
+0 -1.12 TD
+0.0007 Tc
+-0.0007 Tw
+[(I)23.7(n)0.7(te)4.7(rna)4.7(tiona)4.7(l Educ)4.7(a)4.7(tion)]TJ
+ET
+endstream
+endobj
+
+32 0 obj
+3543
+endobj
+
+%% Original object ID: 30 0
+33 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F4 82 0 R
+    /TT3 83 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 3
+%% Original object ID: 31 0
+34 0 obj
+<<
+  /Length 35 0 R
+>>
+stream
+BT
+/F5 1 Tf
+12 0 0 12 71.9991 751.6403 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0001 Tc
+0 Tw
+[(IB10097)-31780.1(12-23-02)]TJ
+/F2 1 Tf
+0 -60.02 TD
+0.0019 Tc
+0.0001 Tw
+[(        Congressional Research Serv)17.9(ice    )]TJ
+/TT1 1 Tf
+13.68 0 0 13.68 299.519 31.4004 Tm
+2 Tr
+/Cs5 CS 0 0 0 SC
+0 J 0 j 0.12 w 10 M []0 d
+0 Tc
+0 Tw
+(!)Tj
+/F2 1 Tf
+12 0 0 12 310.319 31.4004 Tm
+0 Tr
+0.001 Tc
+0.001 Tw
+[(    The Library)27( of Congress)]TJ
+ET
+q
+72.9998 0 0 46.2 467.9991 28.6404 cm
+/Im1 Do
+Q
+BT
+/F3 1 Tf
+15 0 0 15 98.8791 723.0803 Tm
+0.0035 Tc
+-0.0015 Tw
+[(T)6.5(he H)5.5(i)1.5(gher E)6.5(ducation A)6.5(c)-0.5(t:  R)5.5(eauthorization S)6.5(t)1.5(atus and Issues)]TJ
+15.96 0 0 15.96 71.9991 692.2404 Tm
+0 Tc
+0 Tw
+(S)Tj
+12.72 0 0 12.72 82.679 692.2404 Tm
+-0.0122 Tc
+[(U)-16.6(MMA)-15(R)-16.6(Y)]TJ
+/F4 1 Tf
+12 0 0 12 95.9991 664.5203 Tm
+-0.0007 Tc
+-0.0593 Tw
+[(The funding)9.3( authoriz)-6.7(ations for prog)9.3(rams)]TJ
+-2 -1.12 TD
+-0.0001 Tc
+0.3301 Tw
+[(in the)3.9( Hig)9.9(h)-0.1(e)3.9(r)2.9( Educ)3.9(a)3.9(tion Ac)3.9(t \(HEA\) will)]TJ
+0 -1.13 TD
+-0.0011 Tc
+0.0011 Tw
+[(ex)-11.1(pire during)8.9( the 108)]TJ
+7.2 0 0 7.2 174.839 642.3203 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 180.479 637.5203 Tm
+0 Tc
+[( Cong)10(ress. )-10( This leg)10(i)-2(s-)]TJ
+-9.04 -1.12 TD
+-0.0002 Tc
+-0.0998 Tw
+[(lation, administered b)9.8(y)39.8( t)7.8(h)]TJ
+9.85 0 TD
+-0.0005 Tc
+-0.0995 Tw
+[(e)13.5( U)11.5(.)9.5(S)5.5(.)9.5( D)11.5(e)3.5(partment of)]TJ
+-9.85 -1.13 TD
+-0.0108 Tc
+-0.0892 Tw
+[(Education \(ED\), author)-7.8(i)-12.8(z)-16.8(e)-6.8(s)-11.8( t)-12.8(h)-10.8(e)-6.8( f)-7.8(e)-6.8(d)-10.8(e)-6.8(r)-7.8(a)-6.8(l)-12.8( go)-10.8(v)-10.8(e)3.2(rn-)]TJ
+0 -1.12 TD
+-0.0006 Tc
+-0.0394 Tw
+[(ment\222s major student aid prog)9.4(rams, as )10(well )10(as)]TJ
+0 -1.13 TD
+0.0008 Tc
+-0.0008 Tw
+[(othe)4.8(r sig)10.8(n)0.8(ific)4.8(a)4.8(n)0.8(t initia)4.8(tive)4.8(s)-0.2(.)]TJ
+2 -2.25 TD
+-0.0016 Tc
+0.1416 Tw
+[(P)-5.6(o)-1.6(st)-3.6(second)-11.6(ary)28.4( educat)-3.6(i)-3.6(on i)-3.6(s)-2.6( a com)-3.6(p)-1.6(l)-3.6(e)2.4(x)-11.6(,)]TJ
+-2 -1.12 TD
+-0.0018 Tc
+0.1018 Tw
+[(decent)-3.8(r)1.2(al)-13.8(i)-13.8(z)-17.8(ed ent)-3.8(e)2.2(rpri)-3.8(se, m)-3.8(a)2.2(de up of a wi)-3.8(de)]TJ
+0 -1.13 TD
+0.0001 Tc
+0.2899 Tw
+[(a)4.1(rra)4.1(y)30.1( of institutions e)4.1(n)0.1(rolling)10.1( a)4.1( la)4.1(rg)10.1(e)4.1( a)4.1(n)0.1(d)]TJ
+0 -1.12 TD
+-0.001 Tc
+-0.049 Tw
+[(diverse )-10(student body)29(.  I)22(n)-1( academic )-10(y)29(ear )-10(2000-)]TJ
+0 -1.13 TD
+-0.0005 Tc
+0.0505 Tw
+[(2001, approx)-10.5(imately)29.5( 6,600 deg)9.5(r)2.5(e)-6.5(e)3.5(- and non-)]TJ
+0 -1.12 TD
+-0.0014 Tc
+0.7614 Tw
+[(deg)8.6(r)1.6(e)-7.4(e)-7.4(-)-8.4(gr)-8.4(a)-7.4(n)-11.4(t)-13.4(i)-13.4(n)-11.4(g p)-11.4(o)-11.4(s)-12.4(t)-13.4(s)-2.4(econdary)28.6( )10(education)]TJ
+0 -1.13 TD
+0.0007 Tc
+0.0193 Tw
+[(institutions we)4.7(re)4.7( e)4.7(ligible)4.7( to pa)4.7(rtic)4.7(ipa)4.7(t)-1.3(e)4.7( in the)]TJ
+0 -1.12 TD
+0.012 Tc
+0.048 Tw
+[(H)14(E)13(A)14<92>15(s)11( s)11(t)10(u)12(d)12(e)16(n)12(t)10( a)16(i)10(d)12( p)12(r)15(o)12(g)22(r)15(a)16(m)10(s)11(.)12(  T)13(h)12(e)16(s)11(e)16( i)10(n)12(s)11(titu)12(-)]TJ
+0 -1.13 TD
+0.0001 Tc
+0.0599 Tw
+[(tions enrolled an estimated 15.9 million stu-)]TJ
+0 -1.12 TD
+-0.0003 Tc
+0.0003 Tw
+(dents in the fall of 2000.)Tj
+2 -2.25 TD
+-0.0001 Tc
+-0.0899 Tw
+[(HEA prog)9.9(ra)3.9(ms a)3.9(nd )-10(a)3.9(c)3.9(tivitie)3.9(s )-10(fa)3.9(ll prima)3.9(r-)]TJ
+-2 -1.13 TD
+0.0005 Tc
+-0.0005 Tw
+[(ily)30.5( into four ma)4.5(in c)4.5(a)4.5(t)-1.5(e)4.5(g)10.5(orie)4.5(s:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 95.9991 367.5203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 110.399 367.5203 Tm
+-0.0004 Tc
+0.0004 Tw
+(student financial aid,)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 95.9991 354.0803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 110.399 354.0803 Tm
+0.0008 Tc
+-0.1008 Tw
+[(se)4.8(rvic)4.8(e)4.8(s)-0.2( to he)4.8(lp stu)10.8(d)10.8(e)14.8(n)10.8(t)8.8(s c)4.8(o)0.8(m-)]TJ
+T*
+-0.0008 Tc
+0.2108 Tw
+[(plete hig)9.2(h)-0.8( school and enter)]TJ
+0 -1.12 TD
+-0.0012 Tc
+-0.0688 Tw
+[(and succeed in postsecondary)]TJ
+0 -1.13 TD
+-0.0008 Tc
+0 Tw
+(education,)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 95.9991 300.0803 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 110.399 300.0803 Tm
+0.0008 Tc
+-0.0008 Tw
+[(a)4.8(i)-1.2(d to institutions, a)4.8(n)0.8(d)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 95.9991 286.5204 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 110.399 286.5204 Tm
+-0.002 Tc
+0.082 Tw
+[(ai)-4(d t)-4(o)-2( )-10(i)-14(m)-4(prove K-12 t)-4(eacher)]TJ
+0 -1.12 TD
+-0.0006 Tc
+0.0706 Tw
+[(training)9.4( at postsecondary)19.4( )-10(in-)]TJ
+0 -1.13 TD
+0.0012 Tc
+0 Tw
+(stitutions.)Tj
+-1.2 -2.25 TD
+-0.0006 Tc
+0.1306 Tw
+[(ED\222s F)5.4(Y)1.4(2002 appropria)]TJ
+9.9 0 TD
+0.0004 Tc
+0.1296 Tw
+[(tion leg)10.4(i)-1.6(slation)]TJ
+-11.9 -1.12 TD
+-0.0005 Tc
+-0.0295 Tw
+[(includes over $15 billion for )10(HEA )10(discretion-)]TJ
+0 -1.13 TD
+0.0004 Tc
+-0.1004 Tw
+[(a)4.4(r)3.4(y)30.4( a)4.4(u)0.4(thoritie)4.4(s.  A ma)4.4(jority)30.4( of )-10(the)4.4(s)-0.6(e)4.4( disc)4.4(re)4.4(tion-)]TJ
+0 -1.12 TD
+-0.0015 Tc
+0.0515 Tw
+[(ary)28.5( funds ar)-8.5(e ex)-11.5(pected to be awarded to stu-)]TJ
+0 -1.13 TD
+-0.0003 Tc
+0.0403 Tw
+[(dents in the form of Pell Grants \227 ov)-10.3(e)-6.3(r)2.7( $11)]TJ
+0 -1.12 TD
+0.3804 Tw
+[(billion.  The discretionary)29.6( t)-12.4(o)-10.4(t)-12.4(a)-6.4(l )]TJ
+/F6 1 Tf
+14.57 0 TD
+-0.0029 Tc
+0 Tw
+[(excl)-4.9(udes)]TJ
+/F4 1 Tf
+-14.57 -1.13 TD
+-0.0015 Tc
+0.0815 Tw
+[(mand)-11.5(a)-7.5(t)-13.5(o)-11.5(r)1.5(y)28.5( federal ex)-11.5(penditures for the Fed-)]TJ
+0 -1.12 TD
+0.0005 Tc
+0.3895 Tw
+[(e)4.5(r)3.5(a)4.5(l)-1.5( F)6.5(a)4.5(mily)30.5( Educ)4.5(a)4.5(t)-1.5(i)-11.5(o)-9.5(n)-9.5( L)21.5(o)0.5(a)4.5(n)0.5( \(F)6.5(F)6.5(E)1.5(L)21.5(\))3.5( a)4.5(n)0.5(d)]TJ
+0 -1.13 TD
+-0.0011 Tc
+0.1911 Tw
+[(D)-9.1(i)-3.1(rect L)19.9(o)-1.1(an \(DL)19.9(\))1.9( prog)8.9(rams throug)8.9(h which)]TJ
+21 45 TD
+0.0011 Tc
+0.1989 Tw
+[(stude)5.1(nts a)5.1(nd the)5.1(i)-0.9(r pa)5.1(ren)-8.9(t)-10.9(s)-9.9( a)5.1(r)4.1(e)5.1( e)5.1(s)0.1(tima)5.1(te)5.1(d to)]TJ
+0 -1.12 TD
+-0.0002 Tc
+0.1102 Tw
+[(borro)-10.2(w)-8.2( nearly)29.8( $38 billion in new loans this)]TJ
+0 -1.13 TD
+-0.0037 Tc
+0 Tw
+[(y)26.3(ear.)]TJ
+2 -2.25 TD
+-0.0006 Tc
+0.1106 Tw
+[(D)-8.6(u)-0.6(ring)9.4( the reauthoriz)-6.6(ation process, the)]TJ
+-2 -1.12 TD
+-0.0011 Tc
+0.2911 Tw
+[(Cong)8.9(ress may)28.9( consider a wide variet)-13.1(y)18.9( )-10(of)]TJ
+0 -1.13 TD
+-0.0015 Tc
+0.0015 Tw
+[(i)-3.5(ssues.  Am)-3.5(ong)8.5( t)-3.5(h)-1.5(ese are t)-3.5(h)-1.5(e fol)-3.5(l)-3.5(o)-1.5(wi)-3.5(ng)8.5(:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 347.999 556.5203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 362.399 556.5203 Tm
+-0.0019 Tc
+-0.0881 Tw
+[(effect)-3.9(i)-3.9(v)-1.9(eness of t)-3.9(h)-1.9(e )10(HEA pro-)]TJ
+0 -1.12 TD
+0.001 Tc
+0.509 Tw
+[(g)11(r)4(a)5(m)-1(s in inc)5(r)4(e)5(a)5(s)0(ing)11( )-10(post-)]TJ
+0 -1.13 TD
+-0.0018 Tc
+0.0018 Tw
+[(secondary)28.2( access;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 347.999 516.0803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 362.399 516.0803 Tm
+-0.0007 Tc
+0.1707 Tw
+[(i)-12.7(m)-12.7(p)-0.7(act on HEA student aid)]TJ
+T*
+0.2906 Tw
+[(prog)9.4(rams)-11.6( )-10(of the g)9.4(r)2.4(owth in)]TJ
+0 -1.12 TD
+-0.001 Tc
+0.071 Tw
+[(federal tax)-11( benefits for post-)]TJ
+0 -1.13 TD
+-0.0017 Tc
+0.0017 Tw
+[(secondary)28.3( ex)-11.7(penses;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 347.999 462.0803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 362.399 462.0803 Tm
+-0.0019 Tc
+0.0719 Tw
+[(m)-3.9(easures t)-3.9(h)-1.9(at)-3.9( m)-3.9(i)-3.9(g)8.1(ht)-3.9( be used)]TJ
+T*
+0.0009 Tc
+0.1291 Tw
+[(to )-10(hold pa)4.9(rtic)4.9(ipa)4.9(ting)10.9( institu-)]TJ
+0 -1.12 TD
+-0.0016 Tc
+0.1016 Tw
+[(tio)-11.6(n)-11.6(s)-2.6( accountable for educa-)]TJ
+0 -1.13 TD
+0.0001 Tc
+-0.0001 Tw
+(tional outcomes;)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 347.999 408.0803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 362.399 408.0803 Tm
+0.0006 Tc
+0.4794 Tw
+[(fa)4.6(c)4.6(t)-1.4(ors influenc)4.6(ing)10.6( c)4.6(o)0.6(lle)4.6(g)10.6(e)]TJ
+T*
+-0.001 Tc
+0.421 Tw
+[(prices and the appropriate)]TJ
+0 -1.12 TD
+-0.0003 Tc
+0.7403 Tw
+[(fe)3.7(de)3.7(ra)3.7(l role)3.7(,)-10.3( )-10(if a)3.7(n)-0.3(y)29.7(,)-0.3( in)]TJ
+0 -1.13 TD
+-0.002 Tc
+0.452 Tw
+[(addressi)-4(ng)8( pri)-4(ce i)-4(n)-2(creas)-13(es;)]TJ
+0 -1.12 TD
+0 Tw
+(and)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 347.999 340.5203 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 362.399 340.5203 Tm
+0.0005 Tc
+-0.0105 Tw
+[(impa)4.5(c)4.5(t)-1.5( )-10(of )-10(the)4.5( g)10.5(r)3.5(owth in post-)]TJ
+T*
+-0.0031 Tc
+-0.0969 Tw
+[(se)10.9(c)10.9(o)6.9(n)6.9(d)-3.1(ary)26.9( di)-5.1(st)-5.1(ance edu)6.9(c)10.9(a)10.9(tio)6.9(n)6.9(.)]TJ
+-1.2 -2.25 TD
+-0.0005 Tc
+0.1605 Tw
+[(I)22.5(n)-0.5( addition, the Cong)9.5(ress may)29.5( address)]TJ
+-2 -1.13 TD
+-0.0004 Tc
+0.0704 Tw
+[(issues specific to individual HEA)-8.4( prog)9.6(rams.)]TJ
+0 -1.12 TD
+-0.0007 Tc
+-0.0993 Tw
+[(F)5.3(o)-0.7(r the)3.3( HEA\222s ma)3.3(jor sourc)3.3(e)3.3(s)-1.7( o)9.3(f)12.3( p)9.3(o)9.3(s)8.3(t)7.3(s)8.3(e)13.3(c)13.3(o)9.3(nda)3.3(ry)]TJ
+0 -1.13 TD
+-0.0002 Tc
+0.6402 Tw
+[(education support \227 Pell Grants a)-6.2(n)-0.2(d)]TJ
+0 -1.12 TD
+0.0011 Tc
+0.2989 Tw
+[(F)7.1(F)7.1(E)2.1(L)22.1(s)0.1(/DL)22.1(s)0.1(, the)5.1(s)0.1(e)5.1( issue)5.1(s)0.1( ma)5.1(y)31.1( inc)5.1(l)-0.9(ude )-10(t)-10.9(h)-8.9(e)]TJ
+0 -1.13 TD
+0.069 Tw
+[(following)11(.  Amo)-9(n)-9(g)1( )-10(pote)5(n)1(tia)5(l Pe)5(ll issue)5(s)0(, the)]TJ
+0 -1.12 TD
+0.0008 Tc
+0.0392 Tw
+[(Cong)10.8(re)4.8(ss ma)4.8(y)30.8( c)4.8(onside)4.8(r)3.8( ta)4.8(rg)10.8(e)4.8(ting)10.8( Pe)4.8(lls to the)]TJ
+0 -1.13 TD
+0.0009 Tc
+0.0391 Tw
+[(fi)-11.1(rst 2 y)30.9(e)4.9(a)4.9(r)3.9(s of e)4.9(n)0.9(rollme)4.9(nt to re)4.9(duc)4.9(e)4.9( re)4.9(lia)4.9(n)-9.1(c)-5.1(e)]TJ
+0 -1.12 TD
+-0.0014 Tc
+-0.0686 Tw
+[(on l)-3.4(o)-1.4(ans i)-3.4(n)-1.4( t)-3.4(hose )10(y)28.6(ears.  I)21.6(ssues for FFEL)19.6(s)-2.4(/)-3.4(D)0.6(L)19.6(s)]TJ
+0 -1.13 TD
+0.0006 Tc
+0.4094 Tw
+[(ma)4.6(y)30.6( inc)4.6(l)-1.4(ude)4.6( w)-7.4(h)-9.4(ethe)4.6(r c)4.6(u)0.6(rre)4.6(nt loa)4.6(n)0.6( limits)]TJ
+0 -1.12 TD
+-0.0012 Tc
+0.2612 Tw
+[(should be ra)-7.2(ised, and whether the current)]TJ
+0 -1.13 TD
+-0.0008 Tc
+0.3108 Tw
+[(framework of F)5.2(F)5.2(E)0.2(L)20.2(s)-1.8( and DL)20.2(s should be)]TJ
+0 -1.12 TD
+0.0007 Tc
+-0.0007 Tw
+[(ma)4.7(inta)4.7(ine)4.7(d)0.7( or modifie)4.7(d)0.7(.)]TJ
+ET
+endstream
+endobj
+
+35 0 obj
+9995
+endobj
+
+%% Original object ID: 32 0
+36 0 obj
+<<
+  /ColorSpace <<
+    /Cs10 84 0 R
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F3 80 0 R
+    /F4 82 0 R
+    /F5 85 0 R
+    /F6 86 0 R
+    /TT1 81 0 R
+    /TT5 87 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+    /ImageC
+    /ImageI
+  ]
+  /XObject <<
+    /Im1 88 0 R
+  >>
+>>
+endobj
+
+%% Contents for page 4
+%% Original object ID: 33 0
+37 0 obj
+<<
+  /Length 38 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(1)]TJ
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 706.0403 Tm
+0 Tc
+(M)Tj
+12.72 0 0 12.72 105.119 706.0403 Tm
+0.0042 Tc
+[(O)7(ST )]TJ
+15.96 0 0 15.96 138.359 706.0403 Tm
+0 Tc
+(R)Tj
+12.72 0 0 12.72 150.719 706.0403 Tm
+0.0042 Tc
+[(EC)8.4(EN)7(T )]TJ
+15.96 0 0 15.96 203.039 706.0403 Tm
+0 Tc
+(D)Tj
+12.72 0 0 12.72 215.399 706.0403 Tm
+0.0032 Tc
+[(EV)7.4(ELO)6(P)-1(MEN)6(T)-1(S)]TJ
+/F6 1 Tf
+12 0 0 12 113.9991 677.0003 Tm
+0.0002 Tc
+0.0098 Tw
+[(On February 8, 2002, S. 1762 was signed into law )-10(a)-9.8(s)-10.8( )-10(P)-8.8(.)-9.8(L)-13.8(.)-9.8( 107-139.  This legislation)]TJ
+-2 -1.13 TD
+-0.0005 Tc
+-0.0495 Tw
+[(amends the Higher Education Act )]TJ
+13.54 0 TD
+-0.0016 Tc
+-0.0484 Tw
+[(by ext)-3.6(endi)-3.6(ng t)-3.6(h)-1.6(e i)-3.6(n)-1.6(t)-3.6(e)2.4(rest)-3.6( rat)-3.6(e)2.4( st)-3.6(ruct)-3.6(ure current)-3.6(l)-3.6(y)2.4( i)-3.6(n)-1.6( ef)-3.6(f)-3.6(ect)]TJ
+-13.54 -1.12 TD
+0.001 Tc
+0.099 Tw
+[(for fe)5(de)5(ral stude)5(nt loans th)]TJ
+11.24 0 TD
+0.0001 Tc
+0.0999 Tw
+[(rough J)4.1(une)4.1( 20)]TJ
+5.97 0 TD
+0.0057 Tc
+0.1043 Tw
+[(06, and )10(re)9.7(pe)9.7(ali)]TJ
+6.35 0 TD
+0.001 Tc
+0.099 Tw
+[(ng a re)5(plac)5(e)5(m)3(e)5(n)1(t inte)5(re)5(st rate)]TJ
+-23.56 -1.13 TD
+-0.0008 Tc
+-0.0492 Tw
+[(structure scheduled to take effect )-10(on )-10(July 1, )]TJ
+17.23 0 TD
+0.0006 Tc
+-0.0506 Tw
+[(2003.  This legislation al)]TJ
+9.79 0 TD
+-0.0005 Tc
+-0.0495 Tw
+[(so changes the interest)]TJ
+-27.02 -1.12 TD
+-0.0001 Tc
+-0.0099 Tw
+[(rate charged to borrowers on ne)]TJ
+12.97 0 TD
+0.0001 Tw
+[(w )10(loans, )10(as )10(of )10(July 1, 2006, from a variable rate based )10(on)]TJ
+-12.97 -1.13 TD
+0 Tc
+0.16 Tw
+[(market conditions to a fixed ra)-10(t)-12(e)-6( )-10(of 6.8% for student borrowers and 7.9% for parent)]TJ
+0 -1.12 TD
+0.0004 Tc
+0 Tw
+(borrowers.)Tj
+2 -2.25 TD
+-0.0006 Tc
+0.0106 Tw
+[(On July 16, 2002, the House failed to approve H.R)-9.6(.)-10.6( 4866 \()12.4(F)0.4(ed Up Higher Education)]TJ
+-2 -1.13 TD
+-0.0003 Tc
+0.0503 Tw
+[(Technical Amendments of 2002\))12.7( under suspension )]TJ
+20.66 0 TD
+0.0001 Tc
+0.0499 Tw
+[(of the ru)-9.9(l)-11.9(e)-5.9(s)-10.9(.)0.1(  This legislation makes a)]TJ
+-20.66 -1.12 TD
+-0.0014 Tc
+0.2814 Tw
+[(seri)-3.4(es of)-3.4( t)-3.4(echni)-3.4(cal)-3.4( amendm)-9.4(ent)-3.4(s)-2.4( t)-3.4(o)-1.4( t)-3.4(h)-1.4(e )]TJ
+16.95 0 TD
+-0.0002 Tc
+0.2802 Tw
+(Higher Education Act,)Tj
+9.58 0 TD
+-0.0004 Tc
+0.2804 Tw
+[( many stemming from)]TJ
+-26.53 -1.13 TD
+0.0003 Tc
+-0.1003 Tw
+[(re)4.3(c)4.3(o)0.3(mme)4.3(ndations submitte)4.3(d to the)4.3( )-10(House)4.3( )-10(21)]TJ
+7.2 0 0 7.2 297.719 533.2404 Tm
+-0.0057 Tc
+0 Tw
+(st)Tj
+12 0 0 12 302.519 528.4403 Tm
+-0.0006 Tc
+-0.0994 Tw
+[( )-10(Century Competitiveness Subcommittee by the)]TJ
+-17.71 -1.12 TD
+-0.0004 Tc
+-0.0296 Tw
+[(higher education community re)]TJ
+12.42 0 TD
+-0.0002 Tc
+-0.0298 Tw
+(garding regulatory impediments )Tj
+13.1 0 TD
+0.001 Tc
+-0.031 Tw
+[(that limit ac)5(c)5(e)5(ss )10(to fe)5(de)5(ral)]TJ
+-25.52 -1.13 TD
+0.0003 Tc
+-0.0003 Tw
+(student aid.)Tj
+2 -2.25 TD
+-0.0603 Tw
+[(FY)-13.7(2002 )10(supplemental appropriations legislation \()13.3(P)1.3(.L. 107-206\))13.3(, as )10(signed )10(into )10(law )10(on)]TJ
+-2 -1.12 TD
+0.0001 Tc
+-0.0001 Tw
+(August 2, 2002, includes $1 billion to help meet a shortfall in the Pell Grant program.)Tj
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 414.2003 Tm
+0 Tc
+0 Tw
+(B)Tj
+12.72 0 0 12.72 102.3591 414.2003 Tm
+-0.0035 Tc
+0.0002 Tw
+(ACKGROUND AND )Tj
+15.96 0 0 15.96 233.159 414.2003 Tm
+0 Tc
+0 Tw
+(A)Tj
+12.72 0 0 12.72 245.519 414.2003 Tm
+-0.0035 Tc
+[(NAL)-6.3(Y)0.7(S)-7.7(I)-1.1(S)]TJ
+/F2 1 Tf
+15.96 0 0 15.96 259.559 381.2003 Tm
+-0.0011 Tc
+(Introduction)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 353.4803 Tm
+-0.0006 Tc
+-0.0994 Tw
+[(The funding)9.4( authoriz)-6.6(ations for prog)9.4(rams in)]TJ
+16.77 0 TD
+-0.001 Tc
+-0.099 Tw
+[( the Hig)9(h)-1(er Education Act \(H)11(E)10(A)11(\))12( w)11(i)7(ll ex)-11(pire)]TJ
+-18.77 -1.12 TD
+0.0001 Tc
+0.0899 Tw
+[(during)10.1( the)4.1( 1)-9.9(0)-9.9(8)]TJ
+7.2 0 0 7.2 162.359 344.8403 Tm
+0.022 Tc
+0 Tw
+(th)Tj
+12 0 0 12 168.239 340.0403 Tm
+-0.0007 Tc
+0.0907 Tw
+[( )-10(C)-13.7(o)-10.7(n)-10.7(g)9.3(ress \(current authoriz)-6.7(ations)]TJ
+13.59 0 TD
+-0.0008 Tc
+0.0908 Tw
+[( are provided throug)9.2(h F)5.2(Y)1.2(2003 with an)]TJ
+-20.11 -1.13 TD
+-0.001 Tc
+-0.039 Tw
+[(automatic 1-y)29(ear ex)-11(tension for F)5(Y)1(2004 under )-10(th)]TJ
+19.04 0 TD
+-0.0008 Tc
+-0.0292 Tw
+(e General Education Pr)Tj
+9.19 0 TD
+0.0001 Tc
+-0.0401 Tw
+[(ovisions Act\).  This)]TJ
+-28.23 -1.12 TD
+0.0004 Tc
+0.0296 Tw
+[(le)4.4(g)10.4(i)-1.6(sla)4.4(tion,)-9.6( )-10(w)-7.6(hose)4.4( prog)10.4(ra)4.4(ms a)4.4(r)3.4(e)4.4( a)4.4(d)0.4(ministe)4.4(re)4.4(d )]TJ
+18.52 0 TD
+-0.0009 Tc
+0.0309 Tw
+[(by)29.1( the U.S. Department of Education \(ED\),)]TJ
+-18.52 -1.13 TD
+0.0001 Tc
+-0.0501 Tw
+[(a)4.1(u)0.1(thorize)4.1(s)-0.9( the)4.1( fe)4.1(de)4.1(ra)4.1(l g)10.1(ove)4.1(rnme)4.1(nt\222s ma)4.1(jor stude)]TJ
+19.01 0 TD
+-0.0006 Tc
+-0.0594 Tw
+[(nt )-10(aid prog)9.4(rams, as well as other sig)9.4(n)-0.6(ificant)]TJ
+-19.01 -1.12 TD
+-0.0193 Tw
+[(prog)9.3(rams )10(such )10(as )10(those providing)9.3( aid to speci)]TJ
+18.04 0 TD
+-0.0002 Tc
+-0.0198 Tw
+[(al g)9.8(r)2.8(oups of hig)9.8(h)-0.2(er education institutions and)]TJ
+-18.04 -1.13 TD
+0.0019 Tc
+0.0081 Tw
+[(suppor)4.9(t se)5.9(r)4.9(v)1.9(ic)5.9(e)5.9(s)0.9( to e)5.9(n)1.9(a)5.9(b)1.9(le)5.9( disa)5.9(dva)5.9(nta)5.9(g)11.9(e)5.9(d)1.9( stude)]TJ
+18.7 0 TD
+0.0029 Tc
+0.0071 Tw
+[(nts to c)6.9(o)2.9(mple)6.9(te)6.9( sec)]TJ
+7.68 0 TD
+0.0069 Tc
+0.0031 Tw
+[(ondary)26.9( sc)]TJ
+3.89 0 TD
+0.0016 Tc
+0.0084 Tw
+[(hool a)5.6(nd e)5.6(n)1.6(te)5.6(r)]TJ
+-30.27 -1.12 TD
+0.0011 Tc
+0.1389 Tw
+[(a)5.1(nd c)5.1(o)1.1(mple)5.1(te)5.1( c)5.1(o)1.1(lle)5.1(g)11.1(e)5.1(.  A)3.1(l)-0.9(t)]TJ
+11.07 0 TD
+0.0064 Tc
+0.1436 Tw
+[(hough i)-5.6(m)-5.6(porta)10.4(nt )]TJ
+7.27 0 TD
+0.0008 Tc
+0.1392 Tw
+[(suppor)3.8(t f)3.8(r)3.8(o)0.8(m outside)4.8( of)3.8( the)4.8( H)2.8(E)1.8(A)2.8( f)3.8(l)-1.2(ow)2.8(s to)]TJ
+-18.34 -1.13 TD
+-0.0001 Tc
+-0.0499 Tw
+[(postsecondary)29.9( )10(education institutions throug)9.9(h mu)]TJ
+19.19 0 TD
+-0.0011 Tc
+-0.0589 Tw
+[(ltiple federal ag)8.9(encies for activities such as)]TJ
+-19.19 -1.12 TD
+-0.0013 Tc
+0.0313 Tw
+[(research and development, the )]TJ
+12.5 0 TD
+[(federal presence in)-11.4( )-10(postsecondary)]TJ
+13.56 0 TD
+-0.0005 Tc
+0.0305 Tw
+[( education is shaped to a)]TJ
+-26.06 -1.13 TD
+0 Tc
+0.01 Tw
+[(sig)10(n)0(ific)4(a)4(n)0(t de)4(g)10(r)3(e)4(e)4( by)30( the)4( HEA.  F)6(o)0(r e)4(x)-10(a)4(m)-2(ple)4(,)0( HEA )-10(s)-11(t)-12(u)-10(d)-10(e)-6(n)-10(t)-12( )-10(a)4(i)-2(d prog)10(ra)4(ms c)4(onstitute)4(d fully)]TJ
+0 -1.12 TD
+0.0004 Tc
+-0.0004 Tw
+[(64% )-10(of )-10(a)4.4(ll fe)4.4(de)4.4(ra)4.4(l \(e)4.4(x)-9.6(c)4.4(luding)10.4( e)4.4(duc)4.4(a)4.4(tion ta)4.4(x)-9.6( c)4.4(r)3.4(e)4.4(d)0.4(its\), sta)4.4(t)-1.6(e)4.4(,)0.4( a)4.4(nd institutiona)4.4(l a)4.4(i)-1.6(d a)4.4(w)2.4(a)4.4(r)3.4(de)4.4(d )-10(to)]TJ
+0 -1.13 TD
+-0.0006 Tc
+-0.0894 Tw
+[(postsecondary)29.4( education students )]TJ
+13.32 0 TD
+-0.0005 Tc
+-0.0895 Tw
+[(in 2001-2002. )-10( )-10(\(The Colleg)9.5(e)3.5( B)6.5(o)-0.5(ard, )]TJ
+/F6 1 Tf
+14 0 TD
+0.0003 Tc
+-0.0903 Tw
+[(Trends in Student Aid)]TJ
+/F4 1 Tf
+8.43 0 TD
+0 Tc
+0 Tw
+(,)Tj
+-35.75 -1.12 TD
+-0.0008 Tc
+-0.0592 Tw
+[(2002.\)  The HEA was last )-10(reauthoriz)-6.8(ed )-10(by)29.2( )-10(th)]TJ
+17.41 0 TD
+-0.0007 Tc
+-0.0493 Tw
+[(e Hig)9.3(h)-0.7(er Education Amendments of 1998 \(P.L)20.3(.)]TJ
+-17.41 -1.13 TD
+-0.0008 Tc
+0 Tw
+(105-244\).)Tj
+2 -2.25 TD
+-0.0004 Tc
+0.1504 Tw
+[(This issue brief provides the following)9.6(: )]TJ
+16.88 0 TD
+-0.0012 Tc
+0.1512 Tw
+[( an )-10(o)-11.2(v)-11.2(e)-7.2(r)-8.2(v)-11.2(i)-13.2(e)-7.2(w of postsecondary)28.8( education)]TJ
+-18.88 -1.12 TD
+0.0002 Tc
+0.0798 Tw
+[(\(institutions a)4.2(nd stude)4.2(nts\), a)4.2(n)0.2( ove)4.2(rvie)4.2(w of the)4.2( HEA with a)4.2( foc)4.2(u)0.2(s on i)-11.8(t)-11.8(s)-10.8( )-10(m)-11.8(o)0.2(st sig)10.2(n)0.2(ific)4.2(a)4.2(n)0.2(t)]TJ
+0 -1.13 TD
+-0.0004 Tc
+0.0804 Tw
+[(prog)9.6(rams and provision)-10.4(s)-11.4(,)-10.4( )-10(a)-6.4(n)-10.4(d)-10.4( )-10(a)-6.4( )]TJ
+13.24 0 TD
+0.0004 Tc
+0.0796 Tw
+[(disc)4.4(ussion of ma)4.4(jor issue)4.4(s)-0.6( like)4.4(l)-1.6(y)30.4( to be)4.4( of inte)4.4(re)4.4(st to the)]TJ
+-13.24 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+[(Cong)9.3(ress during)9.3( the HEA reauthoriz)-6.7(ation process.)]TJ
+ET
+endstream
+endobj
+
+38 0 obj
+8372
+endobj
+
+%% Original object ID: 34 0
+39 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+    /TT3 83 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 5
+%% Original object ID: 35 0
+40 0 obj
+<<
+  /Length 41 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(2)]TJ
+/F2 1 Tf
+15.96 0 0 15.96 170.759 708.3203 Tm
+-0.0005 Tc
+0.0007 Tw
+[(Postsecondary)21.7( Education Ov)21.7(erv)21.7(i)-0.7(ew)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 680.6003 Tm
+-0.0008 Tc
+-0.0992 Tw
+[(P)-4.8(o)-0.8(stsecondary)29.2( education is)8.2( a)13.2( c)13.2(o)9.2(m)7.2(p)9.2(l)7.2(e)13.2(x,)9.2( d)9.2(ecentr)]TJ
+18 0 TD
+[(aliz)-6.8(ed enterprise, made)]TJ
+9.03 0 TD
+-0.0019 Tc
+-0.0981 Tw
+[( up of a wide array)]TJ
+-29.03 -1.13 TD
+-0.0003 Tc
+0.0003 Tw
+(of different kinds of institutions en)Tj
+13.91 0 TD
+-0.0009 Tc
+0.0009 Tw
+[(rolling)9.1( a larg)9.1(e and diverse student body)29.1(.)]TJ
+-11.91 -2.25 TD
+-0.0018 Tc
+-0.0182 Tw
+[(I)21.2(n)-1.8( academic y)28.2(ear 2000-2001, there were a)]TJ
+16.57 0 TD
+-0.0011 Tc
+-0.0289 Tw
+[(bout 6,600 deg)8.9(r)1.9(ee- and non-deg)8.9(r)1.9(ee-g)8.9(r)1.9(anting)]TJ
+-18.57 -1.12 TD
+-0.0004 Tc
+0.0304 Tw
+[(p)-10.4(o)-0.4(stsecondary)29.6( education institutions that par)]TJ
+17.92 0 TD
+[(ticipated in the HEA\222s student aid pr)-7.4(o)-10.4(g)-0.4(r)-7.4(a)-6.4(m)-12.4(s)-11.4(.)]TJ
+-17.92 -1.13 TD
+-0.0006 Tc
+0.1306 Tw
+[(These institutions were divided )-10(r)-7.6(o)-10.6(ug)9.4(hly)29.4( even)]TJ
+18.65 0 TD
+0.1307 Tw
+[(ly)29.3( among)9.3( the public sector \(33%\), private)]TJ
+-18.65 -1.12 TD
+-0.001 Tc
+-0.059 Tw
+[(nonprofit sector )10(\(30%\), )10(and private for-profit \(p)]TJ
+18.71 0 TD
+-0.0589 Tw
+[(roprietary)28.9(\) sector \(37%\).  An estimated 15.9)]TJ
+-18.71 -1.13 TD
+-0.0002 Tc
+0.1002 Tw
+[(million students were enrolled ove)]TJ
+14.22 0 TD
+-0.0013 Tc
+0.1013 Tw
+[(rall in underg)8.7(raduate and)-11.3( )-10(g)8.7(r)1.7(a)]TJ
+11.92 0 TD
+-0.0004 Tc
+0.1004 Tw
+[(duate prog)9.6(rams in those)]TJ
+-26.14 -1.12 TD
+0 Tc
+-0.03 Tw
+[(institutions )10(in )10(the )10(fall )10(of 2000.  I)23(n)0( contrast to the roug)10(hly)30( )10(even )10(split )10(in )]TJ
+/F6 1 Tf
+27.52 0 TD
+0.0011 Tc
+0 Tw
+(institutions)Tj
+/F4 1 Tf
+4.46 0 TD
+-0.001 Tc
+-0.039 Tw
+[( by)29( sector,)]TJ
+-31.98 -1.13 TD
+0.0011 Tc
+-0.0711 Tw
+[(a)5.1( substa)5.1(ntia)5.1(l ma)5.1(jority)31.1( of )10(a)5.1(ll )]TJ
+/F6 1 Tf
+10.79 0 TD
+0.0001 Tc
+0 Tw
+(students)Tj
+/F4 1 Tf
+3.28 0 TD
+0 Tc
+-0.07 Tw
+[( )10(we)4(re)4( )10(e)4(n)0(rolle)4(d in public)4( institutions \(75%\), a)4( fifth \(20%\))]TJ
+-14.07 -1.12 TD
+-0.0002 Tc
+0.2102 Tw
+[(at)-12.2(t)-12.2(e)3.8(nded private nonprofit institutions, and a )]TJ
+19.25 0 TD
+-0.0014 Tc
+0.2114 Tw
+[(small percentag)8.6(e)2.6( \(5%\) were enrolled i)-13.4(n)]TJ
+-19.25 -1.13 TD
+-0.0039 Tc
+-0.0961 Tw
+[(proprie)10.1(ta)10.1(r)9.1(y)36.1( in)6.1(s)5.1(titu)6.1(tio)6.1(n)6.1(s)5.1(.)6.1(  T)7.1(h)6.1(e)10.1( d)6.1(i)4.1(f)9.1(f)9.1(e)10.1(r)9.1(e)10.1(n)6.1(ces between)]TJ
+18.86 0 TD
+0.0003 Tc
+-0.1003 Tw
+[( the distributions of institutions and students)]TJ
+-18.86 -1.12 TD
+-0.0009 Tc
+0.0209 Tw
+[(are the result of substantially)29.1( smaller aver)]TJ
+16.78 0 TD
+-0.0007 Tc
+0.0207 Tw
+[(ag)9.3(e enrollments in private nonprofit and )-10(p)-10.7(r)-7.7(ivate)]TJ
+-16.78 -1.13 TD
+-0.0003 Tc
+0.3203 Tw
+[(proprietary)29.7( institutions \(e)]TJ
+10.77 0 TD
+-0.0001 Tc
+0.3201 Tw
+[(stimated 1,600 and 285, respectively)29.9(\))2.9( compar)-7.1(ed)-10.1( )-10(t)-12.1(o)-10.1( )-10(p)-10.1(ublic)]TJ
+-10.77 -1.12 TD
+0.0002 Tc
+0.1998 Tw
+[(institutions \(estimated 5,500\).  )]TJ
+13.25 0 TD
+-0.002 Tc
+0.202 Tw
+[(\(These data are derived fro)]TJ
+11.53 0 TD
+0.0003 Tc
+0.2097 Tw
+[(m t)-11.7(h)-9.7(e U)-7.7(.)-9.7(S)-13.7(.)-9.7( Department )10(of)]TJ
+-24.78 -1.13 TD
+-0.0009 Tc
+0.0709 Tw
+[(Education\222s I)22.1(n)-0.9(teg)9.1(r)2.1(ated Postsecondary)29.1( Educa)]TJ
+17.97 0 TD
+-0.0007 Tc
+0.0707 Tw
+[(tion Data )-10(S)-14.7(y)19.3(stem.  These enrollment fig)9.3(u)-0.7(res)]TJ
+-17.97 -1.12 TD
+-0.001 Tc
+0.021 Tw
+[(differ from those derived from other sources in)]TJ
+18.91 0 TD
+-0.0013 Tc
+0.0213 Tw
+[(c)-7.3(l)-13.3(u)-11.3(d)-11.3(i)-13.3(n)-11.3(g)-1.3( the B)5.7(u)-1.3(reau of the Census\222 Current)]TJ
+-18.91 -1.13 TD
+-0.0006 Tc
+-0.0394 Tw
+[(Population )-10(Survey)29.4( and the Depa)]TJ
+12.75 0 TD
+-0.0004 Tc
+-0.0396 Tw
+[(rtment of Education\222s )-10(Nationa)]TJ
+12.01 0 TD
+-0.0001 Tc
+-0.0299 Tw
+[(l Postsecondary)29.9( Student Aid)]TJ
+-24.76 -1.12 TD
+-0.0006 Tc
+0.1706 Tw
+[(Study)29.4(.)-10.6(  I)22.4(n)-0.6( particular, data )]TJ
+11.21 0 TD
+-0.0012 Tc
+0.1712 Tw
+[(from the latter source will be hig)8.8(h)-1.2(er because they)28.8( measure)]TJ
+-11.21 -1.13 TD
+-0.0004 Tc
+0.0004 Tw
+[(enrollment throug)9.6(hout the academic y)29.6(ear, not just at a point in time.\))]TJ
+2 -2.25 TD
+-0.0009 Tc
+0.0409 Tw
+[(Since the enactment of t)-12.9(h)-10.9(e)-6.9( )-10(HEA in 1965, )]TJ
+17.03 0 TD
+-0.001 Tc
+0.041 Tw
+[(important characteris)]TJ
+8.49 0 TD
+-0.0008 Tc
+0.0408 Tw
+[(tics of postsecondary)]TJ
+-27.52 -1.12 TD
+-0.0005 Tc
+0.1305 Tw
+[(students have chang)9.5(e)3.5(d substantially)29.5(.  There is)]TJ
+19.02 0 TD
+-0.0023 Tc
+0.1323 Tw
+[( g)7.7(r)0.7(eat)-4.3(er raci)-4.3(a)-8.3(l)-4.3( and et)-4.3(hni)-4.3(c di)-4.3(versi)-4.3(t)-4.3(y)27.7( i)-4.3(n)-2.3( t)-4.3(h)-2.3(e)]TJ
+-19.02 -1.13 TD
+0 Tc
+-0.09 Tw
+[(student population.  I)23(n)0( 1965, )-10(94% )-10(of)]TJ
+14.12 0 TD
+-0.0003 Tc
+-0.0897 Tw
+[( students were white; by)29.7( 2000, )]TJ
+11.89 0 TD
+-0.0013 Tc
+-0.0887 Tw
+[(that percentag)8.7(e)2.7( had fallen)]TJ
+-26.01 -1.12 TD
+-0.0004 Tc
+-0.0696 Tw
+[(to 78%.  Gender distribution has )]TJ
+12.82 0 TD
+-0.0005 Tc
+-0.0695 Tw
+[(shifted markedly)29.5( as )-10(well.  )]TJ
+10.17 0 TD
+[(I)22.5(n)-0.5( 1965, 38% of all students were)]TJ
+-22.99 -1.13 TD
+-0.0006 Tc
+-0.0194 Tw
+[(women; )10(by)29.4( )10(2000, )10(that )10(share had risen to 55%.  )]TJ
+18.54 0 TD
+-0.001 Tc
+-0.029 Tw
+[(\(These )-10(data are from the Current Population)]TJ
+-18.54 -1.12 TD
+-0.0008 Tc
+0.0208 Tw
+[(Survey)29.2(.  F)5.2(o)-0.8(r further analy)29.2(s)-1.8(is of these data, s)-11.8(e)-6.8(e)-6.8( )-10(C)-13.8(R)-13.8(S)-14.8( )-10(R)-13.8(e)3.2(port RL)20.2(31441, )]TJ
+/F6 1 Tf
+28.35 0 TD
+-0.0005 Tc
+0.0205 Tw
+(The Postsecondary)Tj
+-28.35 -1.13 TD
+0.0001 Tc
+-0.0001 Tw
+(Education Student Population)Tj
+/F4 1 Tf
+12.06 0 TD
+0 Tc
+0 Tw
+(.\))Tj
+/F2 1 Tf
+15.96 0 0 15.96 227.159 271.6404 Tm
+-0.0002 Tc
+0.0004 Tw
+[(Summary)22( of the HEA)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 243.9203 Tm
+0.0008 Tc
+0.2192 Tw
+[(T)-8.2(h)-9.2(e )-10(H)-7.2(E)1.8(A a)4.8(u)0.8(thorize)4.8(s)-0.2( prog)10.8(ra)4.8(ms a)4.8(nd a)4.8(c)4.8(tivitie)]TJ
+18.53 0 TD
+0.0004 Tc
+0.2196 Tw
+[(s most of whic)4.4(h fa)4.4(ll into four mai)-11.6(n)]TJ
+-20.53 -1.13 TD
+-0.0008 Tc
+-0.0692 Tw
+[(categ)9.2(ories:  student financial )]TJ
+11.41 0 TD
+-0.0003 Tc
+-0.0597 Tw
+[(aid, )10(support )10(services to help st)]TJ
+11.78 0 TD
+-0.0696 Tw
+[(udents complete hig)9.6(h)-0.4( school and)]TJ
+-23.19 -1.12 TD
+-0.001 Tc
+0.121 Tw
+[(e)-7(n)-11(t)-13(e)-7(r)-8( )-10(a)-7(n)-11(d succeed in postsecondary)29( education, )]TJ
+19.47 0 TD
+0.0001 Tc
+0.1199 Tw
+[(aid to streng)10.1(then institutions, and aid t)-11.9(o)]TJ
+-19.47 -1.13 TD
+-0.0009 Tc
+0.0309 Tw
+[(i)-12.9(m)-12.9(p)-10.9(r)-7.9(ove K-12 teacher training)9.1( at postseconda)]TJ
+18.39 0 TD
+-0.0003 Tc
+0.0303 Tw
+[(ry)29.7( institutions.  ED\222s FY2002 appropriation)]TJ
+-18.39 -1.12 TD
+-0.0196 Tw
+[(leg)9.6(i)-2.4(slation includes over $15 billion for HEA )]TJ
+18.21 0 TD
+-0.0008 Tc
+-0.0192 Tw
+[(discretionary)29.2( author)]TJ
+7.96 0 TD
+0.0006 Tc
+-0.0206 Tw
+[(ities.  This total )]TJ
+/F6 1 Tf
+6.4 0 TD
+-0.0029 Tc
+0 Tw
+[(excl)-4.9(udes)]TJ
+/F4 1 Tf
+-32.57 -1.13 TD
+-0.0003 Tc
+-0.0697 Tw
+[(ma)3.7(nda)3.7(tory)29.7( fe)3.7(de)3.7(ra)3.7(l e)3.7(x)-10.3(pe)3.7(nditure)3.7(s for the)3.7( F)5.7(e)3.7(de)3.7(ra)3.7(l F)5.7(a)3.7(mily)29.7( Educ)3.7(a)3.7(tion L)20.7(o)-0.3(a)3.7(n)-0.3(s \(F)5.7(F)5.7(E)0.7(L)20.7(s)-1.3(\) a)3.7(nd Dire)3.7(c)3.7(t)]TJ
+0 -1.12 TD
+0.0001 Tc
+0.0499 Tw
+[(L)21.1(o)0.1(a)4.1(n)0.1(s \(DL)21.1(s)-0.9(\) throug)10.1(h whic)4.1(h stude)4.1(nts a)4.1(nd the)4.1(i)-1.9(r pa)4.1(re)4.1(nts a)4.1(r)3.1(e)4.1( e)4.1(s)-0.9(tima)4.1(te)4.1(d to se)4.1(c)4.1(u)0.1(re)4.1( )-10(n)-9.9(e)-5.9(a)4.1(r)3.1(ly)30.1( $38)]TJ
+0 -1.13 TD
+0 Tc
+0.05 Tw
+[(billion in new loans \(ex)-10(c)4(luding)10( consolidation )]TJ
+18.63 0 TD
+0.0001 Tc
+0.0599 Tw
+[(loans\).  O)-7.9(v)-9.9(er )10(two-thir)]TJ
+8.85 0 TD
+-0.0009 Tc
+0.0509 Tw
+[(ds of the annual loan)]TJ
+-27.48 -1.12 TD
+0.0036 Tc
+0.0464 Tw
+[(v)3.6(o)3.6(l)1.6(u)3.6(m)1.6(e)7.6( c)7.6(o)3.6(n)3.6(s)2.6(ists o)3.6(f)6.6( c)7.6(a)7.6(p)3.6(ita)7.6(l p)3.6(r)6.6(o)3.6(v)3.6(i)1.6(d)3.6(e)7.6(d)3.6( b)3.6(y)33.6( p)3.6(r)6.6(iv)3.6(a)7.6(t)1.6(e)7.6( le)7.6(n)3.6(d)3.6(e)7.6(r)6.6(s)2.6( w)5.6(h)3.6(o )-10(recei)-8.4(ve )-10(fe)7.6(d)3.6(e)7.6(r)6.6(a)7.6(l su)3.6(b)3.6(s)2.6(id)3.6(ie)7.6(s a)7.6(n)3.6(d)]TJ
+0 -1.13 TD
+-0.0026 Tc
+0 Tw
+[(g)7.4(u)-2.6(arant)-4.6(ees.)]TJ
+2 -2.25 TD
+0.0004 Tc
+-0.0004 Tw
+[(The)4.4(r)3.4(e)4.4( a)4.4(r)3.4(e)4.4( se)4.4(ve)4.4(n title)4.4(s in the)4.4( HEA:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 68.3604 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 68.3604 Tm
+0.0003 Tc
+-0.0003 Tw
+[(Title)4.3( I)23.3( \227 Ge)4.3(ne)4.3(ra)4.3(l Provisions)]TJ
+ET
+endstream
+endobj
+
+41 0 obj
+9044
+endobj
+
+%% Original object ID: 36 0
+42 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+    /TT5 87 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 6
+%% Original object ID: 37 0
+43 0 obj
+<<
+  /Length 44 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(3)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 712.2803 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 712.2803 Tm
+-0.0008 Tc
+0.0008 Tw
+[(Title I)22.2(I)22.2( \227 Teacher Quality)29.2( Enhancement Grants)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 698.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 698.7203 Tm
+0.0012 Tc
+[(Title)5.2( )]TJ
+2.14 0 TD
+-0.023 Tc
+0.023 Tw
+[(III \227)-23( In)-23(s)]TJ
+3.63 0 TD
+0.0011 Tc
+-0.0011 Tw
+[(titutiona)5.1(l Aid)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 685.2803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 685.2803 Tm
+0.0009 Tc
+-0.0009 Tw
+[(Title)4.9( I)23.9(V)2.9( \227 Stude)4.9(nt Assista)4.9(n)0.9(c)4.9(e)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 671.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 671.7203 Tm
+0.0005 Tc
+-0.0005 Tw
+[(Title)4.5( V \227 De)4.5(ve)4.5(loping)10.5( I)23.5(n)0.5(stitutions)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 658.2803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 658.2803 Tm
+0.0004 Tc
+-0.0004 Tw
+[(Title)4.4( VI)23.4<20972049>23.4(n)0.4(te)4.4(rna)4.4(tiona)4.4(l Educ)4.4(a)4.4(tion Prog)10.4(ra)4.4(ms)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 644.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 644.7203 Tm
+-0.0006 Tc
+0.0006 Tw
+[(Title VI)22.4(I)22.4( \227 Graduate)]TJ
+8.63 0 TD
+[( and Postsecondary)29.3( )]TJ
+7.93 0 TD
+-0.0005 Tc
+0.0005 Tw
+[(I)22.5(m)-2.5(provement Prog)9.5(rams)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 615.5603 Tm
+-0.0018 Tc
+0.0059 Tw
+[(Student A)27.9(i)-5.9(d)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 588.3203 Tm
+-0.0009 Tc
+0.0409 Tw
+[(At the heart of the HEA are the student ai)]TJ
+16.98 0 TD
+-0.0006 Tc
+0.0406 Tw
+[(d)-10.6( )-10(p)-10.6(r)-7.6(o)-10.6(g)-0.6(r)-7.6(a)-6.6(m)-12.6(s)-11.6( )-10(authorized under Title I)22.4(V)1.4( that)]TJ
+-18.98 -1.12 TD
+-0.0005 Tc
+0.1005 Tw
+[(provide g)9.5(r)2.5(ant aid \(which does not hav)-10.5(e)-6.5( )-10(to be)]TJ
+18.62 0 TD
+-0.0013 Tc
+0.1013 Tw
+[( repai)-3.3(d)-1.3(\), l)-3.3(o)-1.3(ans, and work-st)-3.3(udy)28.7( assi)-3.3(st)-3.3(ance.)]TJ
+-18.62 -1.13 TD
+0.0412 Tw
+[(These prog)8.8(rams seek to ex)-11.2(pand educatio)]TJ
+16.42 0 TD
+-0.0005 Tc
+0.0405 Tw
+[(nal opportunity)29.5( and for F)5.5(Y)1.5(2002 are estimated to)]TJ
+-16.42 -1.12 TD
+0 Tc
+-0.07 Tw
+[(support )10(more )10(than $52 billion in student assistan)]TJ
+18.91 0 TD
+-0.0004 Tc
+-0.0696 Tw
+[(ce.  This cumulative total amount )10(of )10(student)]TJ
+-18.91 -1.13 TD
+-0.0005 Tc
+0.1705 Tw
+[(aid includes directly)29.5( appropr)]TJ
+11.93 0 TD
+-0.0008 Tc
+0.1708 Tw
+[(iated federal)-12.8( )-10(f)-7.8(u)-10.8(nds, student loan volume in the F)5.2(F)5.2(E)0.2(L)20.2(/)-2.8(DL)]TJ
+-11.93 -1.12 TD
+0.0001 Tc
+-0.0401 Tw
+[(prog)10.1(rams, and institutional matc)]TJ
+12.81 0 TD
+-0.0012 Tc
+-0.0388 Tw
+[(hing)8.8( funds required under severa)]TJ
+12.96 0 TD
+-0.0008 Tc
+-0.0392 Tw
+[(l of the )10(federal )10(student aid)]TJ
+-25.77 -1.13 TD
+-0.0006 Tc
+-0.0594 Tw
+[(prog)9.4(rams.  )-10(This cumulative total ex)-10.6(cludes about)]TJ
+18.88 0 TD
+0 Tc
+-0.06 Tw
+[( $17 billion in Stafford L)21(o)0(an consolidations)]TJ
+-18.88 -1.12 TD
+0.0012 Tc
+0.0588 Tw
+[(\(ne)5.2(w)3.2( loa)5.2(n)1.2(s issue)5.2(d)1.2( to c)5.2(onsolida)5.2(t)-10.8(e )-10(e)5.2(x)-8.8(isting)11.2( loa)5.2(n)]TJ
+18.71 0 TD
+-0.0003 Tc
+0.0603 Tw
+[(s\).  \(Unless noted, data)]TJ
+9.39 0 TD
+-0.0017 Tc
+0.0617 Tw
+[( presented here and)]TJ
+-28.1 -1.13 TD
+-0.0003 Tc
+0.0803 Tw
+[(below on total spending)9.7( and )]TJ
+11.91 0 TD
+[(numbers of students aided unde)]TJ
+12.97 0 TD
+-0.0008 Tc
+0.0808 Tw
+[(r HEA Title I)22.2(V)-8.8( )-10(s)-11.8(t)-12.8(u)-10.8(d)-10.8(e)3.2(nt aid)]TJ
+-24.88 -1.12 TD
+-0.0002 Tc
+0.0002 Tw
+[(prog)9.8(ra)3.8(ms a)3.8(r)2.8(e)3.8( from the)3.8( U.S. )]TJ
+11.16 0 TD
+-0.0008 Tc
+0.0008 Tw
+(Department of Education\222s )Tj
+/F6 1 Tf
+11.06 0 TD
+-0.0002 Tc
+0.0002 Tw
+[(FY)-14.2(2003 Budget Summary)]TJ
+/F4 1 Tf
+10.28 0 TD
+0 Tc
+0 Tw
+(.\))Tj
+-30.5 -2.25 TD
+0.0003 Tc
+-0.0703 Tw
+[(The)4.3( la)4.3(rg)10.3(e)4.3(s)-0.7(t Title)4.3( I)23.3(V)2.3( stude)4.3(nt a)4.3(i)-1.7(d prog)10.3(ra)4.3(ms )-10(a)4.3(r)3.3(e)4.3( )-10(the)4.3( )-10(Pe)4.3(ll Gra)4.3(n)0.3(t prog)10.3(ra)4.3(m, a)4.3(nd the)4.3( F)6.3(F)6.3(E)1.3(L)21.3( a)4.3(n)0.3(d)]TJ
+-2 -1.13 TD
+-0.0012 Tc
+0.0612 Tw
+[(DL)19.8( prog)8.8(rams.  )-10(U)-9.2(n)-11.2(der each, students receive )]TJ
+18.23 0 TD
+-0.0005 Tc
+0.0605 Tw
+[(funds to attend the pos)]TJ
+9.29 0 TD
+-0.0013 Tc
+0.0613 Tw
+[(tsecondary)28.7( education)]TJ
+-27.52 -1.12 TD
+-0.0005 Tc
+-0.0995 Tw
+[(institutions )-10(of )-10(their )-10(choice.  Pell Grants are n)]TJ
+17.13 0 TD
+-0.0018 Tc
+-0.0982 Tw
+[(eed-based aid for underg)8.2(ra)]TJ
+10.34 0 TD
+-0.0004 Tc
+-0.0996 Tw
+[(duate students.  )-10(These)]TJ
+-27.47 -1.13 TD
+-0.0016 Tc
+0.0216 Tw
+[(g)8.4(r)1.4(ants are currentl)-13.6(y)18.4( ex)-11.6(pected to assi)]TJ
+14.41 0 TD
+0.0003 Tc
+0.0197 Tw
+[(st 4.6 million students with $11.2 billion for F)6.3(Y)2.3(2002.)]TJ
+-14.41 -1.12 TD
+-0.0019 Tc
+-0.0781 Tw
+[(F)4.1(F)4.1(E)-0.9(L)19.1(s)-2.9( are made by)28.1( private lenders and are av)]TJ
+17.63 0 TD
+-0.0013 Tc
+-0.0787 Tw
+[(ailable to underg)8.7(raduate )]TJ
+9.64 0 TD
+-0.0006 Tc
+-0.0794 Tw
+[(and g)9.4(r)2.4(aduate students,)]TJ
+-27.27 -1.13 TD
+-0.0008 Tc
+0.0108 Tw
+[(and their parents.  Some kinds of F)5.2(F)5.2(E)0.2(L)20.2(s)-1.8( ar)]TJ
+17.22 0 TD
+-0.0009 Tc
+[(e need-based, others )10(are )10(not. )10( )10(F)5.1(o)-0.9(r F)5.1(Y)1.1(2002, it is)]TJ
+-17.22 -1.12 TD
+-0.0001 Tc
+0.0101 Tw
+[(estimated that some $26.5 billion )10(will )10(be )10(borro)]TJ
+18.76 0 TD
+-0.0005 Tc
+0.0105 Tw
+[(wed )10(in )10(6.8 million loans.  The DL)20.5( prog)9.5(ram)]TJ
+-18.76 -1.13 TD
+-0.0006 Tc
+0.0906 Tw
+[(p)-10.6(r)2.4(ovides the same kinds of loans as the F)5.4(F)5.4(E)]TJ
+18.31 0 TD
+[(L)20.4( prog)9.4(ram, but the loan capital is provided)]TJ
+-18.31 -1.12 TD
+-0.001 Tc
+-0.099 Tw
+[(directly)29( by)29( the federal g)19(o)9(v)9(e)13(r)12(n)]TJ
+11.27 0 TD
+-0.0008 Tc
+-0.0992 Tw
+[(m)7.2(e)13.2(n)9.2(t)7.2(;)7.2( participating)9.2( postsecondary)29.2( )]TJ
+13.4 0 TD
+-0.0004 Tc
+-0.0996 Tw
+[(institutions or contractors act)]TJ
+-24.67 -1.13 TD
+-0.0002 Tc
+0.0202 Tw
+[(as loan orig)9.8(inators on behalf of t)-12.2(h)-10.2(e )-10(f)-7.2(e)]TJ
+15.13 0 TD
+-0.0006 Tc
+0.0206 Tw
+[(d)-10.6(e)-6.6(r)-7.6(a)-6.6(l)-12.6( )-10(g)9.4(overnment.  F)5.4(o)-0.6(r F)5.4(Y)1.4(2002, an estimated $11.4)]TJ
+-15.13 -1.12 TD
+0.0002 Tc
+-0.0002 Tw
+[(billion in 2.8 million DL)21.2(s will be borrowed.)]TJ
+2 -2.25 TD
+-0.0008 Tc
+0.1208 Tw
+[(Three smaller Title I)22.2(V)1.2( student aid prog)]TJ
+16.33 0 TD
+-0.0004 Tc
+0.1204 Tw
+[(rams \227 F)5.6(e)3.6(deral Suppl)]TJ
+9.37 0 TD
+-0.0007 Tc
+0.1207 Tw
+(emental Educational)Tj
+-27.7 -1.13 TD
+0.0081 Tc
+0.2119 Tw
+[(Opport)6.1(u)8.1(n)8.1(i)6.1(t)6.1(y)38.1( G)10.1(r)11.1(a)12.1(n)8.1(t)6.1(s)7.1( \()11.1(S)4.1(E)9.1(O)10.1(G)10.1(\))11.1(,)8.1( F)14.1(e)12.1(d)8.1(e)12.1(r)11.1(a)12.1(l)6.1( Wo)8.1(r)11.1(k)8.1(-)11.1(S)4.1(t)6.1(u)8.1(d)8.1(y)38.1(,)8.1( a)12.1(n)8.1(d)8.1( F)14.1(e)12.1(d)8.1(e)12.1(r)11.1(a)12.1(l)6.1( P)4.1(e)12.1(r)11.1(k)8.1(i)6.1(n)8.1(s)7.1( L)29.1(o)8.1(a)12.1(n)8.1(s)7.1<2097>8.1( a)12.1(r)11.1(e)]TJ
+0 -1.14 TD
+-0.0007 Tc
+0.0707 Tw
+[(collectively)29.3( known as the )]TJ
+/F5 1 Tf
+10.68 0 TD
+0.0002 Tc
+0.0698 Tw
+[(cam)13.2(pus-based program)13.2(s)]TJ
+/F4 1 Tf
+10.52 0 TD
+-0.0014 Tc
+0.0714 Tw
+[( becaus)-12.4(e)-7.4( )-10(t)-13.4(h)-11.4(e)-7.4(i)-13.4(r)-8.4( )-10(funds are allocated to)]TJ
+-21.2 -1.13 TD
+-0.0004 Tc
+-0.0096 Tw
+[(postsecondary)29.6( institutions for award to students.)]TJ
+19.24 0 TD
+0.0001 Tc
+-0.0101 Tw
+[( )10( )10(I)23.1(n)0.1(stitutions )10(must match a portion of their)]TJ
+-19.24 -1.12 TD
+-0.0011 Tc
+0.0311 Tw
+[(allocation under each of these prog)8.9(rams.  Unde)]TJ
+19.04 0 TD
+-0.0012 Tc
+[(rg)8.8(raduates c)-7.2(a)-7.2(n)-11.2( )-10(p)-11.2(a)-7.2(r)-8.2(ticipate in each of these)]TJ
+-19.04 -1.13 TD
+-0.0006 Tc
+0.1006 Tw
+[(prog)9.4(rams, while g)9.4(r)2.4(aduate stude)]TJ
+12.81 0 TD
+0.1007 Tw
+[(nts are elig)9.3(ible for W)-6.7(o)-0.7(rk-S)-4.7(tudy)29.3( and P)-4.7(e)3.3(rkins L)10.3(o)-10.7(a)-6.7(n)-10.7(s)-11.7(.)-10.7( )-10( )-10(F)-4.7(o)-10.7(r)]TJ
+-12.81 -1.12 TD
+0.0003 Tc
+-0.0303 Tw
+[(F)6.3(Y)2.3(2002, an estimated $918 million in SEOGs will g)10.3(o)]TJ
+21.28 0 TD
+0 Tc
+-0.03 Tw
+[( to more than )10(1.2 )10(million students; an)]TJ
+-21.28 -1.13 TD
+-0.0001 Tc
+-0.0199 Tw
+(estimated 970,000 students will earn )Tj
+14.77 0 TD
+-0.0003 Tc
+-0.0297 Tw
+[(over $1.2 billion in the F)5.7(e)3.7(deral Work-Study)29.7( prog)9.7(ram;)]TJ
+-14.77 -1.12 TD
+-0.0597 Tw
+[(and an estimated 715,000 students will borrow a)]TJ
+18.95 0 TD
+0.0002 Tc
+-0.0702 Tw
+[(pprox)-9.8(imately)30.2( )-10($1.2 billion in Perkins )-10(L)21.2(o)0.2(ans.)]TJ
+-16.95 -2.25 TD
+-0.0002 Tw
+[(Among)10.2( othe)4.2(r )10(Title)4.2( I)23.2(V)2.2( stude)4.2(nt a)4.2(i)-1.8(d prog)10.2(ra)4.2(ms is the)4.2( L)21.2(e)4.2(ve)4.2(ra)4.2(g)10.2(i)-1.8(ng)10.2( Educ)4.2(a)4.2(tiona)4.2(l Assista)4.2(n)0.2(c)4.2(e)]TJ
+-2 -1.13 TD
+-0.0006 Tc
+-0.0394 Tw
+[(Partnership )10(\(L)20.4(EAP\) prog)9.4(ram whic)]TJ
+13.62 0 TD
+-0.0002 Tc
+-0.0398 Tw
+[(h provides matching)9.8( funds to )]TJ
+11.7 0 TD
+-0.001 Tc
+-0.039 Tw
+[(states to encourag)9(e )10(them )10(to)]TJ
+-25.32 -1.12 TD
+-0.099 Tw
+[(p)9(r)12(ovide need-based state g)9(r)2(ant prog)9(rams.  )]TJ
+16.29 0 TD
+-0.0007 Tc
+-0.0993 Tw
+[(There was an F)5.3(Y)1.3(2002 appropriation of $67 mill)7.3(i)7.3(o)9.3(n)]TJ
+-16.29 -1.13 TD
+0.0006 Tw
+[(for this prog)9.4(ram.)]TJ
+2 -2.25 TD
+-0.0011 Tc
+0.0411 Tw
+[(The r)-8.1(e)-7.1(l)-13.1(a)-7.1(t)-13.1(i)-13.1(v)-11.1(e)-7.1( )-10(balance among)8.9( the various kinds)]TJ
+18.45 0 TD
+-0.0009 Tc
+0.0409 Tw
+[( of federal student )]TJ
+7.64 0 TD
+-0.0005 Tc
+0.0405 Tw
+(aid has shifted over)Tj
+-28.09 -1.12 TD
+-0.0004 Tc
+0.1904 Tw
+[(time.  According)9.6( to estimates from The Co)]TJ
+18.47 0 TD
+-0.0013 Tc
+0.1913 Tw
+[(lleg)8.7(e)2.7( B)5.7(o)-1.3(ard, the ag)8.7(g)8.7(r)1.7(eg)8.7(ate annual amount)]TJ
+ET
+endstream
+endobj
+
+44 0 obj
+9914
+endobj
+
+%% Original object ID: 38 0
+45 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F5 85 0 R
+    /F6 86 0 R
+    /TT5 87 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 7
+%% Original object ID: 39 0
+46 0 obj
+<<
+  /Length 47 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(4)]TJ
+-16.63 56.72 TD
+-0.001 Tc
+-0.089 Tw
+[(borrowed under the F)5(F)5(E)0(L)20(,)-1( DL)20(, and Perkins )-10(prog)]TJ
+18.81 0 TD
+-0.079 Tw
+[(rams \(DL)20(s)-2( were first made in the 1994-1995)]TJ
+-18.81 -1.13 TD
+-0.0013 Tc
+0.0613 Tw
+[(academic y)28.7(ear\) rose by)28.7( some 185% durin)]TJ
+16.81 0 TD
+-0.0015 Tc
+0.0615 Tw
+[(g)8.5( the decade f)-8.5(r)-8.5(o)-11.5(m)-13.5( )-10(a)-7.5(cademic y)28.5(ear 1991-1992 to)]TJ
+-16.81 -1.12 TD
+-0.0009 Tc
+0.3209 Tw
+[(academic y)29.1(ear 2001-2002)-10.9(,)-10.9( )-10(w)-8.9(h)-10.9(i)-12.9(l)-12.9(e)3.1( the combined g)9.1(r)2.1(ant aid from the P)-4.9(e)3.1(ll Grant and)]TJ
+0 -1.13 TD
+0 Tc
+0.16 Tw
+[(Supplemental Educational Opportunity)30( )-10(p)-10(r)-7(o)-10(g)]TJ
+18.23 0 TD
+-0.0005 Tc
+0.1605 Tw
+[(r)-7.5(a)3.5(ms g)9.5(r)2.5(ew by)29.5( about 69% and W)-6.5(o)-0.5(rk-Study)]TJ
+-18.23 -1.12 TD
+-0.001 Tc
+0.001 Tw
+[(earning)9(s by)29( 60%.  I)22(n)-1( )-10(1991-1992, )-10(of )-10(the )-10(ag)9(g)9(r)2(eg)9(ate )]TJ
+19.99 0 TD
+-0.0009 Tc
+0.0009 Tw
+[(aid available from these g)9.1(r)2.1(ant, loan, and)]TJ
+-19.99 -1.13 TD
+-0.0012 Tc
+0.0512 Tw
+[(work prog)8.8(rams, 68% came in the form of loan)]TJ
+18.88 0 TD
+-0.0008 Tc
+0.0508 Tw
+[(s, )-10(2)-10.8(9)-10.8(%)-7.8( )-10(a)-6.8(s)-11.8( )-10(grants, and 3% as earning)9.2(s.  B)6.2(y)]TJ
+-18.88 -1.12 TD
+-0.0011 Tc
+0.0511 Tw
+[(2001-2002, the relative balance was 78% loans, )]TJ
+19.67 0 TD
+-0.0009 Tc
+0.0509 Tw
+[(20%)-7.9( g)9.1(r)2.1(ants, and 2% earning)9.1(s.  \(See The)]TJ
+-19.67 -1.13 TD
+0.0011 Tc
+-0.0911 Tw
+[(Colle)5.1(g)11.1(e)5.1( B)8.1(o)1.1(a)5.1(r)4.1(d, )]TJ
+/F6 1 Tf
+6.1 0 TD
+0.0002 Tc
+-0.0902 Tw
+[(Trends in Student Aid 2002)]TJ
+/F4 1 Tf
+10.59 0 TD
+-0.0005 Tc
+-0.0895 Tw
+[(.\)  B)6.5(a)3.5(sed on the estimates in )10(ED\222s F)5.5(Y)1.5(2003 )]TJ
+/F6 1 Tf
+16.48 0 TD
+-0.001 Tc
+0 Tw
+(Budget)Tj
+-33.17 -1.12 TD
+-0.0003 Tc
+(Summary)Tj
+/F4 1 Tf
+3.77 0 TD
+-0.0006 Tc
+-0.0594 Tw
+[(, )10(the )10(distribution )10(for F)5.4(Y)1.4(2002 for these same)]TJ
+17.08 0 TD
+[( prog)9.3(rams was 75% loans, 22% g)9.3(r)2.3(ants,)]TJ
+-20.85 -1.13 TD
+-0.0021 Tc
+-0.0379 Tw
+[(and 2% earni)-4.1(ng)7.9(s, refl)-4.1(ect)-4.1(i)-4.1(n)-2.1(g)7.9( a sl)-4.1(i)-4.1(g)7.9(ht)-4.1( i)-4.1(n)-2.1(crease )-10(i)-4.1(n)-2.1( )-10(t)-4.1(h)-2.1(e )-10(g)7.9(r)0.9(ant)-4.1( )-10(share )-10(and decrease i)-4.1(n)-2.1( t)-4.1(h)-2.1(at)-4.1( of l)-4.1(o)-2.1(ans.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 561.5603 Tm
+-0.0018 Tc
+0.0059 Tw
+[(Student Suppor)-6(t Ser)-6(v)7.2(i)-5.9(ces)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 534.3203 Tm
+-0.0012 Tc
+-0.0088 Tw
+[(The HEA\222s primary)28.8( prog)8.8(rams for student )10(serv)]TJ
+18.35 0 TD
+-0.0026 Tc
+-0.0174 Tw
+[(i)-4.6(ces are t)-4.6(h)-2.6(e federal)-4.6( TR)-5.6(I)20.4(O)-0.6( )-10(prog)7.4(ram)-4.6(s)-3.6( )-10(and)]TJ
+-20.35 -1.12 TD
+-0.0002 Tc
+-0.0698 Tw
+[(the)3.8( Ga)3.8(ining)9.8( Ea)3.8(rly)29.8( Awa)3.8(re)3.8(ne)3.8(ss a)3.8(nd )-10(Re)3.8(a)3.8(d)-0.2(ine)3.8(ss )-10(fo)]TJ
+18.35 0 TD
+-0.0015 Tc
+-0.0685 Tw
+[(r Underg)8.5(raduate P)-5.5(r)1.5(og)8.5(rams \(GEAR)-4.5( UP)-5.5(\), both)]TJ
+-18.35 -1.13 TD
+0.0002 Tc
+-0.1002 Tw
+[(a)4.2(u)0.2(thorize)4.2(d)0.2( )-10(by)30.2( )-10(HEA Title)4.2( I)23.2(V)2.2(.  I)23.2(n)0.2( g)10.2(e)4.2(ne)4.2(ra)4.2(l, the)4.2(s)-0.8(e)4.2( prog)10.2(ra)4.2(ms provide)4.2( disa)4.2(dva)4.2(nta)4.2(g)10.2(e)4.2(d)0.2( )-10(stude)4.2(nts )-10(with)]TJ
+0 -1.12 TD
+-0.0004 Tc
+0.0204 Tw
+[(support services to help them complete hig)9.6(h)-0.4( )]TJ
+18.03 0 TD
+-0.0012 Tc
+0.0212 Tw
+(school, and enter and pers)Tj
+10.47 0 TD
+0.0003 Tc
+0.0197 Tw
+[(ist in colleg)10.3(e)4.3(.)-9.7( )-10( The)]TJ
+-28.5 -1.13 TD
+-0.0022 Tc
+-0.0778 Tw
+[(TR)-5.2(I)20.8(O)-0.2( prog)7.8(ram)-4.2(s)-3.2( )10(\(so )10(cal)-4.2(l)-4.2(e)1.8(d )10(because )10(t)-4.2(h)-2.2(ere )10(were once j)-4.2(u)-2.2(st)-4.2( t)-4.2(h)-2.2(ree of t)-4.2(h)-2.2(em)-4.2(\) i)-4.2(n)-2.2(cl)-4.2(ude Tal)-4.2(e)1.8(nt)-4.2( S)-6.2(earch,)]TJ
+0 -1.12 TD
+-0.0003 Tc
+0.2403 Tw
+[(Upward B)6.7(ound, Student Support Services, E)]TJ
+19.04 0 TD
+-0.0002 Tc
+0.2402 Tw
+[(ducational Opportunity)19.8( )-10(C)-13.2(e)-6.2(n)-10.2(t)-12.2(e)-6.2(r)2.8(s, McNair)]TJ
+-19.04 -1.13 TD
+-0.001 Tc
+0.011 Tw
+[(Postbaccalaureate, and Sta)]TJ
+10.63 0 TD
+-0.0006 Tc
+0.0106 Tw
+[(ff Training)9.4(.  For FY2002 an)-10.6( estimated 823,000 individuals will)]TJ
+-10.63 -1.12 TD
+-0.0008 Tc
+-0.0792 Tw
+[(participate in )-10(the various TRI)22.2(O)1.2( prog)9.2(rams )]TJ
+16.25 0 TD
+-0.0006 Tc
+-0.0794 Tw
+[(which received $802.5 million in that y)29.4(ear.  GEAR)]TJ
+-16.25 -1.13 TD
+-0.0009 Tc
+-0.0191 Tw
+[(UP )-10(is )-10(ex)-10.9(pected to serve an estimated 1.2 )]TJ
+16.26 0 TD
+0.0004 Tc
+-0.0204 Tw
+[(million students with its F)6.4(Y)2.4(2002 funding)10.4( )-10(of )-10($285)]TJ
+-16.26 -1.12 TD
+0.0013 Tc
+0 Tw
+(million.)Tj
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 383.7203 Tm
+0.0028 Tc
+0.0013 Tw
+[(In)7(stitu)7(t)2.5(io)7(n)7(a)3.2(l A)32.5(i)-1.3(d)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 356.4803 Tm
+-0.0005 Tc
+-0.0095 Tw
+[(The )-10(primary)29.5( institutional assistance prog)]TJ
+16.25 0 TD
+-0.0009 Tc
+0.0009 Tw
+[(rams )10(are those authorized under Title )]TJ
+15.13 0 TD
+-0.023 Tc
+0.023 Tw
+[(III a)-19(n)-23(d)]TJ
+-33.38 -1.13 TD
+-0.0005 Tc
+0.0405 Tw
+[(V.  B)6.5(o)-0.5(th titles award g)9.5(r)2.5(ants to hi)-12.5(gh)-10.5(e)-6.5(r)-7.5( )-10(e)-6.5(d)-10.5(uca)]TJ
+17.76 0 TD
+-0.0002 Tc
+0.0402 Tw
+[(tion institutions to streng)9.8(then their academic,)]TJ
+-17.76 -1.12 TD
+0.0012 Tc
+0.0588 Tw
+[(ad)-8.8(m)-10.8(i)-10.8(n)1.2(istra)5.2(tive)5.2(,)1.2( a)5.2(nd fina)5.2(nc)5.2(ia)5.2(l c)5.2(a)5.2(p)1.2(a)5.2(c)5.2(itie)5.2(s.  Title)5.2( )]TJ
+18.87 0 TD
+-0.023 Tc
+0.083 Tw
+[(III a)-19(u)-23(t)-25(h)-23(o)-23(r)-20(i)-25(z)-29(e)-19(s)-24( f)-20(i)-25(n)-23(a)-19(n)-23(c)-19(i)-25(a)-19(l)-25( a)-19(s)-24(s)-24(i)-25(s)-24(t)-25(a)-19(n)-23(c)-19(e)-19( t)-25(o)-23( s)-24(e)-19(l)-25(e)-19(c)-29(t)]TJ
+-18.87 -1.13 TD
+0.0002 Tc
+-0.1002 Tw
+[(g)20.2(r)13.2(oups of institutions, including)10.2( tribal colleg)10.2(e)]TJ
+17.73 0 TD
+-0.0012 Tc
+-0.0988 Tw
+[(s, Alaska Native- an)8.8(d)8.8( N)10.8(a)12.8(t)6.8(i)6.8(v)8.8(e)12.8( H)10.8(a)12.8(w)10.8(a)12.8(i)6.8(i)6.8(a)12.8(n)8.8(-)11.8(S)4.8(e)12.8(r)11.8(v)8.8(i)6.8(n)8.8(g)]TJ
+-17.73 -1.12 TD
+0.0007 Tc
+0.0693 Tw
+[(institu)-9.3(tions, a)4.7(nd historic)4.7(a)4.7(lly)30.7( bla)4.7(c)4.7(k)0.7( c)4.7(o)0.7(lle)4.7(g)10.7(e)4.7(s a)4.7(nd unive)4.7(rsitie)4.7(s \(HB)7.7(C)-2.3(Us\).  I)23.7(t)-1.3( a)4.7(l)-1.3(so a)4.7(u)0.7(thorize)4.7(s)]TJ
+0 -1.13 TD
+-0.0006 Tc
+0.1606 Tw
+[(support for capital fin)-10.6(a)3.4(ncing)9.4( of HB)6.4(CUs, and )]TJ
+19.14 0 TD
+-0.0012 Tc
+0.1612 Tw
+[(improvement of science and eng)8.8(i)-3.2(neering)]TJ
+-19.14 -1.12 TD
+0.0002 Tc
+-0.0002 Tw
+[(prog)10.2(rams at predominantly)30.2( minority)30.2( institu)]TJ
+17.21 0 TD
+-0.0002 Tc
+0.0102 Tw
+[(tions. The total F)5.8(Y)1.8(2002 appropriation for Title)]TJ
+-17.21 -1.13 TD
+-0.023 Tc
+0.033 Tw
+[(III i)-25(s)-24( )]TJ
+2.12 0 TD
+0.0019 Tc
+0.0081 Tw
+[($361 million.  T)2.9(itle)5.9( V)3.9( a)5.9(u)1.9(thor)4.9(ize)5.9(s)0.9( f)4.9(i)-0.1(na)5.9(nc)5.9(ia)5.9(l s)]TJ
+17.57 0 TD
+0.0061 Tc
+0.0039 Tw
+[(uppor)9.1(t f)9.1(o)6.1(r)9.1( H)8.1(i)4.1(spa)10.1(n)]TJ
+7.16 0 TD
+0.0016 Tc
+0.0084 Tw
+[(ic)5.6(-)4.6(S)-2.4(e)5.6(r)4.6(ving)11.6( institutions;)]TJ
+-26.85 -1.12 TD
+0.0005 Tc
+-0.0005 Tw
+[(its F)6.5(Y)2.5(2002 funding)10.5( is $86 million.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 205.7603 Tm
+0 Tc
+0.0041 Tw
+[(Preserv)9(i)-4.1(ce Teach)]TJ
+8.2222 0 TD
+0.0003 Tc
+0.0038 Tw
+(er Training)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 178.5204 Tm
+-0.0008 Tc
+-0.0992 Tw
+[(HEA Title I)22.2(I)22.2( au)9.2(t)7.2(h)9.2(o)9.2(r)12.2(i)7.2(z)3.2(e)13.2(s)8.2( g)19.2(r)2.2(ants for improving)]TJ
+17.22 0 TD
+-0.0009 Tc
+-0.0991 Tw
+[( teacher education prog)9.1(rams, streng)9.1(thening)]TJ
+-19.22 -1.12 TD
+-0.0011 Tc
+-0.0789 Tw
+[(teacher )10(recruitment )10(efforts, and training)8.9( pros)]TJ
+17.41 0 TD
+-0.0003 Tc
+-0.0797 Tw
+[(pective teachers to utiliz)-6.3(e technolog)9.7(y)29.7(.)-0.3(  )10(This )10(title)]TJ
+-17.41 -1.13 TD
+0.0002 Tc
+-0.0802 Tw
+[(a)4.2(l)-1.8(so e)4.2(s)-0.8(ta)4.2(blishe)4.2(s re)4.2(porting)10.2( re)4.2(quire)4.2(me)4.2(nts for sta)4.2(t)-1.8(e)4.2(s)-0.8( a)4.2(nd hig)10.2(h)0.2(e)4.2(r)3.2( e)4.2(duc)4.2(a)4.2(tion institutions re)4.2(g)10.2(a)4.2(rding)]TJ
+0 -1.12 TD
+-0.0009 Tc
+0.0209 Tw
+[(the quality)29.1( of teacher )-10(e)-6.9(d)-10.9(ucation prog)9.1(rams. )]TJ
+17.21 0 TD
+-0.0011 Tc
+0.0211 Tw
+[( The FY2002 appropriation for these prog)8.9(rams)]TJ
+-17.21 -1.13 TD
+-0.0005 Tc
+0.0805 Tw
+[(included $90 million fo)-10.5(r)-7.5( )-10(t)-12.5(h)-0.5(e Teacher Quality)29.5( Enhancement g)9.5(r)2.5(ants and $62.5 million for)]TJ
+0 -1.12 TD
+-0.0012 Tc
+0.0812 Tw
+[(P)-5.2(r)1.8(eparing)8.8( Tomorrow\222s Teachers to U)-9.2(s)-12.2(e)-7.2( )-10(T)-10.2(echnol)]TJ
+19.75 0 TD
+-0.0009 Tc
+0.0809 Tw
+[(og)9.1(y)29.1(.)-0.9(  \(For further information, see CRS)]TJ
+-19.75 -1.13 TD
+0.0004 Tc
+0.2896 Tw
+[(Report RL)21.4(31254, )]TJ
+/F6 1 Tf
+7.81 0 TD
+-0.0002 Tc
+0.2902 Tw
+[(Pass Rates as an Accountability Me)]TJ
+15.8 0 TD
+-0.0003 Tc
+0.2903 Tw
+(asure for Teacher Education)Tj
+-23.61 -1.12 TD
+-0.0001 Tc
+0 Tw
+(Programs)Tj
+/F4 1 Tf
+4 0 TD
+0 Tc
+(.\))Tj
+ET
+endstream
+endobj
+
+47 0 obj
+9244
+endobj
+
+%% Original object ID: 40 0
+48 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 8
+%% Original object ID: 41 0
+49 0 obj
+<<
+  /Length 50 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(5)]TJ
+/F2 1 Tf
+15.96 0 0 15.96 170.879 708.3203 Tm
+-0.0001 Tc
+0.0003 Tw
+(Possible Issues for Reauthorization)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 680.6003 Tm
+0.0001 Tc
+0.1099 Tw
+[(Althoug)10.1(h prog)10.1(ram aut)-11.9(h)-9.9(orizations in th)]TJ
+15.83 0 TD
+-0.0007 Tc
+0.1107 Tw
+[(e HEA do not ex)-10.7(pire until F)5.3(Y)1.3(2004, there is)]TJ
+-17.83 -1.13 TD
+0.0007 Tc
+0.0993 Tw
+[(g)10.7(r)3.7(owing)10.7( inte)4.7(re)4.7(st in the)4.7( U.S. Cong)10.7(re)4.7(ss in the)4.7( issue)4.7(s)-0.3( )-10(t)-11.3(h)-9.3(at)-11.3( )-10(mig)10.7(ht be)4.7( c)4.7(onside)4.7(r)3.7(e)4.7(d)0.7( during)10.7( the)]TJ
+0 -1.12 TD
+0.0293 Tw
+[(re)4.7(a)4.7(u)0.7(thoriza)4.7(tion proc)4.7(e)4.7(ss.  This se)4.7(c)4.7(tion ide)4.7(n)0.7(tif)]TJ
+17.91 0 TD
+-0.0004 Tc
+0.0304 Tw
+[(ies and briefly)29.6( di)-12.4(s)-11.4(c)-6.4(usse)]TJ
+9.38 0 TD
+0.0004 Tc
+0.0296 Tw
+[(s se)4.4(ve)4.4(ra)4.4(l of the)4.4( ma)4.4(jor)]TJ
+-27.29 -1.13 TD
+0.0008 Tc
+-0.0608 Tw
+[(topic)4.8(s)-0.2( a)4.8(nd issue)4.8(s)-0.2( within those)4.8( topic)4.8(s)-0.2( tha)4.8(t)-1.2( mig)10.8(ht)]TJ
+18.44 0 TD
+-0.0017 Tc
+-0.0483 Tw
+[( be debated in the reau)]TJ
+8.75 0 TD
+-0.0006 Tc
+-0.0494 Tw
+[(thoriz)-6.6(ation process, as)]TJ
+-27.19 -1.12 TD
+0.0003 Tc
+0.0897 Tw
+[(we)4.3(ll a)4.3(s)-0.7( issue)4.3(s)-0.7( tha)4.3(t)-1.7( mig)10.3(ht a)4.3(r)3.3(ise)4.3( for the)4.3( HEA\222s ma)4.3(jor sourc)4.3(e)4.3(s)-0.7( of po)-9.7(s)-10.7(t)-11.7(s)-10.7(eco)-9.7(nda)4.3(ry)30.3( e)4.3(duc)4.3(a)4.3(tion)]TJ
+0 -1.13 TD
+-0.0001 Tc
+0.0001 Tw
+[(support \227 Pell Grants and F)5.9(F)5.9(E)0.9(L)20.9(s)-1.1(/DL)20.9(s)-1.1(:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 586.0403 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 586.0403 Tm
+-0.001 Tc
+0.001 Tw
+[(access to postsecondary)29( education,)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 572.6003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 572.6003 Tm
+-0.001 Tc
+0.001 Tw
+[(col)-3(l)-3(e)3(g)9(e)3( cost)-3(s and pri)-3(ces,)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 559.0403 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 559.0403 Tm
+-0.0001 Tc
+0.0001 Tw
+[(fe)3.9(de)3.9(ra)3.9(l ta)3.9(x)-10.1( be)3.9(ne)3.9(fits,)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 545.6003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 545.6003 Tm
+-0.0005 Tc
+0.0005 Tw
+[(standards and accountability)29.5(,)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 532.0403 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 532.0403 Tm
+-0.0022 Tc
+0.0022 Tw
+[(need anal)-4.2(y)27.8(s)-3.2(i)-4.2(s)-3.2(,)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 518.6003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 518.6003 Tm
+-0.0015 Tc
+0.0015 Tw
+[(di)-3.5(st)-3.5(ance educat)-3.5(i)-3.5(on,)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 505.0403 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 505.0403 Tm
+-0.0005 Tc
+0.0005 Tw
+[(teacher quality)29.5( and quantity)29.5(,)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 491.6003 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 491.6003 Tm
+-0.0002 Tc
+0.0002 Tw
+(student loans, and)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 478.0403 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 478.0403 Tm
+0.0013 Tc
+-0.0013 Tw
+[(Pe)5.3(ll Gra)5.3(n)1.3(ts.)]TJ
+-1.2 -2.25 TD
+0.0005 Tc
+0.1095 Tw
+[(I)23.5(n)0.5(te)4.5(rwove)4.5(n throug)10.5(h ma)4.5(ny)30.5( of the)4.5(s)-0.5(e)4.5( subje)4.5(c)4.5(t)-1.5(s a)4.5(r)3.5(e)4.5( issue)4.5(s)-0.5( re)4.5(la)4.5(ting)10.5( to t)-11.5(h)-9.5(e)4.5( e)4.5(n)0.5(rollme)4.5(nt in)]TJ
+-2 -1.12 TD
+-0.0001 Tc
+0.0101 Tw
+[(substantial numbers of )]TJ
+/F6 1 Tf
+9.33 0 TD
+0.005 Tc
+0 Tw
+(non-trad)Tj
+3.54 0 TD
+0.0009 Tc
+(itional)Tj
+/F4 1 Tf
+2.62 0 TD
+-0.0002 Tc
+0.0102 Tw
+[( students, i.e., older stude)]TJ
+10.2 0 TD
+-0.0004 Tc
+0.0104 Tw
+[(nts and those not enrolled)]TJ
+-25.69 -1.13 TD
+0.0011 Tc
+0.0689 Tw
+[(on a)5.1( full-time)5.1( ba)5.1(sis, a)5.1(s)0.1( we)5.1(ll a)5.1(s)0.1( )-10(t)-10.9(h)-8.9(e )-10(rel)-10.9(a)-4.9(t)-10.9(i)-10.9(v)-8.9(e ba)5.1(la)5.1(nc)5.1(e)5.1( in a)5.1(v)1.1(a)5.1(ila)5.1(ble)5.1( HEA stude)5.1(nt a)5.1(i)-0.9(d a)5.1(m)-0.9(ong)]TJ
+0 -1.12 TD
+-0.0005 Tc
+0.0005 Tw
+[(loans, g)9.5(r)2.5(ants, and work.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 381.4403 Tm
+-0.0014 Tc
+0.0054 Tw
+[(A)28.3(ccess to Postsecondar)-5.6(y)33.2( Educati)-5.4(o)2.8(n)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 354.2003 Tm
+0.0018 Tc
+0.0082 Tw
+[(T)-7.2(h)-8.2(e )-10(C)-11.2(o)-8.2(n)-8.2(g)1.8(res)-9.2(s)0.8( is like)5.8(l)-0.2(y)31.8( to c)5.8(onside)5.8(r)4.8( whe)5.8(t)-0.2(he)]TJ
+16.89 0 TD
+-0.0012 Tc
+0.0112 Tw
+[(r the HEA\222s array)28.8( of student aid prog)8.8(rams,)]TJ
+-18.89 -1.13 TD
+-0.0006 Tc
+-0.0194 Tw
+[(student )-10(support service prog)9.4(rams)]TJ
+13.17 0 TD
+0 Tc
+-0.02 Tw
+[(, and institutional aid prog)10(rams)]TJ
+12.38 0 TD
+-0.002 Tc
+-0.008 Tw
+[( )10(are effective at increasing)]TJ
+-25.55 -1.12 TD
+-0.0011 Tc
+0.1911 Tw
+[(access to postsecondary)28.9( educati)]TJ
+13.2 0 TD
+-0.0006 Tc
+0.1906 Tw
+[(on,)-10.6( )-10(particularly)29.4( for low-in)]TJ
+10.93 0 TD
+0 Tc
+0.19 Tw
+[(come and minority)30( students.)]TJ
+-24.13 -1.13 TD
+-0.0012 Tc
+0.0012 Tw
+[(I)21.8(n)-1.2(creasing)8.8( access to postsecondary)28.8( educati)]TJ
+17 0 TD
+-0.0011 Tc
+0.0011 Tw
+[(on is a primary)28.9( objective of the HEA.)]TJ
+-15 -2.25 TD
+0.0008 Tc
+0.0092 Tw
+[(De)4.8(spite)4.8( substa)4.8(ntia)4.8(l g)10.8(a)4.8(ins in ove)4.8(ra)4.8(ll pa)4.8(rtic)4.8(ipa)4.8(tion in postseco)-9.2(n)-9.2(d)0.8(a)4.8(r)3.8(y)30.8( e)4.8(duc)4.8(a)4.8(tion ove)4.8(r the)]TJ
+-2 -1.12 TD
+-0.0003 Tc
+0.0003 Tw
+[(past )-10(3 decades, individuals from low-income)]TJ
+17.93 0 TD
+0 Tc
+0 Tw
+( families \(bottom 20% of)Tj
+10.05 0 TD
+0.0001 Tc
+0.0099 Tw
+[( all family)30.1( incomes\))]TJ
+-27.98 -1.13 TD
+-0.0003 Tc
+0.0003 Tw
+[(and )10(several minority)29.7( g)9.7(r)]TJ
+9.24 0 TD
+-0.0002 Tc
+0.0002 Tw
+[(oups remain sig)9.8(n)-0.2(ificantly)29.8( )10(less )10(likel)]TJ
+13.88 0 TD
+-0.0009 Tc
+-0.0091 Tw
+[(y)29.1( to participate in postsecondary)]TJ
+-23.12 -1.12 TD
+-0.0006 Tc
+-0.0894 Tw
+[(education )-10(than )-10(other )-10(individuals.  I)22.4(n)-0.6( 1999, the ra)]TJ
+18.71 0 TD
+-0.0005 Tc
+-0.0795 Tw
+[(te )10(at which hig)9.5(h)-0.5( school)]TJ
+8.93 0 TD
+[( g)9.5(r)2.5(aduates from hig)9.5(h)-0.5(-)]TJ
+-27.64 -1.13 TD
+0.0005 Tc
+-0.0905 Tw
+[(inc)4.5(o)0.5(me)4.5( fa)4.5(milie)4.5(s \(top 20% of a)4.5(ll fa)4.5(mily)30.5( inc)4.5(o)0.5(me)4.5(s\) e)4.5(n)0.5(rolle)4.5(d in c)4.5(o)0.5(lle)4.5(g)10.5(e)4.5( in )10(the)4.5( )10(fa)4.5(ll )10(following)10.5( the)4.5(i)-1.5(r)]TJ
+0 -1.12 TD
+-0.0004 Tc
+-0.0996 Tw
+[(g)9.6(r)2.6(aduation was about 27 pe)]TJ
+10.57 0 TD
+-0.0011 Tc
+-0.0989 Tw
+[(rcentag)8.9(e)2.9( points g)8.9(r)1.9(eater than that)]TJ
+12.38 0 TD
+-0.0004 Tc
+-0.0996 Tw
+[( for l)7.6(o)9.6(w)11.6(-)12.6(i)7.6(n)9.6(c)13.6(o)9.6(m)7.6(e)3.6( individuals \(76%)]TJ
+-22.95 -1.13 TD
+0.0004 Tc
+0.0796 Tw
+[(c)4.4(o)0.4(mpa)4.4(r)3.4(e)4.4(d)0.4( to 49%\).  I)23.4(n)0.4( tha)4.4(t)-1.6( sa)4.4(me)4.4( y)30.4(e)4.4(a)4.4(r)3.4(, the)4.4( pa)4.4(rtic)4.4(ipa)4.4(tion ra)4.4(te)4.4( of whites)-10.6( )-10(w)-7.6(a)-5.6(s)-10.6( )-10(7)-9.6( )-10(pe)4.4(rc)4.4(e)4.4(n)0.4(ta)4.4(g)10.4(e)]TJ
+0 -1.12 TD
+-0.0005 Tc
+-0.0095 Tw
+[(points hig)9.5(h)-0.5(er than that for blacks \(66% comp)]TJ
+17.98 0 TD
+-0.0011 Tc
+-0.0189 Tw
+[(ared )-10(to 59%\) and 21 percentag)8.9(e)2.9( )-10(points )-10(hig)8.9(h)-1.1(er)]TJ
+-17.98 -1.13 TD
+0.0001 Tc
+-0.0201 Tw
+[(tha)4.1(n)0.1( tha)4.1(t)-1.9( for Hispa)4.1(n)0.1(ic)4.1(s \(66% c)4.1(o)0.1(mpa)4.1(r)3.1(e)4.1(d)0.1( to )-10(42%\). )-10( )-10(\(The)4.1(se)4.1( )-10(a)4.1(r)3.1(e)4.1( )-10(ED e)4.1(s)-0.9(tima)4.1(te)4.1(s ba)4.1(se)4.1(d on c)4.1(e)4.1(n)0.1(sus)]TJ
+0 -1.12 TD
+-0.001 Tc
+-0.039 Tw
+[(data \227 )]TJ
+/F6 1 Tf
+3.08 0 TD
+0.0004 Tc
+-0.0504 Tw
+[(Condition )-10(of Education 2001)]TJ
+/F4 1 Tf
+11.51 0 TD
+-0.0007 Tc
+-0.0493 Tw
+[(.  The Hispanic data should be used )-10(with )-10(caution )-10(g)9.3(i)-2.7(ven)]TJ
+-14.59 -1.13 TD
+0.0014 Tc
+-0.0014 Tw
+[(sma)5.4(ll sa)5.4(mple)5.4( size)5.4(s in the)5.4( c)5.4(e)5.4(n)1.4(sus da)5.4(ta)5.4(.\))]TJ
+2 -2.25 TD
+-0.002 Tc
+-0.068 Tw
+[(At)-4( i)-4(ssue for t)-4(h)-2(e C)-5(ong)8(ress i)-4(s)-3( whet)-4(her t)-4(h)-2(e cu)]TJ
+16.57 0 TD
+-0.001 Tc
+-0.069 Tw
+[(rrent HEA prog)9(rams adequately)29( promote the)]TJ
+-18.57 -1.12 TD
+-0.0008 Tc
+0.0908 Tw
+[(traditional HEA g)9.2(o)-0.8(al of ex)-10.8(panding)9.2( access to)]TJ
+18.22 0 TD
+-0.0013 Tc
+0.0913 Tw
+[( postsecondary)28.7( education for disadvantag)8.7(ed)]TJ
+-18.22 -1.13 TD
+-0.0004 Tc
+0.0004 Tw
+[(individuals.  The Cong)9.6(ress may)29.6( c)]TJ
+13.34 0 TD
+[(onsider, among)9.6( other questions:)]TJ
+ET
+endstream
+endobj
+
+50 0 obj
+8539
+endobj
+
+%% Original object ID: 42 0
+51 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+    /TT5 87 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 9
+%% Original object ID: 43 0
+52 0 obj
+<<
+  /Length 53 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(6)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 712.2803 Tm
+0 Tc
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 712.2803 Tm
+0.12 Tw
+[(whe)4(t)-2(he)4(r the)4( fe)4(de)4(ra)4(l inve)4(stme)4(nt in s)-11(t)]TJ
+14.9 0 TD
+-0.0014 Tc
+0.1214 Tw
+[(u)-11.4(d)-11.4(e)-7.4(n)-11.4(t)-3.4( aid may)28.6( have had an adverse)]TJ
+-14.9 -1.13 TD
+-0.002 Tc
+-0.068 Tw
+[(i)-4(m)-4(p)-2(act)-4( )10(on )10(access )10(by)28( )10(l)-4(eadi)-4(n)-2(g)8( t)-4(o)-2( i)-4(n)-2(creases i)-4(n)-2( col)-4(l)-4(e)2(g)8(e)2( pri)-4(ces \(see separat)-4(e)2( )10(i)-4(ssue)]TJ
+0 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+[(on colleg)9.3(e)3.3( costs and prices below\);)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 671.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 671.7203 Tm
+-0.0018 Tc
+0.0618 Tw
+[(whe)-7.8(t)-13.8(h)-11.8(e)-7.8(r)-8.8( )-10(t)-13.8(h)-1.8(e predom)-3.8(i)-3.8(n)-1.8(ance of l)-3.8(o)-1.8(ans i)-3.8(n)-1.8( t)-3.8(h)-1.8(e avai)-3.8(l)-3.8(a)2.2(bl)-3.8(e HEA st)-3.8(udent)-3.8( ai)-3.8(d has)]TJ
+T*
+-0.0019 Tc
+-0.0481 Tw
+[(adverse consequences for access, part)-3.9(i)-3.9(c)]TJ
+15.54 0 TD
+-0.0012 Tc
+-0.0488 Tw
+[(ul)-3.2(arl)-3.2(y)28.8( for l)-3.2(o)-1.2(w-i)-3.2(n)-1.2(com)-3.2(e)2.8( )-10(st)-3.2(udent)-3.2(s )-10(who)]TJ
+-15.54 -1.13 TD
+-0.0007 Tc
+0.0007 Tw
+[(may)29.3( not wish to incur larg)9.3(e levels of debt;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 631.2803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 631.2803 Tm
+-0.0012 Tc
+0.2812 Tw
+[(whether the p)-11.2(r)-8.2(o)-11.2(c)-7.2(e)-7.2(s)-12.2(s of apply)28.8(i)-3.2(ng)8.8( fo)]TJ
+15.25 0 TD
+-0.0007 Tc
+0.2807 Tw
+[(r current student aid prog)9.3(rams is)]TJ
+-15.25 -1.13 TD
+-0.0019 Tc
+0.1319 Tw
+[(unreasonabl)-3.9(y)28.1( com)-3.9(p)-1.9(l)-3.9(i)-3.9(cat)-3.9(ed and l)-3.9(i)-3.9(k)-1.9(el)-3.9(y)28.1( )]TJ
+15.38 0 TD
+-0.0011 Tc
+0.1311 Tw
+[(to )-10(d)-11.1(i)-13.1(scourag)8.9(e needy)28.9( students from)]TJ
+-15.38 -1.12 TD
+-0.0016 Tc
+0.0016 Tw
+[(securi)-3.6(ng)8.4( ai)-3.6(d;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 590.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 590.7203 Tm
+-0.0008 Tc
+-0.0492 Tw
+[(whether the current student support se)]TJ
+14.97 0 TD
+-0.0009 Tc
+[(rvices prog)9.1(rams )-10(\227 TRI)22.1(O)1.1( and GEAR)]TJ
+-14.97 -1.12 TD
+-0.0021 Tc
+0.0121 Tw
+[(UP)-6.1( \227 are adequat)-4.1(e)1.9( t)-4.1(o)-2.1( t)-4.1(h)-2.1(ei)-4.1(r t)-4.1(a)1.9(sk and whet)-4.1(her t)-4.1(h)-2.1(ey)27.9( )10(m)-4.1(a)1.9(y)27.9( )10(be )10(ex)-12.1(cessi)-4.1(vel)-4.1(y)27.9( and)]TJ
+0 -1.13 TD
+-0.0022 Tc
+0.0022 Tw
+[(i)-4.2(n)-2.2(effi)-4.2(ci)-4.2(ent)-4.2(l)-4.2(y)27.8( dupl)-4.2(i)-4.2(cat)-4.2(i)-4.2(v)-2.2(e of each ot)-4.2(her;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 550.2803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 550.2803 Tm
+-0.0014 Tc
+0.0314 Tw
+[(whether the federal g)8.6(overnment\222s g)8.6(r)]TJ
+14.62 0 TD
+-0.0008 Tc
+0.0308 Tw
+[(owing)9.2( support of non-need-based aid)]TJ
+-14.62 -1.13 TD
+-0.0017 Tc
+0.2517 Tw
+[(\(such as Hope)-7.7( )-10(S)-15.7(c)-7.7(hol)-3.7(arshi)-3.7(p)-1.7(s\) has com)-3.7(e)2.3( at)-3.7( t)-3.7(h)-1.7(e ex)-11.7(pense of need-based)]TJ
+0 -1.12 TD
+-0.0015 Tc
+0.0015 Tw
+[(resources and what)-3.5( consequences )]TJ
+13.62 0 TD
+-0.0013 Tc
+0.0013 Tw
+[(t)-3.3(h)-1.3(i)-3.3(s)-2.3( m)-3.3(a)2.7(y)28.7( have had on access;)-3.3( and)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 509.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 509.7203 Tm
+-0.0023 Tc
+-0.0177 Tw
+[(whet)-4.3(her )10(HEA )10(prog)7.7(ram)-4.3(s)-3.3( )10(are )10(suffi)-4.3(ci)-4.3(ent)-4.3(l)-4.3(y)27.7( )10(at)-4.3(t)-4.3(e)1.7(nt)-4.3(i)-4.3(v)-2.3(e t)-4.3(o)-2.3( t)-4.3(h)-2.3(e access i)-4.3(ssue for t)-4.3(h)-2.3(e)]TJ
+0 -1.12 TD
+-0.0001 Tc
+0.0701 Tw
+[(population of non-traditiona)]TJ
+11.41 0 TD
+-0.0003 Tc
+0.0703 Tw
+[(l s)-11.3(t)-12.3(udents that make up a sizeable portion of)]TJ
+-11.41 -1.13 TD
+0.0008 Tc
+-0.0008 Tw
+[(stude)4.8(nt e)4.8(n)0.8(rollme)4.8(nt.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 453.5603 Tm
+-0.0007 Tc
+0.0048 Tw
+(College Costs and Prices)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 426.3203 Tm
+-0.0009 Tc
+-0.0791 Tw
+[(I)22.1(n)-0.9(creases in colleg)9.1(e)3.1( prices )10(\(what )10(students a)]TJ
+16.7 0 TD
+[(nd their families have to pay)29.1(\))2.1( that ex)-10.9(ceed the)]TJ
+-18.7 -1.12 TD
+0.0002 Tc
+-0.0802 Tw
+[(g)10.2(r)3.2(owth in infla)4.2(tion a)4.2(nd )10(in )10(fa)4.2(mily)30.2( inc)4.2(o)0.2(me)4.2( ha)4.2(ve)4.2( fue)4.2(l)-1.8(e)4.2(d)0.2( inte)4.2(re)4.2(st in c)4.2(o)0.2(lle)4.2(g)10.2(e)4.2( a)4.2(fforda)4.2(b)0.2(ility)30.2( for low-)]TJ
+0 -1.13 TD
+-0.0006 Tc
+-0.0294 Tw
+[(and middle-income families. )-10( )-10(B)6.4(e)3.4(tween )]TJ
+15.57 0 TD
+-0.001 Tc
+-0.029 Tw
+[(1991-1992 )-10(and )-10(2001-2002, averag)9(e tuition and fees)]TJ
+-15.57 -1.12 TD
+0.0001 Tc
+0.0399 Tw
+[(\(a)4.1(fte)4.1(r)3.1( be)4.1(ing)10.1( a)4.1(d)0.1(juste)4.1(d)0.1( for infla)4.1(tion\) g)10.1(r)3.1(e)4.1(w)2.1( by)30.1( 37% in priva)4.1(t)-1.9(e)4.1( 4-y)30.1(e)4.1(a)4.1(r)3.1( institutions a)4.1(nd 3)-9.9(8)-9.9(%)3.1( in)]TJ
+0 -1.13 TD
+0.0005 Tc
+-0.0205 Tw
+[(public)4.5( )-10(4-y)30.5(e)4.5(a)4.5(r)3.5( institutions.  The)4.5(s)-0.5(e)4.5( inc)4.5(r)3.5(e)4.5(a)4.5(s)-0.5(e)4.5(s)-0.5( outstrippe)4.5(d the)4.5( 8% g)10.5(r)3.5(owth in )-10(infla)4.5(tion-a)4.5(d)0.5(juste)4.5(d)]TJ
+0 -1.12 TD
+-0.0009 Tc
+-0.0191 Tw
+[(median family)29.1( income over that)]TJ
+12.65 0 TD
+-0.0012 Tc
+-0.0288 Tw
+[( )-10(same period.  \(These data )]TJ
+10.55 0 TD
+-0.0011 Tc
+[(come from The )-10(Colleg)8.9(e)2.9( )-10(B)5.9(o)-1.1(ard\222s)]TJ
+/F6 1 Tf
+-23.2 -1.13 TD
+0.0012 Tc
+0.0888 Tw
+[(Tre)5.2(nds in Colle)5.2(ge)5.2( Pric)5.2(ing)]TJ
+/F4 1 Tf
+10.69 0 TD
+-0.0006 Tc
+0.0906 Tw
+[(, 2002.  The median income co)-10.6(n)-10.6(s)-11.6(i)-12.6(d)-0.6(ered is for families with a)]TJ
+-10.69 -1.12 TD
+-0.001 Tc
+-0.059 Tw
+[(family)29( head ag)9(ed 45 to 54.\)  F)5(u)-1(rther, there )-10(is )]TJ
+17.44 0 TD
+-0.0012 Tc
+-0.0588 Tw
+[(increasing)8.8( concern that )]TJ
+9.31 0 TD
+-0.0006 Tc
+-0.0594 Tw
+[(state budg)9.4(et constraints)]TJ
+-26.75 -1.13 TD
+-0.0008 Tc
+0.0108 Tw
+[(are leading)9.2( to reductions in funding)9.2( for pub)]TJ
+17.44 0 TD
+[(lic hig)9.2(h)-0.8(er education )]TJ
+8.2 0 TD
+-0.0007 Tc
+[(and, potentially)29.3(, increases)]TJ
+-25.64 -1.12 TD
+-0.0002 Tc
+0.0002 Tw
+(in tuition and fees.)Tj
+2 -2.25 TD
+-0.0007 Tc
+0.2807 Tw
+[(T)-9.7(h)-10.7(e)-6.7( Hig)9.3(h)-0.7(er Education Amendments of )]TJ
+17.2 0 TD
+-0.0002 Tc
+0.2802 Tw
+[(1998 soug)9.8(ht to improve the quali)-12.2(t)-12.2(y)19.8( )-10(o)-10.2(f)]TJ
+-19.2 -1.13 TD
+0.0091 Tc
+0.0009 Tw
+[(i)7.1(n)9.1(f)12.1(o)9.1(r)12.1(m)7.1(a)13.1(t)7.1(i)7.1(o)9.1(n)9.1( r)12.1(e)13.1(p)9.1(o)9.1(r)12.1(t)7.1(e)13.1(d)9.1( b)9.1(y)39.1( E)10.1(D)11.1( r)12.1(e)13.1(g)19.1(a)13.1(r)12.1(d)9.1(i)7.1(n)9.1(g)19.1( p)9.1(o)9.1(s)8.1(t)7.1(s)8.1(e)13.1(c)3.1(ondary)29.1( e)13.1(d)9.1(u)9.1(c)13.1(a)13.1(t)7.1(i)7.1(o)9.1(n)9.1( p)9.1(r)12.1(i)7.1(c)13.1(e)13.1(s)8.1( a)13.1(n)9.1(d)9.1( c)13.1(o)9.1(s)8.1(t)7.1(s)8.1( \()12.1(t)7.1(h)9.1(e)13.1( c)13.1(o)9.1(s)8.1(t)7.1(s)]TJ
+0 -1.12 TD
+0 Tc
+-0.07 Tw
+[(inc)4(u)0(rre)4(d by)30( institutions to ope)4(ra)4(te)4( a)4(nd provide)4( instruc)4(tion\). )10( The)4( De)4(pa)4(rtme)4(nt is a)4(l)-2(so re)4(quire)4(d)]TJ
+0 -1.13 TD
+0.0006 Tc
+0.0794 Tw
+[(to unde)4.6(r)3.6(t)-1.4(a)4.6(k)0.6(e)4.6( a)4.6( study)30.6( a)4.6(nd issue)4.6( a)4.6( f)3.6(i)-1.4(na)4.6(l r)3.6(e)]TJ
+16.41 0 TD
+0.0008 Tc
+0.0792 Tw
+[(por)3.8(t by)30.8( Se)4.8(pte)4.8(m)-1.2(be)4.8(r)3.8( 30, )]TJ
+9.42 0 TD
+0.0054 Tc
+0.0846 Tw
+[(2002, on ex)-14.6(pe)9.4(nditur)8.4(e)9.4(s )10(a)9.4(t)]TJ
+-25.83 -1.12 TD
+0.0007 Tc
+0.3093 Tw
+[(hig)10.7(h)0.7(e)4.7(r)3.7( e)4.7(duc)4.7(a)4.7(tion institutions, inc)4.7(l)-1.3(uding)10.7( a)4.7(n)0.7(a)4.7(l)-11.3(y)20.7(s)-10.3(i)-11.3(s)-10.3( )-10(o)-9.3(f)3.7( the)4.7( re)4.7(la)4.7(tionship be)4.7(twe)4.7(e)4.7(n)0.7( c)4.7(e)4.7(r)3.7(ta)4.7(in)]TJ
+0 -1.13 TD
+-0.001 Tc
+-0.049 Tw
+[(ex)-11(penditures and colleg)9(e)3( prices.  The final repor)]TJ
+18.93 0 TD
+0 Tc
+-0.05 Tw
+[(t in \223Phase 1")8( of )10(th)]TJ
+7.33 0 TD
+-0.0012 Tc
+-0.0588 Tw
+[(e Department\222s response)]TJ
+-26.26 -1.12 TD
+-0.0016 Tc
+0.0116 Tw
+[(t)-3.6(o)-1.6( t)-3.6(h)-1.6(i)-3.6(s)-2.6( l)-3.6(e)2.4(g)8.4(i)-3.6(sl)-3.6(at)-3.6(i)-3.6(v)-1.6(e requi)-3.6(rem)-3.6(e)2.4(nt)-3.6( was publ)-3.6(i)-3.6(s)-2.6(hed Decem)-3.6(ber )-10(2)-11.6(0)-11.6(01 \()]TJ
+/F6 1 Tf
+25.12 0 TD
+0.0003 Tc
+0.0097 Tw
+[(Study of College Costs and)]TJ
+-25.12 -1.13 TD
+-0.0003 Tc
+-0.0097 Tw
+[(Prices, )10(1988-1989 to 1997-1998)]TJ
+/F4 1 Tf
+12.95 0 TD
+-0.001 Tc
+-0.009 Tw
+[(\).  I)22(n)-1( addition, the B)6(u)-1(reau of )]TJ
+11.52 0 TD
+0.0004 Tc
+-0.0104 Tw
+[(L)21.4(a)4.4(bor Statistics )]TJ
+6.46 0 TD
+-0.0001 Tc
+-0.0199 Tw
+[(is to develop)]TJ
+-30.93 -1.12 TD
+0.0009 Tc
+-0.0009 Tw
+[(a)4.9( hig)10.9(h)0.9(e)4.9(r)3.9( e)4.9(duc)4.9(a)4.9(tion \223)4.9(m)-1.1(a)4.9(r)3.9(ke)4.9(t ba)4.9(ske)4.9(t)-1.1<94>4.9( tha)4.9(t)-1.1( ide)4.9(n)0.9(tifie)4.9(s the)4.9( ite)4.9(ms tha)4.9(t)-1.1( ma)4.9(ke)4.9( up c)4.9(o)0.9(lle)4.9(g)10.9(e)4.9( c)4.9(o)0.9(sts.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 140.7204 Tm
+-0.0014 Tc
+0.0055 Tw
+[(Feder)-5.6(a)-1(l)-5.5( Tax Benefi)-5.5(ts)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 113.4803 Tm
+-0.0024 Tc
+-0.0376 Tw
+[(I)20.6(n)-2.4( )10(recent)-4.4( )10(y)27.6(ears, new federal)-4.4( i)-4.4(n)-2.4(com)-4.4(e)1.6( t)-4.4(a)1.6(x)-12.4( )10(benef)]TJ
+17.8 0 TD
+-0.0017 Tc
+-0.0483 Tw
+[(i)-3.7(t)-3.7(s)-2.7( have been creat)-3.7(ed t)-3.7(o)-1.7( hel)-3.7(p)-1.7( st)-3.7(udent)-3.7(s and)]TJ
+-19.8 -1.13 TD
+-0.0009 Tc
+0.0109 Tw
+[(their )10(families meet postsecondary)29.1( education ex)-10.9(pe)]TJ
+19.73 0 TD
+0.0009 Tw
+[(nses. )-10( )-10(These have provided tax)-10.9( credits or)]TJ
+-19.73 -1.12 TD
+0.0002 Tc
+-0.0202 Tw
+[(de)4.2(duc)4.2(tions for )-10(e)4.2(x)-9.8(pe)4.2(nse)4.2(s)-0.8( )-10(a)4.2(l)-1.8(re)4.2(a)4.2(d)0.2(y)30.2( )-10(inc)4.2(u)0.2(rre)4.2(d )-10(\227 the)4.2( Hope)4.2( Sc)4.2(hola)4.2(r)3.2(ship ta)4.2(x)-9.8( c)4.2(r)3.2(e)4.2(d)0.2(its, the)4.2( L)21.2(i)-1.8(fe)4.2(time)]TJ
+0 -1.13 TD
+-0.0012 Tc
+-0.0088 Tw
+[(L)19.8(earning)8.8( tax)-11.2( credit, and a tax)-11.2( deduction )-10(for )]TJ
+17.47 0 TD
+-0.0014 Tc
+0.0014 Tw
+[(postsecondary)28.6( education ex)-11.4(penses. )10( )10(Tax)-11.4(p)-1.4(ay)28.6(ers)]TJ
+-17.47 -1.12 TD
+-0.002 Tc
+-0.068 Tw
+[(are al)-4(so abl)-4(e)2( t)-4(o)-2( recei)-4(ve )-10(federal)-4( )-10(i)-4(n)-2(com)-4(e)2( )-10(t)-4(a)2(x)-12( )-10(benefi)-4(t)-4(s)-3( for savi)-4(ng)8(s for col)-4(l)-4(e)2(g)8(e)2( t)-4(h)-2(roug)8(h C)-5(overdel)-4(l)]TJ
+ET
+endstream
+endobj
+
+53 0 obj
+10500
+endobj
+
+%% Original object ID: 44 0
+54 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+    /TT5 87 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 10
+%% Original object ID: 45 0
+55 0 obj
+<<
+  /Length 56 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(7)]TJ
+-16.63 56.72 TD
+-0.0005 Tc
+-0.0795 Tw
+[(education saving)9.5(s accounts, qua)]TJ
+12.56 0 TD
+-0.0003 Tc
+-0.0797 Tw
+[(lified tuition prog)9.7(rams, )-10(and e)]TJ
+11.31 0 TD
+-0.0002 Tc
+-0.0798 Tw
+[(ducation saving)9.8(s bonds.  These)]TJ
+-23.87 -1.13 TD
+-0.0009 Tc
+-0.0791 Tw
+[(tax)-10.9( )-10(provisions are a sig)9.1(n)-0.9(ificant source of suppor)]TJ
+18.61 0 TD
+-0.0005 Tc
+-0.0795 Tw
+[(t for students )-10(and )-10(thei)]TJ
+8.36 0 TD
+-0.0695 Tw
+[(r families.  Preliminary)]TJ
+-26.97 -1.12 TD
+-0.0012 Tc
+-0.0788 Tw
+[(data from the I)21.8(n)-1.2(ternal Revenue Service )-10(for )-10(2000 )]TJ
+18.92 0 TD
+-0.0003 Tc
+-0.0797 Tw
+[(show that in that tax)-10.3( y)29.7(ear 6.9 million returns)]TJ
+-18.92 -1.13 TD
+-0.0001 Tc
+-0.0299 Tw
+[(claimed $4.9 billion )10(in education )]TJ
+13.28 0 TD
+-0.001 Tc
+-0.029 Tw
+[(tax)-11( credits.  These benefits )]TJ
+10.78 0 TD
+-0.0019 Tc
+-0.0281 Tw
+[(are not need-based and appear)]TJ
+-24.06 -1.12 TD
+-0.0002 Tc
+0.0002 Tw
+[(to primarily)29.8( aid middle- a)]TJ
+10.24 0 TD
+-0.0005 Tc
+0.0005 Tw
+(nd upper-middle income families.)Tj
+-8.24 -2.25 TD
+-0.0004 Tc
+0.0804 Tw
+[(W)-6.4(ith the introduction of thes)]TJ
+11.88 0 TD
+[(e tax)-10.4( benefits, individuals )]TJ
+10.85 0 TD
+-0.0015 Tc
+0.0815 Tw
+[(can now receive s)-12.5(u)-11.5(b)-11.5(s)-2.5(tantial)]TJ
+-24.73 -1.13 TD
+-0.0011 Tc
+0.1811 Tw
+[(a)-7.1(m)-13.1(ounts of federal fi)]TJ
+8.9 0 TD
+-0.0009 Tc
+0.1809 Tw
+(nancial assistance for postseconda)Tj
+14.2 0 TD
+-0.0008 Tc
+[(ry)29.2( education from two p)-10.8(a)-6.8(r)-7.8(a)-6.8(l)-12.8(l)-12.8(e)-6.8(l)]TJ
+-23.1 -1.12 TD
+0.0007 Tc
+0.0393 Tw
+[(sy)30.7(ste)4.7(m)-1.3(s \227 the)4.7( fe)4.7(de)4.7(ra)4.7(l inc)4.7(o)0.7(m)-11.3(e)-5.3( )-10(t)-11.3(a)4.7(x)-9.3( sy)30.7(ste)4.7(m; a)4.7(nd the)4.7( tra)4.7(d)0.7(itiona)4.7(l stude)4.7(nt a)4.7(i)-1.3(d de)4.7(live)4.7(r)3.7(y)30.7( sy)30.7(ste)4.7(m)]TJ
+0 -1.13 TD
+-0.0004 Tc
+0.0004 Tw
+[(which provides aid such as g)9.6(r)2.6(ants, loans, or work opportunities.)]TJ
+2 -2.25 TD
+-0.0005 Tc
+-0.0095 Tw
+[(The )-10(Cong)9.5(ress may)29.5( address various issues th)]TJ
+17.5 0 TD
+-0.0008 Tc
+-0.0092 Tw
+[(at arise from providing)9.2( )-10(resources )-10(throug)9.2(h)]TJ
+-19.5 -1.12 TD
+-0.0017 Tc
+0.1417 Tw
+[(t)-3.7(w)0.3(o sy)28.3(st)-3.7(em)-3.7(s a)-7.7(n)-11.7(d)-11.7( )-10(f)-8.7(r)-8.7(o)-11.7(m)-13.7( t)-3.7(h)-1.7(e i)-3.7(n)-1.7(t)-3.7(e)2.3(rsect)-3.7(i)-3.7(on of t)-3.7(h)-1.7(ese resources i)-3.7(n)-1.7( t)-3.7(h)-1.7(e need anal)-3.7(y)28.3(s)-2.7(i)-3.7(s)-2.7( process.)]TJ
+0 -1.13 TD
+-0.0016 Tc
+0.0016 Tw
+[(Am)-3.6(ong)8.4( t)-3.6(h)-1.6(ese i)-3.6(ssues are:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 509.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 509.7203 Tm
+0.0004 Tc
+0.6196 Tw
+[(whe)4.4(t)-1.6(he)4.4(r the)4.4( inc)4.4(r)-6.6(eas)-10.6(i)-11.6(n)-9.6(g)10.4( fe)4.4(de)4.4(ra)4.4(l i)]TJ
+15.1 0 TD
+0.0012 Tc
+0.6188 Tw
+[(nve)5.2(stme)5.2(nt in ta)]TJ
+7.35 0 TD
+-0.0009 Tc
+0.6209 Tw
+[(x)-10.9(-)2.1(based benefits)]TJ
+-22.45 -1.12 TD
+0 Tc
+0.05 Tw
+[(disproportionately)30( assist)]TJ
+9.77 0 TD
+-0.0005 Tc
+0.0505 Tw
+[(s middle- and upper middle-inco)-10.5(m)-12.5(e)-6.5( )-10(students and)]TJ
+-9.77 -1.13 TD
+0.0006 Tc
+-0.1006 Tw
+[(fa)4.6(milie)4.6(s a)4.6(t)-1.4( th)10.6(e)14.6( e)4.6(x)-9.4(pe)4.6(nse)4.6( of inve)4.6(stme)4.6(nt in tra)4.6(d)0.6(itiona)4.6(l stude)4.6(nt a)4.6(i)-1.4(d ta)4.6(rg)10.6(e)4.6(ting)10.6( low-)]TJ
+0 -1.12 TD
+-0.0007 Tw
+[(inc)4.7(o)0.7(me)4.7( stude)4.7(nts a)4.7(nd fa)4.7(milie)4.7(s;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 455.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 455.7203 Tm
+-0.0009 Tc
+-0.0791 Tw
+[(how the need analy)29.1(s)-1.9(is process should re)]TJ
+15.46 0 TD
+-0.0011 Tc
+-0.0789 Tw
+[(flect the availability)28.9( of tax)-11.1( resources)]TJ
+-15.46 -1.12 TD
+0.0006 Tc
+-0.0706 Tw
+[(in its de)4.6(te)4.6(rmina)4.6(tion )10(of stude)4.6(nts\222 e)4.6(lig)10.6(ibility)30.6( for tra)4.6(d)0.6(itiona)4.6(l stude)4.6(nt a)4.6(i)-1.4(d a)4.6(nd the)]TJ
+0 -1.13 TD
+-0.0006 Tc
+0.0006 Tw
+(level of such aid;)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 415.2803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 415.2803 Tm
+-0.0002 Tc
+0.0302 Tw
+[(whether providing)9.8( substantial amounts )]TJ
+15.88 0 TD
+-0.0005 Tc
+0.0305 Tw
+[(of assistance thro)-10.5(u)-10.5(gh two sy)29.5(stems)]TJ
+-15.88 -1.13 TD
+-0.0002 Tc
+0.0202 Tw
+[(\(traditional student aid and ta)-6.2(x)-20.2( )-10(sy)29.8(stem)]TJ
+15.35 0 TD
+-0.0014 Tc
+0.0214 Tw
+[(\) has made the pro)]TJ
+7.45 0 TD
+-0.001 Tc
+0.021 Tw
+[(cess of financing)]TJ
+-22.8 -1.12 TD
+-0.0012 Tc
+0.0012 Tw
+[(postsecondary)28.8( education ex)]TJ
+11.01 0 TD
+-0.0005 Tc
+0.0005 Tw
+[(penses unduly)29.5( complicated;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 374.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 374.7203 Tm
+-0.0008 Tc
+0.0808 Tw
+[(whether the targ)9.2(eting)9.2( and le)-6.8(v)-10.8(e)3.2(ls of)]TJ
+14.23 0 TD
+-0.0004 Tc
+0.0804 Tw
+[( HEA student aid should be modified)]TJ
+-14.23 -1.12 TD
+-0.0012 Tc
+0.0012 Tw
+[(g)8.8(i)-3.2(ven the ex)-11.2(pansion of non-need-based )]TJ
+15.88 0 TD
+-0.0009 Tc
+0.0009 Tw
+[(aid throug)9.1(h the federal income )10(tax)]TJ
+-15.88 -1.13 TD
+0.0003 Tc
+-0.0003 Tw
+[(sy)30.3(stem; and)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 334.2803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 334.2803 Tm
+0.0004 Tc
+-0.0304 Tw
+[(whe)4.4(t)-1.6(he)4.4(r )-10(the)4.4( ta)4.4(x)-9.6( be)4.4(ne)4.4(fits a)4.4(r)3.4(e)4.4( more)4.4( or le)4.4(ss like)4.4(l)-1.6(y)30.4( to c)4.4(ontribute)4.4( to )-10(inc)4.4(r)3.4(e)4.4(a)4.4(s)-0.6(e)4.4(s)-0.6( )-10(in)]TJ
+T*
+-0.0017 Tc
+0.0217 Tw
+[(col)-3.7(l)-3.7(e)2.3(g)8.3(e)2.3( pri)-3.7(ces t)-3.7(h)-1.7(an are t)-3.7(r)1.3(adi)-3.7(t)-3.7(i)-3.7(onal)-3.7( st)-3.7(ude)]TJ
+15.75 0 TD
+-0.0002 Tc
+0.0202 Tw
+[(nt aid prog)9.8(rams, )-10(p)-10.2(a)-6.2(r)-7.2(t)-12.2(i)-12.2(c)-6.2(ularly)29.8( those)]TJ
+-15.75 -1.12 TD
+-0.0024 Tc
+0.0024 Tw
+[(t)-4.4(h)-2.4(at)-4.4( are need-based.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 278.1204 Tm
+-0.0016 Tc
+0.0057 Tw
+(Standards and )Tj
+7.2137 0 TD
+-0.0004 Tc
+0 Tw
+[(A)29.3(ccountability)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 250.8804 Tm
+-0.0009 Tc
+0.0209 Tw
+[(F)5.1(o)-0.9(r much of the history)29.1( of the HEA, st)]TJ
+15.58 0 TD
+0.0007 Tc
+0.0293 Tw
+[(andard-setting an)-9.3(d)-9.3( acc)]TJ
+9.09 0 TD
+-0.0002 Tc
+0.0202 Tw
+[(ountability)29.8( efforts have)]TJ
+-26.67 -1.13 TD
+0.0005 Tc
+0.1295 Tw
+[(foc)4.5(u)0.5(se)4.5(d prima)4.5(rily)30.5( on e)4.5(n)0.5(suring)10.5( tha)4.5(t)-1.5( pa)4.5(rtic)4.5(ipa)4.5(ting)10.5( institutions a)4.5(r)3.5(e)4.5( a)4.5(c)4.5(ting)10.5( prope)4.5(rly)30.5( in the)4.5(i)-1.5(r)]TJ
+0 -1.12 TD
+0.0002 Tc
+-0.0202 Tw
+[(administration of HEA instituti)]TJ
+12.42 0 TD
+-0.0004 Tc
+-0.0096 Tw
+[(onal )10(and )10(student aid funds.  Among)9.6( the indicators followed)]TJ
+-12.42 -1.13 TD
+-0.0009 Tc
+0.1109 Tw
+[(closely)29.1( )-10(h)-10.9(a)3.1(ve been incidents of fraud and )]TJ
+17.08 0 TD
+-0.0005 Tc
+0.1105 Tw
+[(abuse by)29.5( postsecondary)29.5( institutions and, more)]TJ
+-17.08 -1.12 TD
+-0.0007 Tc
+-0.0693 Tw
+[(recently)29.3(, default rates )10(by)29.3( )10(student)]TJ
+12.64 0 TD
+-0.0005 Tc
+-0.0795 Tw
+[( loan borrowers.  Continued pa)]TJ
+11.97 0 TD
+0 Tc
+-0.08 Tw
+[(rticipation in Title I)23(V)2( )-10(student)]TJ
+-24.61 -1.13 TD
+0.0003 Tc
+0.2297 Tw
+[(aid prog)10.3(rams is conting)10.3(e)4.3(nt )-10(u)-9.7(p)-9.7(on instituti)]TJ
+17.36 0 TD
+-0.0009 Tc
+0.2309 Tw
+[(ons\222 default rates.  )]TJ
+8.54 0 TD
+-0.0008 Tc
+0.2308 Tw
+[(Althoug)9.2(h concern about)]TJ
+-25.9 -1.12 TD
+0.2008 Tw
+[(mismanag)9.2(e)3.2(ment of HEA funds re)]TJ
+14.21 0 TD
+-0.0004 Tc
+0.2004 Tw
+[(mains substan)-10.4(t)-12.4(i)-12.4(a)3.6(l, there is increasing)9.6( interest in the)]TJ
+-14.21 -1.13 TD
+0.0005 Tc
+-0.0805 Tw
+[(Cong)10.5(re)4.5(ss in holding)10.5( hig)10.5(h)0.5(e)4.5(r)3.5( e)4.5(duc)4.5(a)4.5(tion institutions tha)4.5(t)-1.5( a)4.5(r)3.5(e)4.5( be)4.5(ne)4.5(fitting)10.5( from billions )-10(of dolla)4.5(rs)]TJ
+0 -1.12 TD
+-0.0011 Tc
+0.0011 Tw
+[(in federal funding)8.9( accountable for the )]TJ
+15.28 0 TD
+-0.0005 Tc
+0.0005 Tw
+(educational outcomes )Tj
+8.93 0 TD
+-0.0003 Tc
+0.0003 Tw
+(of their students.)Tj
+-22.21 -2.25 TD
+-0.0009 Tc
+-0.0991 Tw
+[(The Cong)9.1(ress may)29.1( cons)8.1(i)7.1(d)9.1(e)13.1(r)12.1( w)11.1(h)9.1(e)13.1(t)7.1(h)9.1(e)13.1(r)12.1( d)9.1(e)13.1(fault ra)]TJ
+17.84 0 TD
+-0.0024 Tc
+-0.0976 Tw
+[(t)-4.4(e)1.6(s are a reasonabl)-4.4(e and effect)-4.4(i)-4.4(v)-2.4(e m)-4.4(easure)]TJ
+-19.84 -1.13 TD
+-0.0004 Tc
+-0.0896 Tw
+[(to )-10(hold institutions accountable for educational outco)]TJ
+20.73 0 TD
+-0.0014 Tc
+-0.0786 Tw
+[(mes. )10( )10(I)21.6(t)-3.4( may)28.6( be arg)8.6(u)]TJ
+7.67 0 TD
+-0.001 Tc
+-0.079 Tw
+[(ed that default rates)]TJ
+-28.4 -1.12 TD
+0.0013 Tc
+0.0087 Tw
+[(w)3.3(ill r)4.3(i)-0.7(se)5.3( a)5.3(t)-0.7( institutions tha)5.3(t)-0.7( f)4.3(a)5.3(il to e)5.3(duc)5.3(a)5.3(t)-0.7(e)5.3( the)5.3(i)-0.7(r)4.3( st)-10.7(u)-8.7(d)-8.7(e)-4.7(n)-8.7(t)-10.7(s)-9.7( )-10(b)-8.7(ecause)5.3( suc)5.3(h)1.3( stude)5.3(nts w)3.3(ill not be)]TJ
+0 -1.13 TD
+0.0006 Tc
+0.1694 Tw
+[(a)4.6(b)0.6(le)4.6( to e)4.6(n)0.6(te)4.6(r s)-10.4(u)-9.4(cces)-10.4(s)-10.4(f)-6.4(ully)30.6( the)4.6( world of work)]TJ
+18.73 0 TD
+-0.0004 Tc
+0.1704 Tw
+[( and repay)29.6( their student loan oblig)9.6(ations.)]TJ
+-18.73 -1.12 TD
+0.0006 Tc
+-0.0506 Tw
+[(Ne)4.6(ve)4.6(rthe)4.6(le)4.6(ss, it ma)4.6(y)30.6( a)4.6(l)-1.4(so be)4.6( a)4.6(sse)4.6(rte)4.6(d)0.6( tha)4.6(t)-1.4( this )]TJ
+17.96 0 TD
+-0.0018 Tc
+-0.0382 Tw
+[(i)-3.8(s)-2.8( )10(at)-3.8( )10(best)-3.8( )10(an i)-3.8(ndi)-3.8(rect)-3.8( m)-3.8(easure of t)-3.8(h)-1.8(e success of)]TJ
+ET
+endstream
+endobj
+
+56 0 obj
+9607
+endobj
+
+%% Original object ID: 46 0
+57 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /TT5 87 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 11
+%% Original object ID: 47 0
+58 0 obj
+<<
+  /Length 59 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(8)]TJ
+-16.63 56.72 TD
+0.0008 Tc
+0.0092 Tw
+[(institutions in e)4.8(duc)4.8(a)4.8(ting)10.8( the)4.8(i)-1.2(r stude)4.8(nts, a)4.8(nd tha)4.8(t)-1.2( it ma)4.8(y)30.8( )10(ha)4.8(ve)4.8( )10(a)4.8( pa)4.8(rtic)4.8(ula)4.8(r)3.8(ly)30.8( ne)4.8(g)10.8(a)4.8(tive)4.8( impa)4.8(c)4.8(t)]TJ
+0 -1.13 TD
+0 Tc
+0 Tw
+[(on institutions serving)10( disadvantag)10(ed student populations.)]TJ
+2 -2.25 TD
+0.03 Tw
+[(I)23(n)0( lieu of, or in addition to, )]TJ
+11.27 0 TD
+0.0003 Tc
+0.0297 Tw
+[(de)4.3(fa)4.3(ult ra)4.3(te)4.3(s, the)4.3( Cong)10.3(re)4.3(ss ma)4.3(y)30.3( de)4.3(ba)4.3(te)4.3( use)4.3( of a)4.3(lte)4.3(rna)4.3(tive)]TJ
+-13.27 -1.12 TD
+-0.0006 Tc
+-0.0494 Tw
+[(accountability)29.4( measures more directly)29.4( tied to e)]TJ
+18.33 0 TD
+[(ducational outcomes.  These may)29.4( include the)]TJ
+-18.33 -1.13 TD
+0.0002 Tc
+0.0798 Tw
+[(ra)4.2(te)4.2(s a)4.2(t)-1.8( whic)4.2(h stude)4.2(nts c)4.2(o)0.2(mple)4.2(te)4.2( the)4.2(i)-1.8(r prog)10.2(ra)]TJ
+18.38 0 TD
+-0.0004 Tc
+0.0804 Tw
+[(ms of study)29.6(, or the)-6.4( )-10(r)-7.4(a)-6.4(t)-12.4(e)-6.4(s)-11.4( )-10(a)-6.4(t)-12.4( )-10(w)-8.4(h)-10.4(ich prog)9.6(ram)]TJ
+-18.38 -1.12 TD
+-0.0014 Tc
+0.0414 Tw
+[(g)8.6(r)1.6(aduates secure prof)]TJ
+8.59 0 TD
+-0.0005 Tc
+0.0405 Tw
+[(essional licensing)9.5( or certificati)]TJ
+12.34 0 TD
+-0.0014 Tc
+0.0414 Tw
+[(on.  The HEA)-9.4( )-10(a)-7.4(l)-13.4(r)-8.4(e)-7.4(a)-7.4(d)-11.4(y)18.6( )-10(embraces pass)]TJ
+-20.93 -1.13 TD
+-0.0009 Tc
+0.0609 Tw
+[(rat)-12.9(e)-6.9(s)-11.9( )-10(on professional licensing)9.1( ex)-10.9(ams as an)]TJ
+17.59 0 TD
+-0.0013 Tc
+0.0613 Tw
+[( accountability)28.7( measure for teacher education)]TJ
+-17.59 -1.12 TD
+-0.0003 Tc
+0.1103 Tw
+[(prog)9.7(rams at hig)9.7(h)-0.3(er education instituti)]TJ
+15.41 0 TD
+-0.0012 Tc
+0.1112 Tw
+[(ons \(see discussion below of Teacher Qua)]TJ
+17.45 0 TD
+0.012 Tc
+0.098 Tw
+[(lity)42( a)16(n)12(d)]TJ
+-32.86 -1.13 TD
+0 Tc
+0 Tw
+[(Qua)4(n)0(tity)30(\).)]TJ
+2 -2.25 TD
+-0.0014 Tc
+0.0114 Tw
+[(The appropriateness )10(of differe)]TJ
+12.06 0 TD
+-0.0006 Tc
+0.0106 Tw
+[(nt accountability)29.4( measures may)29.4( )]TJ
+12.85 0 TD
+-0.002 Tc
+0.012 Tw
+[(be affected by)28( chang)8(e)2(s)]TJ
+-26.91 -1.12 TD
+-0.0004 Tc
+0.0604 Tw
+[(in the demog)9.6(r)2.6(aphics of posts)]TJ
+11.72 0 TD
+-0.0009 Tc
+0.0609 Tw
+[(econdary)29.1( education students.  )]TJ
+12.27 0 TD
+-0.0018 Tc
+0.0718 Tw
+[(F)4.2(o)-1.8(r )10(ex)-11.8(ampl)-13.8(e)-7.8(,)-11.8( a)-7.8(r)-8.8(e)-7.8( t)-13.8(h)-11.8(e)-7.8( )10(relevant)]TJ
+-23.99 -1.13 TD
+-0.0012 Tc
+0.2212 Tw
+[(outcomes measures different for non-trad)]TJ
+17.4 0 TD
+0.0004 Tc
+0.2196 Tw
+[(i)-11.6(t)-11.6(i)-11.6(o)-9.6(n)-9.6(a)4.4(l stude)4.4(nts tha)4.4(n)0.4( the)4.4(y)30.4( a)4.4(r)3.4(e)4.4( for tra)4.4(d)0.4(itiona)4.4(l)]TJ
+-17.4 -1.12 TD
+-0.0006 Tc
+0.0106 Tw
+[(students, g)9.4(i)-2.6(ven potential differences in such )]TJ
+17.83 0 TD
+-0.0019 Tc
+0.0119 Tw
+[(areas )10(as )10(educat)-3.9(i)-3.9(onal)-3.9( obj)-3.9(ect)-3.9(i)-3.9(v)-1.9(es bet)-3.9(w)0.1(een t)-3.9(h)-1.9(ese)]TJ
+-17.83 -1.13 TD
+0 Tc
+0 Tw
+[(two g)10(r)3(oups of students?)]TJ
+2 -2.25 TD
+-0.0006 Tc
+0.0606 Tw
+[(I)22.4(n)-0.6( addition, the Cong)9.4(ress may)29.4( consider the )]TJ
+17.73 0 TD
+-0.0008 Tc
+0.0608 Tw
+[(roles bei)-12.8(n)-10.8(g )-10(p)-10.8(l)-12.8(a)-6.8(y)19.2(ed by)29.2( states, accrediting)]TJ
+-19.73 -1.12 TD
+0 Tc
+0.06 Tw
+[(agencies, and ED in determin)]TJ
+12.04 0 TD
+-0.0004 Tc
+0.0604 Tw
+[(ing)9.6( elig)9.6(ibility)29.6( for HEA prog)9.6(ram funds.  The Cong)9.6(ress)-11.4( )-10(m)-12.4(a)-6.4(y)]TJ
+-12.04 -1.13 TD
+0.0006 Tc
+0.0494 Tw
+[(d)-9.4(e)-5.4(b)-9.4(a)4.6(te)4.6( how e)4.6(ffe)4.6(c)4.6(tive)4.6( the)4.6(s)-0.4(e)4.6( va)4.6(rious e)4.6(n)0.6(titie)4.6(s ha)4.6(ve)4.6( be)4.6(e)4.6(n)0.6( in a)4.6(ddre)4.6(ssing)10.6( issue)4.6(s)-0.4( of e)4.6(ducat)-11.4(i)-11.4(o)-9.4(n)-9.4(a)-5.4(l)]TJ
+0 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+[(quality)29.3( and whether chang)9.3(e)3.3(s should be made.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 413.1203 Tm
+0.0008 Tc
+0.0033 Tw
+[(Need A)30.5(n)5(aly)35.4(s)1.2(is)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 385.8803 Tm
+-0.0013 Tc
+0.0113 Tw
+[(The federal need analy)28.7(s)-2.3(is sy)]TJ
+11.28 0 TD
+-0.0005 Tc
+0.0105 Tw
+[(stem delineated in HEA Title I)22.5(V)1.5( is the b)-10.5(a)-6.5(s)-11.5(i)-12.5(s)-11.5( upon which)]TJ
+-13.28 -1.13 TD
+0.0007 Tc
+-0.0407 Tw
+[(stude)4.7(nts\222 e)4.7(lig)10.7(ibility)30.7( for, a)4.7(nd le)4.7(ve)4.7(l of, Title)4.7( I)23.7(V)2.7( )10(stude)4.7(nt )10(a)4.7(i)-1.3(d )10(is )10(de)4.7(te)4.7(rmine)4.7(d.  The)4.7( ke)4.7(y)30.7( e)4.7(l)-1.3(e)4.7(m)-1.3(e)4.7(n)0.7(t in)]TJ
+0 -1.12 TD
+0.0004 Tc
+0.0196 Tw
+[(the)4.4( sy)30.4(ste)4.4(m)-1.6( is the)4.4( de)4.4(te)4.4(rmina)4.4(tion of a)4.4( stude)4.4(nt\222s e)4.4(x)-9.6(pe)4.4(c)4.4(t)-1.6(e)4.4(d)0.4( fa)4.4(mily)30.4( c)4.4(ontribution \(EF)6.4(C)-2.6(\), )-10(t)-11.6(h)0.4(a)4.4(t)-1.6( is,)]TJ
+0 -1.13 TD
+-0.0503 Tw
+[(how muc)4.3(h)0.3( the)4.3( stude)4.3(nt a)4.3(nd )-10(his )-10(or )-10(he)4.3(r )-10(fa)4.3(mily)30.3( is e)4.3(x)-9.7(pe)4.3(c)4.3(t)-1.7(e)4.3(d)0.3( to c)4.3(ontribute)4.3( from inc)4.3(o)0.3(me)4.3( a)4.3(nd othe)4.3(r)]TJ
+0 -1.12 TD
+-0.0015 Tc
+0.0115 Tw
+[(r)-8.5(e)-7.5(s)-12.5(o)-11.5(u)-11.5(r)1.5(ces toward the price of postsecondary)28.5( e)]TJ
+18.3 0 TD
+-0.0004 Tc
+0.0104 Tw
+[(ducation.  I)22.6(n)-0.4( past reauthoriz)-6.4(ations, ele)-6.4(m)-12.4(e)-6.4(n)-10.4(t)-12.4(s)]TJ
+-18.3 -1.13 TD
+-0.002 Tc
+-0.028 Tw
+[(of t)-4(h)-2(e need anal)-4(y)28(s)-3(i)-4(s)-3( sy)28(st)-4(em)-4(, part)-4(i)-4(c)2(ul)-4(arl)-4(y)28( t)-4(h)-2(e )]TJ
+17.45 0 TD
+0.0006 Tc
+-0.0406 Tw
+[(de)4.6(te)4.6(rmina)4.6(tion of the)4.6( EF)6.6(C,)]TJ
+10.31 0 TD
+-0.0009 Tc
+-0.0291 Tw
+[( )10(have been subject to)]TJ
+-27.76 -1.12 TD
+0.0009 Tw
+(debate and amendment.)Tj
+2 -2.25 TD
+0 Tc
+0.18 Tw
+[(During)10( the upcoming )-10(r)-7(e)-6(a)-6(u)-10(t)-12(h)-10(o)-10(r)3(iz)-6(ation th)]TJ
+16.67 0 TD
+-0.0015 Tc
+0.1815 Tw
+[(e Cong)8.5(ress may)28.5( debate whether the need)]TJ
+-18.67 -1.13 TD
+0.0005 Tc
+-0.0005 Tw
+[(a)4.5(n)0.5(a)4.5(l)-1.5(y)30.5(s)-0.5(is )-10(sy)30.5(ste)4.5(m)-1.5( )-10(a)4.5(ppropria)4.5(te)4.5(ly)30.5( a)4.5(nd a)4.5(d)0.5(e)4.5(qua)4.5(te)4.5(ly)30.5( g)10.5(a)4.5(ug)10.5(e)4.5(s)-0.5( stude)4.5(nts\222 a)4.5(b)0.5(ility)30.5( )-10(to )-10(c)4.5(ontribute)4.5( )-10(towa)4.5(rd)]TJ
+0 -1.12 TD
+-0.0007 Tc
+-0.0093 Tw
+[(their education.  This may)29.3( be )]TJ
+11.81 0 TD
+-0.0004 Tc
+0.0004 Tw
+[(particularly)29.6( important)]TJ
+8.71 0 TD
+-0.0011 Tc
+-0.0089 Tw
+[( )-10(g)8.9(i)-3.1(ven )-10(the recent g)8.9(r)1.9(owth in federal tax)-11.1(-)]TJ
+-20.52 -1.13 TD
+-0.0009 Tc
+-0.0491 Tw
+[(based support to meet )10(colleg)9.1(e)3.1( )10(ex)-10.9(penses. )10( Thes)]TJ
+18.03 0 TD
+-0.0006 Tc
+-0.0494 Tw
+[(e include tax)-10.6( provisions)]TJ
+9.38 0 TD
+[( to reimburse families)]TJ
+-27.41 -1.12 TD
+-0.0002 Tc
+0.1702 Tw
+[(for c)3.8(o)-0.2(lle)3.8(g)9.8(e)3.8( e)3.8(x)-10.2(pe)3.8(nditure)3.8(s \(e)3.8(.g)9.8(., fe)3.8(de)3.8(ra)3.8(l Hope)3.8( a)3.8(nd L)20.8(i)-2.2(fe)3.8(time)3.8( L)20.8(e)3.8(a)3.8(r)2.8(ning)9.8( )-10(t)-12.2(a)3.8(x)-10.2( c)3.8(r)2.8(e)3.8(d)-0.2(its\) a)3.8(nd to)]TJ
+0 -1.13 TD
+-0.0008 Tc
+-0.0792 Tw
+[(promote colleg)9.2(e)3.2( saving)9.2(s \(e.g)9.2(., fe)]TJ
+12.65 0 TD
+0.0002 Tc
+-0.0802 Tw
+[(de)4.2(ra)4.2(l ta)4.2(x)-9.8( inc)4.2(e)4.2(n)0.2(tive)4.2(s)-0.8( for )-10(Qua)4.2(lifie)4.2(d )-10(Tuition )-10(Pla)4.2(n)0.2(s\). )-10( One)4.2( of the)]TJ
+-12.65 -1.12 TD
+-0.0004 Tc
+0.0404 Tw
+[(key)29.6( questions is how the need analy)29.6(s)-1.4(is sy)29.6(st)]TJ
+17.43 0 TD
+-0.0008 Tc
+0.0408 Tw
+[(em should take these tax)-10.8(-)2.2(based reso)-10.8(u)-10.8(r)-7.8(c)-6.8(e)-6.8(s)-11.8( )-10(i)-12.8(n)-0.8(to)]TJ
+-17.43 -1.13 TD
+-0.0004 Tc
+-0.0796 Tw
+[(account in determining)9.6( )10(what )10(familie)]TJ
+14.13 0 TD
+-0.0015 Tc
+-0.0885 Tw
+[(s can be ex)-11.5(pected to contri)]TJ
+10.17 0 TD
+-0.0013 Tc
+-0.0887 Tw
+[(bute toward colleg)8.7(e)2.7( ex)-11.3(penses.)]TJ
+-22.3 -2.25 TD
+-0.0008 Tc
+-0.0692 Tw
+[(Another )-10(issue )-10(that may)29.2( be de)]TJ
+11.26 0 TD
+0.0005 Tc
+-0.0705 Tw
+[(ba)4.5(te)4.5(d is how we)4.5(ll the)4.5( pre)4.5(mise)4.5(s)]TJ
+11.94 0 TD
+-0.0016 Tc
+-0.0684 Tw
+[( and process of federal need)]TJ
+-25.2 -1.12 TD
+-0.0009 Tc
+-0.0791 Tw
+[(analy)29.1(s)-1.9(is serve non-traditional students. )-10( )-10(F)5.1(o)-0.9(r )-10(ex)-10.9(am)]TJ
+19.36 0 TD
+-0.0007 Tc
+-0.0693 Tw
+[(ple, some of these students )10(may)29.3( )10(be )10(seeking)]TJ
+-19.36 -1.13 TD
+0.0004 Tc
+0.0096 Tw
+[(a)4.4(ssista)4.4(n)0.4(c)4.4(e)4.4( for spora)4.4(d)0.4(ic)4.4( c)4.4(ourse)4.4(-ta)4.4(k)0.4(ing)10.4( to bolste)4.4(r)3.4( the)4.4(i)-1.6(r e)4.4(c)4.4(onomic )-10(o)-9.6(p)-9.6(portunitie)4.4(s, a)4.4(nd ma)4.4(y)30.4( not)]TJ
+0 -1.12 TD
+0.0009 Tc
+0.0091 Tw
+[(e)4.9(n)0.9(roll in de)4.9(g)10.9(r)3.9(ee- )-10(o)-9.1(r)-6.1( )-10(certific)4.9(a)4.9(t)-1.1(e)4.9(-)3.9(g)10.9(r)3.9(a)4.9(n)0.9(ting)10.9( prog)10.9(ra)4.9(ms, ma)4.9(king)10.9( the)4.9(m)-1.1( ine)4.9(lig)10.9(ible)4.9( for a)4.9(n)0.9(y)30.9( Title)4.9( I)23.9(V)]TJ
+0 -1.13 TD
+0.0007 Tc
+-0.0807 Tw
+[(stude)4.7(nt a)4.7(i)-1.3(d, or the)4.7(y)30.7( ma)4.7(y)30.7( e)4.7(n)0.7(roll on le)4.7(ss tha)4.7(n)0.7( a)4.7( ha)4.7(lf-time)4.7( ba)4.7(sis, ma)4.7(king)10.7( the)4.7(m)-1.3( ine)4.7(lig)10.7(ible)4.7( for Title)]TJ
+0 -1.12 TD
+-0.023 Tc
+0.023 Tw
+[(IV)-21( l)-25(o)-23(a)-19(n)-23(s)-24(.)]TJ
+ET
+endstream
+endobj
+
+59 0 obj
+9379
+endobj
+
+%% Original object ID: 48 0
+60 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 12
+%% Original object ID: 49 0
+61 0 obj
+<<
+  /Length 62 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.63 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(9)]TJ
+-14.63 56.72 TD
+0.0005 Tc
+-0.0205 Tw
+[(Re)4.5(la)4.5(te)4.5(d )10(to the)4.5( proc)4.5(e)4.5(ss of de)4.5(te)4.5(rmining)10.5( e)4.5(lig)10.5(ibility)30.5( a)4.5(nd ne)4.5(e)4.5(d)0.5( for fe)4.5(de)4.5(ra)4.5(l stude)4.5(nt a)4.5(i)-1.5(d is the)]TJ
+-2 -1.13 TD
+-0.0012 Tc
+0.0912 Tw
+[(packag)8.8(ing)8.8( of fe)-7.2(d)-11.2(e)-7.2(r)-8.2(a)-7.2(l)-13.2( )-10(a)-7.2(nd non-federal aid that )]TJ
+18.88 0 TD
+-0.0009 Tc
+0.0909 Tw
+[(is the purview of financial aid officers on)]TJ
+-18.88 -1.12 TD
+-0.001 Tc
+0.131 Tw
+[(postsecondary)29( campuses ac)-7(ross the country)29(.  P)]TJ
+19.39 0 TD
+0.1311 Tw
+[(ackag)8.9(ing)8.9( policies have been at issue for)]TJ
+-19.39 -1.13 TD
+-0.0014 Tc
+-0.0286 Tw
+(several federal prog)Tj
+7.84 0 TD
+-0.0005 Tc
+-0.0295 Tw
+[(rams, including)9.5( the GEAR UP )-10(prog)9.5(ra)]TJ
+14.88 0 TD
+0.0007 Tc
+-0.0207 Tw
+[(m, whic)4.7(h a)4.7(tte)4.7(mpt to provide)4.7<2093>4.7(l)-1.3(a)4.7(s)-0.3(t)]TJ
+-22.72 -1.12 TD
+-0.0007 Tc
+0.0807 Tw
+[(dollar\224 aid to students.  These dollars are in)]TJ
+18.03 0 TD
+-0.0012 Tc
+0.0812 Tw
+[(tended to be awarde)-7.2(d)-11.2( )-10(t)-13.2(o)]TJ
+9.9 0 TD
+0.0017 Tc
+0.0783 Tw
+[( )-10(el)-10.3(ig)11.7(ible)5.7( stude)5.7(nts in)]TJ
+-27.93 -1.13 TD
+0.0001 Tc
+-0.0701 Tw
+[(a)4.1(ddition to a)4.1(ll othe)4.1(r fe)4.1(de)4.1(ra)4.1(l a)4.1(nd )-10(non-fe)4.1(de)4.1(ra)4.1(l )-10(a)4.1(i)-1.9(d )-10(for )-10(whic)4.1(h )-10(the)4.1(y)30.1( )-10(a)4.1(r)3.1(e)4.1( )-10(e)4.1(lig)10.1(ible)4.1(.  I)23.1(n)0.1(stitutions ha)4.1(ve)]TJ
+0 -1.12 TD
+-0.0001 Tw
+[(ra)4.1(ise)4.1(d)0.1( c)4.1(onc)4.1(e)4.1(r)3.1(n tha)4.1(t)-1.9( fe)4.1(de)4.1(ra)4.1(l e)4.1(fforts in this a)4.1(r)3.1(e)4.1(a)4.1( ina)4.1(ppropria)4.1(te)4.1(ly)30.1( intrude)4.1( )-10(on )-10(the)4.1(i)-1.9(r )-10(disc)4.1(re)4.1(tion to)]TJ
+0 -1.13 TD
+0.0002 Tc
+-0.0802 Tw
+[(pa)4.2(c)4.2(k)0.2(a)4.2(g)10.2(e)4.2( the)4.2(i)-1.8(r institutions\222 own a)4.2(i)-1.8(d a)4.2(s)-0.8( we)4.2(ll a)4.2(s)-0.8( othe)4.2(r a)4.2(i)-1.8(d tha)4.2(t)-1.8( ma)4.2(y)30.2( be)4.2( de)4.2(sig)10.2(n)0.2(a)4.2(t)-1.8(e)4.2(d)0.2( a)4.2(s)-0.8<2093>4.2(l)-1.8(a)4.2(s)-0.8(t dolla)4.2<7294>]TJ
+0 -1.12 TD
+-0.0015 Tc
+0.1015 Tw
+[(aid.  The packag)8.5(ing)8.5( interac)-7.5(t)-13.5(i)-13.5(o)-11.5(n)-11.5( )-10(of veterans\222 )]TJ
+18.36 0 TD
+-0.0009 Tc
+0.1009 Tw
+[(education benefits a)]TJ
+8.18 0 TD
+-0.0006 Tc
+0.1006 Tw
+(nd educational benefits)Tj
+-26.54 -1.13 TD
+0 Tc
+-0.01 Tw
+[(provide)4(d for c)4(o)0(mmunity)30( se)4(rvic)4(e)4( throug)10(h Ame)4(r)3(iCorps, for e)4(x)-10(a)4(m)-2(ple)4(,)0( with HEA Title)4( I)23(V)2( a)4(i)-2(d)]TJ
+0 -1.12 TD
+-0.0006 Tc
+0.0006 Tw
+[(may)29.4( also be at issue during)9.4( )]TJ
+11.06 0 TD
+-0.0008 Tc
+0.0008 Tw
+[(the reauthoriz)-6.8(ation process.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 548.1203 Tm
+-0.0009 Tc
+0.005 Tw
+(Distance Education)Tj
+/F4 1 Tf
+12 0 0 12 113.9991 520.8803 Tm
+-0.0004 Tc
+0.2304 Tw
+[(Postsecondary)29.6( education institutions are in)]TJ
+17.99 0 TD
+0.2303 Tw
+[(creasing)9.7(l)-2.3(y)29.7( deli)-12.3(v)-10.3(e)-6.3(ring)9.7( instruction using)]TJ
+-19.99 -1.13 TD
+-0.0005 Tc
+-0.0495 Tw
+[(telecommunications technolog)9.5(y)29.5( that)]TJ
+14.35 0 TD
+-0.0011 Tc
+-0.0389 Tw
+[( links learners and teachers )]TJ
+10.85 0 TD
+-0.0009 Tc
+-0.0391 Tw
+[(in different locations )10(and )10(at)]TJ
+-25.2 -1.12 TD
+-0.0005 Tc
+-0.0595 Tw
+[(different times.  I)22.5(n)-0.5( 1997-1998, roug)9.5(hly)29.5( one-third )]TJ
+19.3 0 TD
+-0.0007 Tc
+-0.0593 Tw
+[(of 2- and 4-y)29.3(ear postsecondary)29.3( institutions)]TJ
+-19.3 -1.13 TD
+-0.001 Tc
+0.401 Tw
+[(offered courses using)9( distance)-7( )-10(e)-7(d)-11(u)-11(c)-7(a)]TJ
+16.28 0 TD
+-0.0003 Tc
+0.4003 Tw
+[(tion.  A sig)9.7(n)-0.3(ificant portion \(about 20%\) of)]TJ
+-16.28 -1.12 TD
+-0.0097 Tw
+[(postsecondary)29.7( )-10(institutions were planning)9.7( to do )]TJ
+18.79 0 TD
+-0.0011 Tc
+-0.0089 Tw
+[(so over the nex)-11.1(t)-3.1( 3 )-10(y)28.9(ears. )-10( )-10(\(U.S. )-10(Department)]TJ
+-18.79 -1.13 TD
+-0.0006 Tc
+0.2506 Tw
+[(of Education, )]TJ
+/F6 1 Tf
+6.13 0 TD
+-0.0004 Tc
+0.2504 Tw
+[(Distance Education at Postseconda)]TJ
+15 0 TD
+0 Tc
+0.25 Tw
+[(r)-11(y)4( Education Institutions: 1997-98)]TJ
+/F4 1 Tf
+14.62 0 TD
+0 Tw
+(,)Tj
+-35.75 -1.12 TD
+-0.0015 Tc
+0.0015 Tw
+(December 1999.\))Tj
+2 -2.25 TD
+-0.0006 Tc
+-0.0594 Tw
+[(This )10(g)9.4(r)2.4(owing)9.4( )10(use )10(of, and interest in, distance )]TJ
+17.67 0 TD
+0.0006 Tc
+-0.0706 Tw
+[(e)4.6(duc)4.6(a)4.6(tion )-10(ha)4.6(s ra)4.6(ise)4.6(d)0.6( substa)4.6(ntia)4.6(l issue)4.6(s)-0.4( for)]TJ
+-19.67 -1.13 TD
+0.0003 Tc
+-0.0703 Tw
+[(HEA Title)4.3( I)23.3(V)2.3( )10(stude)4.3(nt )10(a)4.3(i)-1.7(d )10(prog)10.3(ra)4.3(ms.  I)23.3(t)-1.7( is bring)10.3(i)-1.7(ng)10.3( into que)4.3(stion the)4.3( a)4.3(pplic)4.3(a)4.3(tion of provisions)]TJ
+0 -1.12 TD
+-0.0007 Tc
+0.0107 Tw
+[(previously)29.3( enacted to address abuses of st)]TJ
+16.72 0 TD
+-0.001 Tc
+0.011 Tw
+[(udent aid by)29( various correspondence schools)-12(.)-11(  I)22(t)]TJ
+-16.72 -1.13 TD
+0.0005 Tc
+0.0095 Tw
+[(is a)4.5(l)-1.5(so c)4.5(h)0.5(a)4.5(lle)4.5(ng)10.5(ing)10.5( tra)4.5(d)0.5(itiona)4.5(l de)4.5(finitions of )10(wha)4.5(t)-1.5( )10(c)4.5(onstitute)4.5(s )10(a)4.5( )10(stude)4.5(nt, a)4.5( prog)10.5(ra)4.5(m, a)4.5(nd the)]TJ
+0 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+[(measures of student eng)9.3(a)3.3(g)9.3(e)3.3(ment)]TJ
+12.98 0 TD
+-0.0003 Tc
+0.0003 Tw
+[( in postsecondary)29.7( instructions.)]TJ
+-10.98 -2.25 TD
+-0.0017 Tc
+0.0517 Tw
+[(The federal)-3.7(l)-3.7(y)28.3( est)-3.7(a)2.3(bl)-3.7(i)-3.7(s)-2.7(hed W)-7.7(e)2.3(b-based E)]TJ
+15.8 0 TD
+-0.0015 Tc
+0.0515 Tw
+[(ducat)-3.5(i)-3.5(on C)-4.5(o)-1.5(m)-3.5(m)-3.5(i)-3.5(ssi)-3.5(on repo)-11.5(r)-8.5(t)-13.5(e)-7.5(d)-11.5( i)-3.5(n)-1.5( Decem)-3.5(ber,)]TJ
+-17.8 -1.13 TD
+-0.0005 Tc
+0.1805 Tw
+[(2000, that certain HEA provisions unduly)29.5( restri)]TJ
+20.06 0 TD
+-0.0007 Tc
+0.1807 Tw
+[(cted the leg)9.3(itimate g)9.3(r)2.3(owth of distance)]TJ
+-20.06 -1.12 TD
+-0.0094 Tw
+[(learning)9.4(, limiting)9.4( access to postsecondary)29.4( e)]TJ
+17.32 0 TD
+-0.0005 Tc
+[(ducation.  The )-10(Commission )-10(recommended that)]TJ
+-17.32 -1.13 TD
+0.0005 Tc
+0.0995 Tw
+[(the)4.5( U.S. Cong)10.5(re)4.5(ss c)4.5(o)0.5(n)-9.5(s)-10.5(i)-11.5(d)-9.5(er )-10(s)-10.5(e)4.5(ve)4.5(ra)4.5(l re)4.5(la)4.5(tive)4.5(l)-1.5(y)30.5( te)4.5(c)4.5(hnic)4.5(a)4.5(l)-1.5( c)4.5(h)0.5(a)4.5(n)0.5(g)10.5(e)4.5(s to the)4.5( HEA inte)4.5(nde)4.5(d to)]TJ
+0 -1.12 TD
+0.0008 Tc
+0.1192 Tw
+[(re)4.8(move)4.8( limits on the)4.8( e)4.8(x)-9.2(te)4.8(nt to whic)4.8(h postse)4.8(c)4.8(ond)-9.2(ary)30.8( institutions c)4.8(a)4.8(n)0.8( e)4.8(n)0.8(g)10.8(a)4.8(g)10.8(e)4.8( in dista)4.8(n)0.8(c)4.8(e)]TJ
+0 -1.13 TD
+-0.0008 Tc
+-0.0092 Tw
+[(learning)9.2( and remain elig)9.2(ible )-10(fo)]TJ
+12.26 0 TD
+-0.0004 Tc
+0.0004 Tw
+[(r Title I)22.6(V)1.6( student aid prog)9.6(rams)]TJ
+12.37 0 TD
+-0.0009 Tc
+-0.0091 Tw
+[(.  I)22.1(t)-2.9( also proposed reg)9.1(u)-0.9(latory)]TJ
+-24.63 -1.12 TD
+0.002 Tc
+0.098 Tw
+[(c)6(h)2(a)6(n)2(g)12(e)6(s)1( in)2( h)2(o)2(w)4( a)6( w)4(e)6(e)6(k)2( o)2(f)5( in)2(s)1(t)0(r)5(u)2(c)6(tio)2(n)2(a)6(l time)]TJ
+18.3 0 TD
+[( in)2( T)3(itle)6( I)25(V)4(-)5(e)6(lig)12(ib)2(le)]TJ
+8.07 0 TD
+0.0064 Tc
+0.0936 Tw
+[( n)6.4(o)6.4(n)-3.6(traditio)6.4(n)6.4(a)10.4(l te)10.4(r)9.4(m)4.4(s)5.4( is)]TJ
+-26.37 -1.13 TD
+-0.0005 Tc
+0.0105 Tw
+[(defined because)-6.5( )-10(t)-12.5(h)-10.5(i)-12.5(s)-11.5( )-10(d)-10.5(e)3.5(finition is difficult for )]TJ
+18.43 0 TD
+-0.0009 Tc
+0.0109 Tw
+(distance education enroll)Tj
+10 0 TD
+-0.0005 Tc
+0.0105 Tw
+[(ees to meet.  I)22.5(n)-0.5( the)]TJ
+-28.43 -1.12 TD
+0 Tc
+0 Tw
+(107)Tj
+7.2 0 0 7.2 107.9991 228.6804 Tm
+0.0053 Tc
+(th)Tj
+12 0 0 12 113.6391 223.8804 Tm
+-0.0001 Tc
+-0.0599 Tw
+[( Cong)9.9(ress, leg)9.9(i)-2.1(slation )-10(to )-10(a)]TJ
+10.12 0 TD
+-0.0008 Tc
+-0.0592 Tw
+[(ddress )-10(these )-10(issues )-10(\(H.R. )-10(1992\) )-10(was passed  by)29.2( the House but)]TJ
+-12.09 -1.13 TD
+-0.0002 Tc
+-0.0198 Tw
+[(not the Senate.  \(See, CRS Cong)9.8(ressiona)]TJ
+16.14 0 TD
+0.0002 Tc
+-0.0202 Tw
+[(l Distribution Memorandum, )-10(\223H.R. 1992/S. 1445,)]TJ
+-16.14 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+[(I)22.3(n)-0.7(ternet Equity)29.3( and Education Act,\224 )]TJ
+14.59 0 TD
+[(by)29.3( Marg)9.3(ot A. Schenet, J)-11.7(a)3.3(nuary)29.3( 29, 2002.\))]TJ
+-12.59 -2.25 TD
+-0.0009 Tc
+-0.0091 Tw
+[(The Hig)9.1(h)-0.9(er Education Amendments of )-10(1998 au)]TJ
+18.91 0 TD
+-0.0008 Tc
+[(thoriz)-6.8(ed the Secretary)29.2( of Education to)]TJ
+-20.91 -1.13 TD
+-0.0006 Tc
+0.2506 Tw
+[(choose a g)9.4(r)2.4(oup of institutions at which vari)]TJ
+19.03 0 TD
+-0.0005 Tc
+0.2505 Tw
+[(ous student aid statutory)29.5( and reg)9.5(u)-0.5(latory)]TJ
+-19.03 -1.12 TD
+0.2605 Tw
+[(prov)-10.5(i)-12.5(s)-11.5(i)-12.5(o)-10.5(n)-10.5(s)-11.5( )-10(c)-6.5(ould be waived to promote th)]TJ
+18.25 0 TD
+-0.0012 Tc
+0.2612 Tw
+[(e ex)-11.2(pansion of distan)]TJ
+9.25 0 TD
+-0.002 Tc
+0.262 Tw
+[(ce l)-4(earni)-4(ng)8( at)-4( t)-4(hose)]TJ
+-27.5 -1.13 TD
+0 Tc
+0 Tw
+(institutions.  Annual evaluation repor)Tj
+14.91 0 TD
+-0.0015 Tc
+0.0015 Tw
+[(ts are required from the Secretary)28.5(.)]TJ
+-12.91 -2.25 TD
+0.0008 Tc
+-0.0108 Tw
+[(Re)4.8(sults from the)4.8(s)-0.2(e)4.8( e)4.8(v)0.8(a)4.8(l)-1.2(ua)4.8(tions a)4.8(nd the)4.8( )10(de)4.8(monstra)4.8(tion )10(site)4.8(s )10(a)4.8(r)3.8(e)4.8( like)4.8(l)-1.2(y)30.8( to be)4.8( c)4.8(onside)4.8(r)3.8(e)4.8(d)]TJ
+-2 -1.12 TD
+-0.0006 Tc
+0.2906 Tw
+[(by)29.4( the Cong)9.4(ress as it debates what HEA )]TJ
+18.59 0 TD
+-0.0005 Tc
+0.2905 Tw
+[(statutory)29.5( chang)9.5(e)3.5(s m)-12.5(a)-6.5(y)19.5( )-10(b)-10.5(e)-6.5( )-10(a)-6.5(p)-10.5(propriate to)]TJ
+-18.59 -1.13 TD
+-0.0016 Tc
+0.0416 Tw
+[(accom)-3.6(m)-3.6(o)-1.6(d)-11.6(a)-7.6(t)-13.6(e)-7.6( )-10(t)-13.6(h)-11.6(e del)-3.6(i)-3.6(v)-1.6(ery)28.4( of i)-3.6(n)-1.6(st)-3.6(ruct)-3.6(i)-3.6(on t)-3.6(h)-1.6(roug)8.4(h t)-3.6(e)2.4(l)-3.6(ecom)-3.6(m)-3.6(uni)-3.6(cat)-3.6(i)-3.6(ons whi)-3.6(l)-3.6(e)2.4( safeg)8.4(u)-1.6(ardi)-3.6(ng)]TJ
+0 -1.12 TD
+-0.0006 Tc
+0.0006 Tw
+(federal student aid dollars.)Tj
+ET
+endstream
+endobj
+
+62 0 obj
+10017
+endobj
+
+%% Original object ID: 50 0
+63 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 13
+%% Original object ID: 51 0
+64 0 obj
+<<
+  /Length 65 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.38 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(1)3.3(0)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 710.1203 Tm
+-0.0006 Tc
+0.0047 Tw
+[(Teacher Quality)34( and Quantity)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 682.8803 Tm
+0.0406 Tw
+[(A)-8.6(s)-11.6( )-10(a)-6.6(m)-12.6(ended in 1998, the HEA authoriz)-6.6(es se)]TJ
+18.03 0 TD
+-0.0004 Tc
+0.0404 Tw
+[(veral prog)9.6(rams inte)]TJ
+7.83 0 TD
+-0.0002 Tc
+0.0402 Tw
+[(nded to improve the)]TJ
+-27.86 -1.13 TD
+-0.0007 Tc
+0.1307 Tw
+[(quality)29.3( of training)9.3( and preparati)-12.7(o)-10.7(n)-10.7( )-10(t)-12.7(h)-10.7(a)-6.7(t)-2.7( )]TJ
+16.51 0 TD
+-0.0015 Tc
+0.1315 Tw
+(prospective K-12 teacher)Tj
+10.28 0 TD
+-0.0017 Tc
+0.1317 Tw
+[(s receive from teacher)]TJ
+-26.79 -1.12 TD
+-0.0006 Tc
+-0.0194 Tw
+[(education prog)9.4(rams at the posts)]TJ
+12.56 0 TD
+-0.0015 Tc
+-0.0185 Tw
+[(econdary)28.5( level.  The Cong)8.5(ress )10(act)]TJ
+13.37 0 TD
+-0.0009 Tc
+-0.0191 Tw
+[(ed out of concern that the)]TJ
+-25.93 -1.13 TD
+-0.0011 Tc
+0.0111 Tw
+[(quality)28.9( of the K-1)-11.1(2)-11.1( )-10(t)-13.1(e)-7.1(a)-7.1(c)2.9(hing)8.9( force was a criti)]TJ
+18 0 TD
+-0.0006 Tc
+0.0106 Tw
+[(cal element in the successful implementation)]TJ
+-18 -1.12 TD
+-0.0008 Tc
+0.0008 Tw
+(of federal initiatives to raise the )Tj
+12.92 0 TD
+-0.0013 Tc
+0.0013 Tw
+(academic performance of K-12 students.)Tj
+-10.92 -2.25 TD
+-0.0006 Tc
+0.1106 Tw
+[(A sig)9.4(n)-0.6(ificant s)-11.6(t)-12.6(e)-6.6(p)-0.6( taken by)29.4( the 1998 amendm)]TJ
+18.88 0 TD
+-0.0009 Tc
+0.1109 Tw
+[(ents was to require states and hig)9.1(h)-0.9(er)]TJ
+-20.88 -1.13 TD
+0.0114 Tc
+0.1886 Tw
+[(e)15.4(d)11.4(u)11.4(c)15.4(a)15.4(t)9.4(i)9.4(o)11.4(n)11.4( i)9.4(n)1.4(stitution)11.4(s)10.4( t)9.4(o)11.4( r)14.4(e)15.4(p)11.4(o)11.4(r)14.4(t)9.4( o)11.4(n)11.4( v)11.4(a)15.4(r)14.4(i)9.4(o)11.4(u)11.4(s)10.4( a)15.4(t)9.4(t)9.4(r)14.4(i)9.4(b)11.4(u)11.4(t)9.4(e)15.4(s)10.4( o)11.4(f)14.4( t)]TJ
+23.96 0 TD
+-0.0021 Tc
+0.2021 Tw
+[(eacher preparat)-4.1(i)-4.1(on prog)7.9(ram)-4.1(s)-3.1(,)]TJ
+-23.96 -1.12 TD
+-0.0006 Tc
+0.0506 Tw
+[(including)9.4( the rates at which )]TJ
+11.53 0 TD
+-0.001 Tc
+0.051 Tw
+[(recent g)9(r)2(aduates passe)]TJ
+9 0 TD
+-0.0006 Tc
+0.0506 Tw
+[(d initial teacher licensing)9.4( ex)-10.6(ams.  The)]TJ
+-20.53 -1.13 TD
+-0.0019 Tc
+0.0519 Tw
+[(am)-3.9(endm)-3.9(ent)-3.9(s)-2.9( al)-3.9(so requi)-3.9(red st)-3.9(at)-3.9(es t)-13.9(o)-11.9( )-10(i)-13.9(m)-3.9(pl)-3.9(em)-3.9(ent)-3.9( a process t)-3.9(h)-1.9(at)-3.9( i)-3.9(d)-1.9(ent)-3.9(i)-3.9(f)1.1(i)-3.9(e)2.1(s t)-3.9(eacher educat)-3.9(i)-3.9(o)-1.9(n)]TJ
+0 -1.12 TD
+-0.0018 Tc
+-0.0382 Tw
+[(prog)8.2(ram)-3.8(s)-2.8( )-10(as )-10(l)-3.8(o)-1.8(w-perform)-3.8(i)-3.8(n)-1.8(g)8.2(.)-1.8(  I)21.2(f)1.2( a st)-3.8(at)-3.8(e\222s de)]TJ
+17.21 0 TD
+-0.0009 Tc
+-0.0291 Tw
+[(sig)9.1(n)-0.9(ation )10(of )10(a prog)9.1(ram as low-performing)9.1( leads)]TJ
+-17.21 -1.13 TD
+-0.0011 Tc
+-0.0589 Tw
+[(to the withdrawal of state )-10(a)]TJ
+10.55 0 TD
+-0.0006 Tc
+-0.0494 Tw
+[(pproval or termination of state )]TJ
+12.15 0 TD
+-0.0005 Tc
+[(funding)9.5(, then the HEA )10(provisions)]TJ
+-22.7 -1.12 TD
+0.2205 Tw
+[(t)-12.5(r)-7.5(i)-12.5(g)9.5(g)9.5(e)3.5(r a loss of the institution\222s federal )]TJ
+17.56 0 TD
+-0.0008 Tc
+0.2208 Tw
+[(funds for professional )]TJ
+9.67 0 TD
+-0.0003 Tc
+0.2203 Tw
+(development and the)Tj
+-27.23 -1.13 TD
+-0.0005 Tc
+0.0005 Tw
+[(inelig)9.5(ibility)29.5( of teacher educa)]TJ
+11.41 0 TD
+0.0002 Tc
+-0.0002 Tw
+[(tion students for Title I)23.2(V)2.2( student aid at that institution.)]TJ
+-9.41 -2.25 TD
+-0.0002 Tc
+0.0702 Tw
+[(Critical components of thes)-11.2(e)-6.2( )-10(r)-7.2(e)-6.2(q)-10.2(u)-10.2(i)-12.2(r)-7.2(e)-6.2(m)-12.2(e)3.8(nts )]TJ
+17.63 0 TD
+-0.0006 Tc
+0.0706 Tw
+[(are only)29.4( just now being)9.4( completed.  F)5.4(o)-0.6(r)]TJ
+-19.63 -1.12 TD
+-0.0008 Tc
+0.0908 Tw
+[(ex)-10.8(ample, the first annual re)-6.8(p)-10.8(o)-10.8(r)-7.8(t)-12.8( from states )]TJ
+18.1 0 TD
+-0.0017 Tc
+0.0917 Tw
+[(concerning)8.3( the perform)]TJ
+9.53 0 TD
+-0.0022 Tc
+0.0922 Tw
+[(ance of their teacher)]TJ
+-27.63 -1.13 TD
+-0.0013 Tc
+0.1413 Tw
+[(educ)-7.3(a)-7.3(t)-13.3(i)-13.3(o)-11.3(n)-11.3( )-10(p)-11.3(r)1.7(og)8.7(rams and their procedures fo)]TJ
+18.14 0 TD
+-0.0007 Tc
+0.1407 Tw
+[(r ide)3.3(n)-0.7(tify)29.3(i)-2.7(ng)9.3( low-pe)3.3(rforming)9.3( prog)9.3(ra)3.3(ms wa)3.3(s)]TJ
+-18.14 -1.12 TD
+-0.0008 Tc
+-0.0292 Tw
+[(required in the fall of 2001.  A report from the )]TJ
+18.41 0 TD
+-0.0014 Tc
+-0.0286 Tw
+[(Secretary)28.6( of )10(Educati)]TJ
+8.04 0 TD
+-0.0008 Tc
+-0.0392 Tw
+(on on these state actions)Tj
+-26.45 -1.13 TD
+-0.0002 Tc
+0.1602 Tw
+[(was issued J)-11.2(une, 2002.  \(See CRS Repor)-7.2(t)-12.2( )-10(R)-13.2(L)10.8(31254, )]TJ
+/F6 1 Tf
+22.53 0 TD
+0.0002 Tc
+0.1598 Tw
+[(Pass Rates as an Accountability)]TJ
+-22.53 -1.12 TD
+-0.0005 Tc
+0.0005 Tw
+(Measure for Teacher Education Programs)Tj
+/F4 1 Tf
+17.04 0 TD
+0 Tc
+0 Tw
+(.\))Tj
+-15.04 -2.25 TD
+0.0005 Tc
+0.0395 Tw
+[(The)4.5( Con)-9.5(g)0.5(re)4.5(ss is like)4.5(l)-1.5(y)30.5( to re)4.5(visit the)4.5(s)-0.5(e)4.5( pr)]TJ
+16.39 0 TD
+-0.0004 Tc
+0.0404 Tw
+[(ovisions during)9.6( the reauthoriz)-6.4(ation process.)]TJ
+-18.39 -1.13 TD
+-0.0009 Tc
+0.0009 Tw
+[(I)22.1(t)-2.9( may)29.1( consider:)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 345.3203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 345.3203 Tm
+-0.0007 Tc
+0.0007 Tw
+[(what impact, if any)29.3(,)-0.7( these provisions may)29.3( have had;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 331.8803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 331.8803 Tm
+-0.0018 Tc
+0.0018 Tw
+[(whet)-3.8(her any)28.2( assessm)-3.8(ent)-3.8( of t)-3.8(h)-1.8(e m)-3.8(e)2.2(ri)-3.8(t)-3.8(s)]TJ
+14.86 0 TD
+-0.0007 Tc
+0.0007 Tw
+( of these provisions is premature;)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 318.3203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 318.3203 Tm
+0.0003 Tc
+0.1297 Tw
+[(whether )-10(t)-11.7(h)-9.7(e )-10(em)-11.7(p)-9.7(h)-9.7(a)4.3(sis on pass rates is)]TJ
+15.79 0 TD
+-0.0012 Tc
+0.1312 Tw
+[( appropriate and )]TJ
+7.12 0 TD
+0.0002 Tc
+0.1298 Tw
+[(likely)30.2( to prompt)]TJ
+-22.91 -1.12 TD
+0.0003 Tc
+0.0497 Tw
+[(institutions and states to str)-6.7(e)4.3(ng)10.3(then )]TJ
+14.56 0 TD
+-0.0013 Tc
+0.0513 Tw
+[(their teacher preparation prog)8.7(rams or)]TJ
+-14.56 -1.13 TD
+0.0003 Tc
+0.1297 Tw
+[(whe)4.3(t)-1.7(he)4.3(r pa)4.3(ss ra)4.3(te)4.3(s a)4.3(r)3.3(e)4.3( a)4.3(n)0.3( ina)4.3(d)0.3(e)4.3(qua)4.3(te)4.3( g)10.3(a)4.3(ug)10.3(e)4.3( of qua)4.3(lity)30.3( a)4.3(nd po)-9.7(t)-11.7(e)-5.7(n)-9.7(t)-11.7(i)-11.7(a)4.3(lly)30.3( a)]TJ
+0 -1.12 TD
+-0.001 Tc
+-0.039 Tw
+[(deleterious one raising)9( barriers for pr)]TJ
+14.61 0 TD
+-0.0005 Tc
+-0.0295 Tw
+[(og)9.5(rams that prepare minority)29.5( )10(students)]TJ
+-14.61 -1.13 TD
+-0.0023 Tc
+0.0023 Tw
+[(for t)-4.3(eachi)-4.3(n)-2.3(g)7.7(;)-4.3( and)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 250.8804 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 250.8804 Tm
+-0.0014 Tc
+-0.0686 Tw
+(whether federal requireme)Tj
+10.37 0 TD
+-0.0002 Tc
+-0.0698 Tw
+[(nts )-10(should be streng)9.8(thened to improve the quality)]TJ
+-10.37 -1.13 TD
+0.0005 Tc
+0.0095 Tw
+[(of da)4.5(ta)4.5( re)4.5(porte)4.5(d, c)4.5(o)0.5(mpa)4.5(r)3.5(a)4.5(b)0.5(ility)30.5( a)4.5(c)4.5(r)3.5(oss institutions a)4.5(nd sta)4.5(t)-1.5(e)4.5(s)-0.5(, a)4.5(nd ra)4.5(is)-10.5(e)4.5( the)]TJ
+0 -1.12 TD
+-0.0017 Tc
+0.0017 Tw
+(consequences for poor performance.)Tj
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 194.7204 Tm
+-0.0025 Tc
+0.0066 Tw
+[(Student Loans)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 167.4803 Tm
+-0.001 Tc
+-0.059 Tw
+[(As )-10(already)29( )-10(delineated, the HEA student loan )]TJ
+17.6 0 TD
+-0.0489 Tw
+[(prog)8.9(rams are responsible for a substantial)]TJ
+-19.6 -1.13 TD
+-0.0008 Tc
+0.2708 Tw
+[(portion of the federally)29.2( supporte)-6.8(d)-10.8( )-10(aid curre)]TJ
+18.8 0 TD
+-0.0004 Tc
+0.2704 Tw
+[(ntly)29.6( available to postsecondary)29.6( students.)]TJ
+-18.8 -1.12 TD
+-0.0018 Tc
+0.1118 Tw
+[(R)-4.8(ecent)-3.8(l)-3.8(y)28.2(, t)-3.8(h)-1.8(e 107)]TJ
+7.2 0 0 7.2 176.519 145.2803 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 182.159 140.4803 Tm
+-0.0005 Tc
+0.1105 Tw
+[( Cong)9.5(ress approved leg)9.5(i)-2.5(sl)]TJ
+10.66 0 TD
+0 Tc
+0.11 Tw
+[(a)4(tio)-10(n)-10( )-10(t)-12(o)-10( )-10(m)-12(o)-10(d)-10(i)-12(fy)30( the)4( HEA by)30( e)4(x)-10(te)4(nding)10( the)]TJ
+-18.34 -1.13 TD
+-0.0007 Tc
+-0.0493 Tw
+[(ex)-10.7(isting)9.3( student loan interest rate structure )]TJ
+16.9 0 TD
+-0.0002 Tc
+-0.0498 Tw
+[(throug)9.8(h J)-11.2(une, 2006, and inst)]TJ
+11.13 0 TD
+-0.0005 Tc
+-0.0495 Tw
+[(alling)9.5( fix)-10.5(e)3.5(d rates for)]TJ
+-28.03 -1.12 TD
+-0.0018 Tc
+0.0018 Tw
+(borrowers thereafter.)Tj
+2 -2.25 TD
+0.0006 Tc
+0.1494 Tw
+[(I)23.6(ssue)4.6(s)-0.4( like)4.6(l)-1.4(y)30.6( to be)4.6( c)4.6(onside)4.6(r)3.6(e)4.6(d)0.6( during)10.6( th)]TJ
+16.49 0 TD
+-0.0007 Tc
+0.1507 Tw
+[(e reauthoriz)-6.7(ation process tou)-10.7(c)3.3(h on my)29.3(riad)]TJ
+-18.49 -1.13 TD
+0.0107 Tw
+[(aspects of the loan prog)9.3(rams.  The )10(Cong)9.3(ress ma)]TJ
+19.21 0 TD
+-0.0015 Tc
+0.0115 Tw
+[(y)28.5( debate whether to c)]TJ
+8.54 0 TD
+-0.0002 Tc
+0.0102 Tw
+[(ontinue or to modify)]TJ
+-27.75 -1.12 TD
+-0.0013 Tc
+-0.0987 Tw
+[(the )-10(current framework of providi)]TJ
+12.74 0 TD
+0.0004 Tc
+-0.1004 Tw
+[(ng)10.4( fe)4.4(de)4.4(ra)4.4(lly)30.4( subsidize)4.4(d)0.4( loa)4.4(n)0.4(s )]TJ
+11.44 0 TD
+-0.0011 Tc
+-0.0989 Tw
+[(whose principal is )-10(non-federal)]TJ
+ET
+endstream
+endobj
+
+65 0 obj
+9272
+endobj
+
+%% Original object ID: 52 0
+66 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+    /TT5 87 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 14
+%% Original object ID: 53 0
+67 0 obj
+<<
+  /Length 68 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.38 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(1)3.3(1)]TJ
+-16.38 56.72 TD
+-0.001 Tc
+-0.089 Tw
+[(capital \(F)5(F)5(E)0(L)20(s)-2(\) while concurrently)]TJ
+13.72 0 TD
+-0.0009 Tc
+-0.0891 Tw
+[( lending)9.1( federal funds)]TJ
+8.45 0 TD
+[( directly)29.1( \(Direct L)20.1(o)-0.9(ans\).  )10(I)22.1(t)-2.9( )10(may)29.1( also)]TJ
+-22.17 -1.13 TD
+-0.0006 Tc
+0.0006 Tw
+(address such issues as:)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 671.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 671.7203 Tm
+-0.0009 Tc
+0.0609 Tw
+[(w)-8.9(h)-0.9(ether the levels of debt being)9.1( in)]TJ
+14.17 0 TD
+-0.001 Tc
+0.061 Tw
+[(curred by)29( students throug)9(h the federal)]TJ
+-14.17 -1.12 TD
+-0.0017 Tc
+-0.0483 Tw
+[(prog)8.3(rams )10(are having)8.3( neg)8.3(a)2.3(tive effect)]TJ
+14.1 0 TD
+-0.0008 Tc
+-0.0592 Tw
+[(s )-10(on )-10(access to postsecondary)29.2( education,)]TJ
+-14.1 -1.13 TD
+-0.0019 Tc
+0.0019 Tw
+[(persi)-3.9(s)-2.9(t)-3.9(e)2.1(nce, and career choi)-3.9(ces;)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 631.2803 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 631.2803 Tm
+-0.0007 Tc
+0.0207 Tw
+[(wh)-10.7(ether current annual and cumulativ)]TJ
+15.23 0 TD
+0.0002 Tc
+0.0198 Tw
+[(e limits on what individual students)]TJ
+-15.23 -1.13 TD
+-0.0009 Tc
+0.0309 Tw
+[(can borrow from these prog)9.1(rams should be)]TJ
+17.3 0 TD
+-0.0008 Tc
+[( )-10(r)-7.8(a)-6.8(i)-12.8(s)-11.8(ed to reflect rising)9.2( colleg)9.2(e)]TJ
+-17.3 -1.12 TD
+-0.0001 Tc
+0.0001 Tw
+[(prices )10(and help students avoid utiliz)]TJ
+14.35 0 TD
+-0.0011 Tc
+-0.0089 Tw
+[(ing)8.9( )-10(more ex)-11.1(pensive non-federal loans,)]TJ
+-14.35 -1.13 TD
+0.0001 Tc
+-0.0801 Tw
+[(or )10(whe)4.1(t)-1.9(he)4.1(r )10(suc)4.1(h)0.1( )10(a)4.1(c)4.1(tion )10(will )10(fue)4.1(l)-1.9( pric)4.1(e)4.1( inc)4.1(r)3.1(e)4.1(a)4.1(s)-0.9(e)4.1(s)-0.9( a)4.1(nd burde)4.1(n stude)4.1(nts with )10(too)]TJ
+0 -1.12 TD
+-0.0004 Tc
+0.0004 Tw
+(much debt;)Tj
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 563.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 563.7203 Tm
+-0.0024 Tc
+0.1124 Tw
+[(whet)-4.4(her federal)-4.4( l)-4.4(o)-2.4(ans are )-10(t)-14.4(o)-12.4(o)-12.4( )-10(ex)-12.4(pensi)-4.4(v)]TJ
+15.98 0 TD
+-0.0013 Tc
+0.1113 Tw
+[(e and vari)-3.3(ous cost)-3.3(s, such as l)-3.3(o)-1.3(an)]TJ
+-15.98 -1.12 TD
+-0.0003 Tc
+0.0003 Tw
+[(orig)9.7(ination fees, should be adjusted; and)]TJ
+/TT5 1 Tf
+9.24 0 0 9.24 113.9991 536.7203 Tm
+0 Tc
+0 Tw
+(!)Tj
+/F4 1 Tf
+12 0 0 12 128.399 536.7203 Tm
+-0.002 Tc
+0.162 Tw
+[(whet)-4(her a desi)-4(rabl)-4(e bal)-4(a)2(nce i)-4(s)-3( bei)-4(n)-2(g)8( st)-4(ruck bet)-4(w)0(een l)-4(o)-2(ans and g)8(i)-4(ft)-4( ai)-4(d)]TJ
+T*
+-0.0013 Tc
+0.0013 Tw
+[(\(g)8.7(rants and tax)-11.3( benefits\) for )]TJ
+11.33 0 TD
+-0.0008 Tc
+0.0008 Tw
+[(various g)9.2(r)2.2(oups of borrowers.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 494.1203 Tm
+0.0014 Tc
+0.0027 Tw
+[(Pell Gran)5.6(ts)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 466.8803 Tm
+-0.0006 Tc
+-0.0394 Tw
+[(The Pell Grant prog)9.4(ram )10(is )10(the )]TJ
+11.87 0 TD
+-0.0494 Tw
+[(foundation of the student aid provided )-10(by)29.4( )-10(the )-10(HEA. )-10( )-10(The)]TJ
+-13.87 -1.13 TD
+-0.0005 Tc
+0.0305 Tw
+[(max)-10.5(imum g)9.5(r)2.5(ant for F)5.5(Y)1.5(2002 specified in the )]TJ
+18.1 0 TD
+-0.0014 Tc
+0.0314 Tw
+[(appro)-11.4(p)-11.4(r)-8.4(i)-13.4(a)-7.4(t)-13.4(i)-13.4(ons proce)]TJ
+8.33 0 TD
+0.0003 Tc
+0.0297 Tw
+[(ss is $4,000.  Estimated)]TJ
+-26.43 -1.12 TD
+-0.0008 Tc
+0.0008 Tw
+[(prog)9.2(ram costs for that y)29.2(ear are in ex)-10.8(cess of $11.2 billion.)]TJ
+2 -2.25 TD
+-0.0007 Tc
+0.0207 Tw
+[(During)9.3( the reauthoriz)-6.7(ation process, the C)]TJ
+16.57 0 TD
+-0.0015 Tc
+0.0215 Tw
+[(ong)8.5(re)-7.5(s)-12.5(s)-12.5( )-10(may)28.5( debate a va)]TJ
+9.83 0 TD
+0.0007 Tc
+0.0193 Tw
+[(rie)4.7(t)-1.3(y)30.7( of Pe)4.7(ll Gra)4.7(n)0.7(t-)]TJ
+-28.4 -1.13 TD
+-0.0006 Tc
+-0.0594 Tw
+[(related )-10(issues. )-10( Of immediate in)]TJ
+12.37 0 TD
+-0.0009 Tc
+-0.0591 Tw
+[(terest to the Cong)9.1(ress has )-10(been)]TJ
+12.04 0 TD
+-0.0008 Tc
+-0.0492 Tw
+[( the prospect that the F)5.2(Y)1.2(2002)]TJ
+-24.41 -1.12 TD
+-0.0007 Tc
+-0.0993 Tw
+[(a)13.3(p)9.3(p)9.3(r)12.3(opriation for the prog)9.3(ram is inadequa)]TJ
+16.11 0 TD
+0 Tc
+-0.1 Tw
+[(te to support a $4,000 max)-10(imum Pell Grant b)]TJ
+17.29 0 TD
+-0.0117 Tc
+0 Tw
+(ecause)Tj
+-33.4 -1.13 TD
+-0.0008 Tc
+-0.0192 Tw
+[(a substantial portion of the increase in )]TJ
+15.31 0 TD
+-0.0007 Tc
+[(F)5.3(Y)1.3(2002 appropriated funds)]TJ
+10.99 0 TD
+-0.0004 Tc
+-0.0296 Tw
+[( over F)5.6(Y)1.6(2001 funds will)]TJ
+-26.3 -1.12 TD
+0.1004 Tw
+[(be used to make up a shor)-7.4(t)-12.4(f)-7.4(al)-12.4(l)-12.4( )-10(i)-12.4(n)-10.4( )-10(FY2001 f)]TJ
+18.12 0 TD
+-0.0009 Tc
+0.1009 Tw
+[(unding)9.1( for the prog)9.1(ram.  F)5.1(u)-0.9(rther, estimated)]TJ
+-18.12 -1.13 TD
+-0.0006 Tc
+-0.0994 Tw
+[(p)9.4(r)2.4(og)9.4(ram costs for F)5.4(Y)1.4(2002 have been rising)9.4(.  F)5.4(Y)1.4(2002 supplemental)7.4( a)13.4(p)9.4(p)9.4(r)12.4(o)9.4(p)9.4(r)12.4(i)7.4(a)13.4(t)7.4(i)7.4(o)9.4(n)9.4(s)8.4( l)7.4(e)13.4(g)19.4(i)7.4(s)8.4(l)7.4(a)13.4(t)7.4(i)7.4(o)9.4(n)]TJ
+0 -1.12 TD
+0.0002 Tc
+0.1098 Tw
+[(\(P.L)21.2(. 107-206\) included $1 billion to help meet)-11.8( )]TJ
+20.05 0 TD
+-0.0005 Tc
+0.1105 Tw
+[(t)-12.5(h)-10.5(i)-12.5(s)-11.5( )-10(Pell Grant shortfall.  The shortfall)]TJ
+-20.05 -1.13 TD
+-0.0006 Tc
+-0.0594 Tw
+[(situation )10(may)29.4( influence action )]TJ
+12.04 0 TD
+-0.0008 Tc
+-0.0692 Tw
+[(taken )-10(during)9.2( the upcoming)9.2( reaut)]TJ
+12.69 0 TD
+-0.0006 Tc
+-0.0694 Tw
+[(horiz)-6.6(ation.  F)5.4(o)-0.6(r ex)-10.6(ample, the)]TJ
+-24.73 -1.12 TD
+-0.0003 Tc
+-0.0997 Tw
+[(HEA no long)9.7(er has statutory)29.7( provisions allowing)]TJ
+18.95 0 TD
+-0.0023 Tc
+-0.0977 Tw
+[( t)-4.3(h)-2.3(e S)-6.3(ecret)-4.3(ary)27.7( of Educat)-4.3(i)-4.3(on t)-4.3(o)-2.3( r)10.7(e)11.7(d)7.7(u)7.7(c)11.7(e)11.7( a)11.7(w)9.7(ards)]TJ
+-18.95 -1.13 TD
+0.0001 Tc
+0.1299 Tw
+[(in orde)4.1(r to a)4.1(ddre)4.1(ss shortfa)4.1(lls; suc)4.1(h)0.1( la)4.1(ng)10.1(ua)4.1(g)10.1(e)4.1( wa)4.1(s d)-9.9(e)-5.9(l)-11.9(e)4.1(te)4.1(d from the)4.1( HEA by)30.1( the)4.1( Hig)10.1(h)0.1(e)4.1(r)]TJ
+0 -1.12 TD
+-0.0004 Tc
+0.0004 Tw
+(Education Amendments of 1992.)Tj
+2 -2.25 TD
+0.0007 Tc
+-0.0007 Tw
+[(Among)10.7( othe)4.7(r issue)4.7(s)-0.3( tha)4.7(t)-1.3( ma)4.7(y)30.7( a)4.7(ttra)4.7(c)4.7(t)-1.3( le)4.7(g)10.7(i)-1.3(sla)4.7(tive)4.7( a)4.7(tte)4.7(ntion during)10.7( the)4.7( re)4.7(a)4.7(u)0.7(thoriza)4.7(tion is)]TJ
+-2 -1.13 TD
+-0.0009 Tc
+-0.0291 Tw
+[(whether the prog)9.1(ram would more successfully)]TJ
+18.3 0 TD
+[( promote access if )10(its )10(assistance )10(were limited)]TJ
+-18.3 -1.12 TD
+0.0003 Tc
+-0.0403 Tw
+[(to the)4.3( first 2 y)30.3(e)4.3(a)4.3(r)3.3(s of e)4.3(n)0.3(rollme)4.3(nt a)4.3(nd c)4.3(ove)4.3(re)4.3(d a)4.3( )10(more)4.3( )10(substa)4.3(ntia)4.3(l )10(portion )10(of )10(c)4.3(o)0.3(lle)4.3(g)10.3(e)4.3( e)4.3(x)-9.7(pe)4.3(nse)4.3(s)]TJ
+0 -1.13 TD
+-0.0012 Tc
+0 Tw
+(\(so-called )Tj
+/F6 1 Tf
+4.16 0 TD
+0.0008 Tc
+-0.0208 Tw
+[(front loading)]TJ
+/F4 1 Tf
+5.24 0 TD
+0.0005 Tc
+-0.0205 Tw
+[( with Pe)4.5(ll Gra)4.5(n)0.5(ts\), the)4.5(r)3.5(e)4.5(b)0.5(y)30.5( re)4.5(duc)4.5(ing)10.5( re)4.5(lia)4.5(nc)4.5(e)4.5( on loa)4.5(n)0.5(s in the)4.5(s)-0.5(e)4.5( e)4.5(a)4.5(r)3.5(ly)]TJ
+-9.4 -1.12 TD
+0.0004 Tc
+-0.0904 Tw
+[(y)30.4(e)4.4(a)4.4(r)3.4(s of e)4.4(n)0.4(rollme)4.4(nt.  Also, the)4.4( Cong)10.4(re)4.4(ss ma)4.4(y)30.4( c)4.4(onside)4.4(r)3.4( the)4.4( )-10(re)4.4(la)4.4(tive)4.4( )-10(ba)4.4(la)4.4(nc)4.4(e)4.4( a)4.4(m)-1.6(ong)10.4( the)4.4( va)4.4(rious)]TJ
+0 -1.13 TD
+-0.0007 Tc
+0.0207 Tw
+[(forms of federal student assi)]TJ
+11.39 0 TD
+-0.0013 Tc
+0.0213 Tw
+[(stance awarded under the HEA and the tax)-11.3( sy)28.7(stem.  As)-12.3( )-10(noted)]TJ
+-11.39 -1.12 TD
+0.0006 Tc
+0.0094 Tw
+[(e)4.6(a)4.6(r)3.6(lie)4.6(r, the)4.6( sha)4.6(r)3.6(e)4.6( o)-9.4(f)-6.4( )-10(H)-7.4(E)-8.4(A)-7.4( )-10(Title)4.6( I)23.6(V)2.6( a)4.6(i)-1.4(d provide)4.6(d in the)4.6( form of g)10.6(r)3.6(a)4.6(n)0.6(ts is ma)4.6(rke)4.6(d)0.6(ly)30.6( le)4.6(ss tha)4.6(n)]TJ
+0 -1.13 TD
+-0.0008 Tc
+0.0008 Tw
+[(the loan volume and, overall, has declined since the early)29.2( 1990s.)]TJ
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 109.6404 Tm
+0 Tc
+0 Tw
+(L)Tj
+12.72 0 0 12.72 100.6791 109.6404 Tm
+0.0037 Tc
+[(EG)6.5(I)6.1(S)-0.5(LA)7.9(TI)6.1(O)6.5(N)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 80.6003 Tm
+-0.0001 Tc
+-0.0699 Tw
+[(This section will track leg)9.9(i)-2.1(slation that propos)]TJ
+17.62 0 TD
+-0.0006 Tc
+-0.0694 Tw
+[(es )-10(reauthorization )-10(of )-10(the HEA or its major)]TJ
+-19.62 -1.13 TD
+-0.0005 Tc
+0.0005 Tw
+[(components.  To date, such leg)9.5(i)]TJ
+12.67 0 TD
+-0.0004 Tc
+0.0004 Tw
+(slation has not been introduced.)Tj
+ET
+endstream
+endobj
+
+68 0 obj
+8606
+endobj
+
+%% Original object ID: 54 0
+69 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+    /TT3 83 0 R
+    /TT5 87 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 15
+%% Original object ID: 55 0
+70 0 obj
+<<
+  /Length 71 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.38 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(1)3.3(2)]TJ
+/TT3 1 Tf
+15.96 0 0 15.96 89.9991 692.4803 Tm
+0 Tc
+(F)Tj
+12.72 0 0 12.72 100.6791 692.4803 Tm
+-0.0035 Tc
+(OR )Tj
+15.96 0 0 15.96 125.2791 692.4803 Tm
+0 Tc
+(A)Tj
+12.72 0 0 12.72 137.639 692.4803 Tm
+-0.0034 Tc
+[(DDIT)-7.6(I)-1(ONAL)-6.2( )]TJ
+15.96 0 0 15.96 220.079 692.4803 Tm
+0 Tc
+(R)Tj
+12.72 0 0 12.72 232.439 692.4803 Tm
+-0.0033 Tc
+[(E)-7.5(ADING)]TJ
+/F4 1 Tf
+12 0 0 12 113.9991 663.4403 Tm
+-0.0004 Tc
+0.0004 Tw
+(Selected CRS products are lis)Tj
+11.88 0 TD
+-0.001 Tc
+0.001 Tw
+[(ted here by)29( g)9(e)3(neral topic.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 634.2803 Tm
+0.0023 Tc
+0.0018 Tw
+[(Prio)6.5(r R)6.4(eau)6.5(th)6.5(o)6.5(r)-1.9(izatio)6.5(n)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 607.0403 Tm
+0.0008 Tc
+-0.0108 Tw
+[(CRS Report )-10(RL)21.8(30063, )]TJ
+/F6 1 Tf
+9.37 0 TD
+-0.0005 Tc
+-0.0095 Tw
+[(The Higher Education Act: )]TJ
+11.06 0 TD
+-0.0002 Tc
+-0.0098 Tw
+[(Reauthorization by the 105)]TJ
+7.2 0 0 7.2 465.119 611.8403 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 470.759 607.0403 Tm
+0.0001 Tc
+-0.0101 Tw
+[( Congress)]TJ
+/F4 1 Tf
+4.02 0 TD
+0 Tc
+0 Tw
+(,)Tj
+-35.75 -1.12 TD
+-0.0007 Tc
+0.0007 Tw
+[(coordinated by)29.3( J)-11.7(a)]TJ
+7.02 0 TD
+0.0015 Tc
+-0.0015 Tw
+[(me)5.5(s B)8.5(.)1.5( Ste)5.5(d)1.5(ma)5.5(n.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 564.4403 Tm
+-0.0023 Tc
+0.0064 Tw
+[(Student Loan Pr)-6.5(ogr)-6.5(ams)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 537.2003 Tm
+0.0008 Tc
+0.0392 Tw
+[(CRS Report RL)21.8(30048, )]TJ
+/F6 1 Tf
+9.5 0 TD
+-0.0001 Tc
+0.0401 Tw
+[(Federal Student Loans:  Program)]TJ
+13.71 0 TD
+0.0004 Tc
+0.0396 Tw
+[( Data and Default Statistics)]TJ
+/F4 1 Tf
+11.28 0 TD
+0 Tc
+0.04 Tw
+(, by)Tj
+-34.49 -1.13 TD
+0.0011 Tc
+-0.0011 Tw
+[(Ada)5.1(m)-0.9( Stoll.)]TJ
+0 -1.12 TD
+0.0008 Tc
+0.0292 Tw
+[(CRS Report RL)21.8(30655, )]TJ
+/F6 1 Tf
+9.47 0 TD
+-0.0001 Tc
+0.0301 Tw
+[(Federal Student Loans:  Term)]TJ
+12.17 0 TD
+0.0006 Tc
+0.0294 Tw
+[(s and Conditions for Borrowers)]TJ
+/F4 1 Tf
+12.86 0 TD
+0 Tc
+0.03 Tw
+(, by)Tj
+-34.5 -1.13 TD
+0.0011 Tc
+-0.0011 Tw
+[(Ada)5.1(m)-0.9( Stoll.)]TJ
+0 -1.12 TD
+0.0014 Tc
+0.0486 Tw
+[(CRS)-12.6( R)-11.6(e)-4.6(p)-8.6(o)-8.6(r)4.4(t )10(RL)22.4(30880, )]TJ
+/F6 1 Tf
+9.56 0 TD
+-0.0006 Tc
+0.0406 Tw
+[(The Role the Federal Student )]TJ
+12.16 0 TD
+0.0003 Tc
+0.0397 Tw
+[(Loan Programs Play in Supporting)]TJ
+-21.72 -1.13 TD
+-0.0006 Tc
+0.0006 Tw
+(Postsecondary Students)Tj
+/F4 1 Tf
+9.52 0 TD
+0.0005 Tc
+-0.0005 Tw
+[(, by)30.5( Adam Stoll.)]TJ
+-9.52 -1.12 TD
+0.0008 Tc
+-0.1008 Tw
+[(CRS Report RL)21.8(30656, )]TJ
+/F6 1 Tf
+9.08 0 TD
+0.0001 Tc
+-0.1001 Tw
+[(The Administration of Federal St)]TJ
+12.83 0 TD
+-0.0003 Tc
+-0.0997 Tw
+[(udent Loan Programs:  Background)]TJ
+-21.91 -1.13 TD
+0.0001 Tc
+-0.0001 Tw
+(and Provisions)Tj
+/F4 1 Tf
+6.03 0 TD
+0.0005 Tc
+-0.0005 Tw
+[(, by)30.5( Adam Stoll.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 413.4803 Tm
+0.0006 Tc
+0.0035 Tw
+(Pell Grant Program)Tj
+/F4 1 Tf
+12 0 0 12 89.9991 386.2403 Tm
+0.0008 Tc
+0.2892 Tw
+[(CRS Rep)-9.2(o)-9.2(r)-6.2(t)-11.2( )-10(R)-12.2(L)21.8(31668, )]TJ
+/F6 1 Tf
+10.31 0 TD
+-0.0001 Tc
+0.2901 Tw
+[(Federal Pell Grant Program of)]TJ
+13.71 0 TD
+-0.0004 Tc
+0.2904 Tw
+[( the Higher Education Act:)]TJ
+-24.02 -1.12 TD
+-0.0001 Tc
+0.0001 Tw
+(Background and Reauthorization)Tj
+/F4 1 Tf
+13.33 0 TD
+0 Tc
+0 Tw
+[(, by)30( J)-11(a)4(mes B)7(.)0( Stedman.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 343.6403 Tm
+-0.0015 Tc
+0.0056 Tw
+(Campus-Based Student Fi)Tj
+12.4188 0 TD
+-0.0004 Tc
+0.0045 Tw
+[(nancial A)29.3(i)-4.5(d Programs)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 316.4003 Tm
+0.0008 Tc
+-0.0008 Tw
+[(CRS Report RL)21.8(31618, )]TJ
+/F6 1 Tf
+9.38 0 TD
+-0.0001 Tc
+-0.0099 Tw
+[(Campus-Based Student Financial )]TJ
+13.66 0 TD
+-0.0004 Tc
+-0.0096 Tw
+[(Aid Programs Under the )-10(Higher)]TJ
+-23.04 -1.13 TD
+-0.0005 Tc
+0.0005 Tw
+(Education Act)Tj
+/F4 1 Tf
+5.69 0 TD
+0 Tc
+0 Tw
+[(, by)30( David P. Smole.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 273.6804 Tm
+-0.0016 Tc
+0.0057 Tw
+[(Feder)-5.8(a)-1.2(l)-5.7( Tax Benefi)-5.7(ts for)-5.8( Postsecondar)-5.8(y)33( Educati)-5.7(o)2.6(n)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 246.4404 Tm
+0.0013 Tc
+0.0087 Tw
+[(CRS R)-11.7(e)-4.7(p)-8.7(o)-8.7(r)-5.7(t)-10.7( )-10(RL)22.3(31484, )]TJ
+/F6 1 Tf
+9.48 0 TD
+-0.0002 Tc
+0.0102 Tw
+[(Higher Education Tax Credits:  Targeting, Value, and Interaction)]TJ
+-9.48 -1.12 TD
+0.0001 Tc
+-0.0001 Tw
+(with Other Federal Student Aid)Tj
+/F4 1 Tf
+12.61 0 TD
+[(, by)30.1( Adam Stoll and J)-10.9(a)4.1(mes B)7.1(.)0.1( Stedman.)]TJ
+-12.61 -1.13 TD
+0.0008 Tc
+-0.0208 Tw
+[(CRS Report RL)21.8(31129, )]TJ
+/F6 1 Tf
+9.33 0 TD
+-0.0002 Tc
+-0.0098 Tw
+[(Higher Education Tax Credits and De)]TJ
+15.25 0 TD
+-0.0005 Tc
+-0.0195 Tw
+[(duction: )-10( An Overview of the)]TJ
+-24.58 -1.12 TD
+0.0004 Tc
+0.0496 Tw
+[(Benefits and Their Relationship to Tradition)-9.6(a)-9.6(l)-11.6( )-10(S)-9.6(t)-1.6(udent Aid)]TJ
+/F4 1 Tf
+23.84 0 TD
+0.0002 Tc
+0.0498 Tw
+[(, by)30.2( Adam Stoll and J)-10.8(a)4.2(mes B)7.2(.)]TJ
+-23.84 -1.13 TD
+0.0017 Tc
+0 Tw
+[(Ste)5.7(d)1.7(ma)5.7(n.)]TJ
+0 -1.12 TD
+0.0006 Tc
+0.2594 Tw
+[(CRS Repor)-6.4(t)-11.4( )-10(R)-12.4(L)11.6(3)-9.4(1214, )]TJ
+/F6 1 Tf
+10.22 0 TD
+0.0002 Tc
+0.2598 Tw
+[(Saving for College Through )]TJ
+12.49 0 TD
+0.0003 Tc
+[(Qualified Tuition \()13.3(S)0.3(ection 529\))]TJ
+-22.71 -1.13 TD
+-0.0001 Tc
+0 Tw
+(Programs)Tj
+/F4 1 Tf
+4 0 TD
+-0.0005 Tc
+0.0005 Tw
+[(, by)29.5( L)20.5(i)-2.5(nda L)20.5(e)3.5(vine.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 136.2804 Tm
+-0.0009 Tc
+0.005 Tw
+(Distance Education)Tj
+/F4 1 Tf
+12 0 0 12 89.9991 109.0403 Tm
+0.0002 Tc
+0.1098 Tw
+[(CRS Cong)10.2(ressional Distribution Memorandum, )]TJ
+/F6 1 Tf
+19.81 0 TD
+-0.0002 Tc
+0.1102 Tw
+[(H)-8.2(.)-0.2(R. 1992/S. 1445, Internet Equity and)]TJ
+-19.81 -1.12 TD
+-0.0005 Tc
+0.0005 Tw
+(Education Act)Tj
+/F4 1 Tf
+5.69 0 TD
+-0.0006 Tc
+0.0006 Tw
+[(, by)29.4( Marg)9.4(ot A. Schenet.  J)-11.6(a)3.4(nuary)29.4( 29, 2002.)]TJ
+ET
+endstream
+endobj
+
+71 0 obj
+5862
+endobj
+
+%% Original object ID: 56 0
+72 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+    /TT3 83 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Contents for page 16
+%% Original object ID: 57 0
+73 0 obj
+<<
+  /Length 74 0 R
+>>
+stream
+BT
+/F4 1 Tf
+12 0 0 12 89.9991 751.8803 Tm
+/Cs5 cs 0 0 0 sc
+/GS1 gs
+-0.0005 Tc
+0 Tw
+[(I)22.5(B)6.5(10097)-28870.5(12-23-02)]TJ
+16.38 -60.02 TD
+0.0033 Tc
+[(CRS-)6.3(1)3.3(3)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 710.1203 Tm
+-0.0006 Tc
+0.0047 Tw
+[(Teacher Quality)34( and Quantity)34( )]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 682.8803 Tm
+0.0008 Tc
+0.0592 Tw
+[(CRS Report RL)21.8(31254, )]TJ
+/F6 1 Tf
+9.56 0 TD
+0.0102 Tc
+0.0498 Tw
+[(P)11.2(a)10.2(s)9.2(s)9.2( R)11.2(a)10.2(t)8.2(e)14.2(s)9.2( a)10.2(s)9.2( a)10.2(n)10.2( A)11.2(c)14.2(countabili)8.2(t)8.2(y)14.2( M)13.2(e)14.2(a)10.2(s)9.2(u)10.2(r)9.2(e)14.2( f)8.2(o)10.2(r)9.2( T)6.2(e)14.2(a)10.2(c)14.2(h)10.2(e)14.2(r)9.2( E)11.2(d)10.2(u)10.2(c)14.2(a)10.2(t)8.2(i)8.2(o)10.2(n)]TJ
+-9.56 -1.13 TD
+-0.0001 Tc
+0 Tw
+(Programs)Tj
+/F4 1 Tf
+4 0 TD
+-0.0005 Tc
+0.0005 Tw
+[(, by)29.5( J)-11.5(a)3.5(mes B)6.5(.)-0.5( Stedman and B)6.5(onnie F)5.5(.)-0.5( Mang)9.5(an.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 640.1603 Tm
+-0.0018 Tc
+0.0059 Tw
+[(Student Suppor)-6(t Ser)-6(v)7.2(i)-5.9(ces)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 612.9203 Tm
+0.0008 Tc
+0.1092 Tw
+[(CRS Report RL)21.8(31622, )]TJ
+/F6 1 Tf
+9.71 0 TD
+-0.0004 Tc
+0.1104 Tw
+[(TRIO and GEAR UP Programs: Status and I)-7.4(ssues)]TJ
+/F4 1 Tf
+20.85 0 TD
+-0.0022 Tc
+0.1122 Tw
+[( by)27.8( J)-13.2(e)1.8(ffrey)27.8( J)-13.2(.)]TJ
+-30.56 -1.12 TD
+-0.0015 Tc
+0 Tw
+[(Kuenz)-7.5(i)-3.5(.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 570.3203 Tm
+-0.0029 Tc
+0.007 Tw
+[(M)-16.1(i)-7(nor)-7.1(i)-7(t)-3.2(y)31.7( I)-7(n)1.3(sti)-7(t)-3.2(uti)-7(ons)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 543.0803 Tm
+0.0008 Tc
+-0.0508 Tw
+[(CRS Report RL)21.8(31647, )]TJ
+/F6 1 Tf
+9.23 0 TD
+0.0004 Tc
+-0.0504 Tw
+[(Reauthorization of Title III and Title)]TJ
+14.4 0 TD
+-0.0003 Tc
+-0.0597 Tw
+[( )-10(V )-10(of the Higher Education Act:)]TJ
+-23.63 -1.13 TD
+0.0003 Tw
+(Issues for the 108)Tj
+7.2 0 0 7.2 174.959 534.3203 Tm
+0.0053 Tc
+0 Tw
+(th)Tj
+12 0 0 12 180.599 529.5203 Tm
+0.0001 Tc
+-0.0001 Tw
+( Congress)Tj
+/F4 1 Tf
+4.03 0 TD
+-0.0009 Tc
+0.0009 Tw
+[(, by)29.1( Charmaine J)-11.9(ackson.)]TJ
+/F2 1 Tf
+14.04 0 0 14.04 89.9991 500.3604 Tm
+0.0021 Tc
+0.002 Tw
+[(In)6.3(tern)6.3(atio)6.3(n)6.3(a)2.5(l Ed)6.3(u)6.3(catio)6.3(n)]TJ
+/F4 1 Tf
+12 0 0 12 89.9991 473.1203 Tm
+0.0016 Tc
+0.0484 Tw
+[(CRS Re)-4.4(p)-8.4(o)-8.4(r)-5.4(t)-10.4( RL)22.6(31625, )]TJ
+/F6 1 Tf
+9.58 0 TD
+-0.0001 Tc
+0.0501 Tw
+[(Foreign Language and International)]TJ
+14.9 0 TD
+-0.0006 Tc
+0.0506 Tw
+[( Studies: Federal Aid Under)]TJ
+-24.48 -1.12 TD
+0.0005 Tc
+-0.0005 Tw
+[(Title)4.5( VI of the)4.5( Highe)4.5(r Educ)4.5(ation Ac)4.5(t)]TJ
+/F4 1 Tf
+14.55 0 TD
+-0.0004 Tc
+0.0004 Tw
+[(, by)29.6( W)-6.4(a)3.6(y)29.6(n)-0.4(e C. Riddle.)]TJ
+ET
+endstream
+endobj
+
+74 0 obj
+2631
+endobj
+
+%% Original object ID: 58 0
+75 0 obj
+<<
+  /ColorSpace <<
+    /Cs5 76 0 R
+  >>
+  /ExtGState <<
+    /GS1 77 0 R
+  >>
+  /Font <<
+    /F2 79 0 R
+    /F4 82 0 R
+    /F6 86 0 R
+  >>
+  /ProcSet [
+    /PDF
+    /Text
+  ]
+>>
+endobj
+
+%% Original object ID: 59 0
+76 0 obj
+[
+  /CalRGB
+  <<
+    /Gamma [
+      2.22221
+      2.22221
+      2.22221
+    ]
+    /Matrix [
+      0.4124
+      0.2126
+      0.0193
+      0.3576
+      0.71519
+      0.1192
+      0.1805
+      0.0722
+      0.9505
+    ]
+    /WhitePoint [
+      0.9505
+      1
+      1.089
+    ]
+  >>
+]
+endobj
+
+%% Original object ID: 60 0
+77 0 obj
+<<
+  /SA false
+  /SM 0.02
+  /TR /Identity
+  /Type /ExtGState
+>>
+endobj
+
+%% Original object ID: 61 0
+78 0 obj
+<<
+  /BaseFont /Helvetica-BoldOblique
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 62 0
+79 0 obj
+<<
+  /BaseFont /Helvetica-Bold
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 63 0
+80 0 obj
+<<
+  /BaseFont /Helvetica
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 64 0
+81 0 obj
+<<
+  /BaseFont /MBANMB+WPIconicSymbolsA
+  /FirstChar 33
+  /FontDescriptor 90 0 R
+  /LastChar 33
+  /Subtype /TrueType
+  /ToUnicode 91 0 R
+  /Type /Font
+  /Widths [
+    784
+  ]
+>>
+endobj
+
+%% Original object ID: 65 0
+82 0 obj
+<<
+  /BaseFont /Times-Roman
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 66 0
+83 0 obj
+<<
+  /BaseFont /ArialBlack
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 93 0 R
+  /LastChar 89
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [
+    333
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    778
+    778
+    778
+    778
+    722
+    667
+    833
+    0
+    389
+    0
+    833
+    667
+    944
+    833
+    833
+    722
+    0
+    778
+    722
+    722
+    833
+    778
+    0
+    0
+    778
+  ]
+>>
+endobj
+
+%% Original object ID: 67 0
+84 0 obj
+[
+  /Indexed
+  76 0 R
+  255
+  94 0 R
+]
+endobj
+
+%% Original object ID: 68 0
+85 0 obj
+<<
+  /BaseFont /Times-Bold
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 69 0
+86 0 obj
+<<
+  /BaseFont /Times-Italic
+  /Encoding /WinAnsiEncoding
+  /Subtype /Type1
+  /Type /Font
+>>
+endobj
+
+%% Original object ID: 70 0
+87 0 obj
+<<
+  /BaseFont /WPTypographicSymbols
+  /Encoding /WinAnsiEncoding
+  /FirstChar 33
+  /FontDescriptor 96 0 R
+  /LastChar 33
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [
+    667
+  ]
+>>
+endobj
+
+%% Original object ID: 71 0
+88 0 obj
+<<
+  /BitsPerComponent 8
+  /ColorSpace 84 0 R
+  /Height 47
+  /Subtype /Image
+  /Type /XObject
+  /Width 73
+  /Length 89 0 R
+>>
+stream
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             	                                                                      
+                                                                                                                                                                                                                                                                                                                                                      !"                                                                     #$%                                                                      #&                                                                    '()*+                                                                   ,-./01                                                                  234567,                                                                89  :;< =>?                                                                      @AB                                                                      CDE                                                                      FGH                                                                      IJK                                                                LM,   NOP                                                               QR @#4STU                                                         VWBXYV, Z[ \]^_                                                     `abcdeffghijkV lNm                                                  nlop<q5rs/$tuvrwxyz{|                                               }~TSÄOÅOÇSÉÑÖdÖÜáàâäãg                                             Våå\qçjéè        *1ê(ácëíì<î                                           ;|  ï             D* ñóòôy4öxW                                                            õú ùû# ü,†Üí,                                                            °¢ h.£/§  n    •¶ß®© ™  'åß´ê                  ò)~¨Ö´Ö7àÜi´≠ó}9Æh       Ø∞! @õë9vKÑÑ36)±w≤©≥¥¥,             µ´d∂∑∏**πE"∫ª¨_ºΩªæóüø¿n      YÅ¡B  Y¬I   <√ƒ≈  g             P\ü¿¬xíùùmÑ∆∆qy«JG»jf_…#    {       ~àÀ¥ÃÕŒxNœ             Øu–Jmá´´ëc—ª≥≠öΩ7ÖimT4T“”   ã∏       Å“‘Ä} òªƒç&3             ’•π1œ?                 ÷§¨ ÆGŒ¿ 4|   ◊’Fç09 ? ÿ©,  ÷–             #                            *{=ß æŸ⁄ƒUúo   å¬—µnqúM                                             ÷ ÷#öŸ6!€öπ‹æ   k‹π›ﬁﬂ‡ﬂJH                                                    9#               ?                                                                                                                                                                                                                                                                                                                                                                                       
+endstream
+endobj
+
+%QDF: ignore_newline
+89 0 obj
+3431
+endobj
+
+%% Original object ID: 72 0
+90 0 obj
+<<
+  /Ascent 827
+  /CapHeight 0
+  /Descent -200
+  /Flags 4
+  /FontBBox [
+    -1
+    -144
+    981
+    827
+  ]
+  /FontFile2 97 0 R
+  /FontName /MBANMB+WPIconicSymbolsA
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+>>
+endobj
+
+%% Original object ID: 73 0
+91 0 obj
+<<
+  /Length 92 0 R
+>>
+stream
+/CIDInit /ProcSet findresource begin 12 dict begin begincmap /CIDSystemInfo <<
+/Registry (MBANMB+TT1+0) /Ordering (T42UV) /Supplement 0 >> def
+/CMapName /MBANMB+TT1+0 def
+/CMapType 2 def
+1 begincodespacerange <21> <21> endcodespacerange
+1 beginbfchar
+<21> <02DC>
+endbfchar
+endcmap CMapName currentdict /CMap defineresource pop end end
+endstream
+endobj
+
+92 0 obj
+335
+endobj
+
+%% Original object ID: 74 0
+93 0 obj
+<<
+  /Ascent 1100
+  /CapHeight 718
+  /Descent -309
+  /Flags 32
+  /FontBBox [
+    -194
+    -307
+    1688
+    1083
+  ]
+  /FontName /ArialBlack
+  /ItalicAngle 0
+  /StemV 222
+  /Type /FontDescriptor
+>>
+endobj
+
+%% Original object ID: 75 0
+94 0 obj
+<<
+  /Length 95 0 R
+>>
+stream
+ˇˇˇ∫∫∫˚˚˚iii\\\JJJCCCËËËÿÿÿ   ^^^ﬁﬁﬁ⁄⁄⁄¯¯¯πππAAAªªªxxxpppPPP∏∏∏˙˙˙***ccc,,,îîîææærrrjjj≥≥≥˛˛˛˘˘˘‹‹‹∞∞∞√√√ÓÓÓ222ÙÙÙHHH444‡‡‡###QQQXXX///zzz¬¬¬˝˝˝………¶¶¶lllZZZóóó¸¸¸ààà'''›››ÀÀÀ===¡¡¡„„„)))∂∂∂◊◊◊KKKˆˆˆ£££ûûû$$$ÃÃÃ»»»öööUUU[[[ÒÒÒ˜˜˜ÁÁÁ€€€ııı±±±ÉÉÉ–––+++ßßßÄÄÄ···êêêooowwwsssèèè§§§ïïïÖÖÖgggvvváááWWWeeeÕÕÕMMMtttddd			
+
+
+TTT___«««°°°¿¿¿ÌÌÌõõõ???666!!!<<<aaabbbqqqmmm~~~uuu888```yyy000¥¥¥’’’”””nnnGGGâââÎÎÎÏÏÏ≈≈≈ΩΩΩÆÆÆççç:::EEE≤≤≤ƒƒƒÔÔÔÍÍÍÂÂÂ≠≠≠ÚÚÚííí;;;NNNòòò{{{fff|||ééé999‘‘‘   ∆∆∆@@@åååŸŸŸäää•••“““÷÷÷ñññÜÜÜÇÇÇÑÑÑüüüãããÅÅÅ]]]øøøLLLÊÊÊkkkVVVFFF´´´ëëëôôôOOOSSSÛÛÛ333"""———hhh‰‰‰úúú®®®%%%™™™555777ÈÈÈYYY                                                                                             
+endstream
+endobj
+
+%QDF: ignore_newline
+95 0 obj
+768
+endobj
+
+%% Original object ID: 76 0
+96 0 obj
+<<
+  /Ascent 812
+  /CapHeight 0
+  /Descent -226
+  /Flags 32
+  /FontBBox [
+    0
+    -226
+    1197
+    812
+  ]
+  /FontName /WPTypographicSymbols
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+>>
+endobj
+
+%% Original object ID: 77 0
+97 0 obj
+<<
+  /Length1 3804
+  /Length 98 0 R
+>>
+stream
+     Ä  POS/2B®GÍ  T   NcmapT3  d  <cvt e    ‹   ñfpgmßŸ^ì  t   dglyfd#s  t  ^headEl‡  §   6hhea  ÿ   $hmtxÜ∫!&  ¸  åloca  æ<  ‘  êmaxpΩ@  4    nameNÕ∞  ¿  qpost     †    prep	–Á"  à   Èæ¢Åh'>ÍS
+ ê–  M+;ˇÛ   _ à ™ F  ( Rˇ} óˇË 6 x ¿ˇëˇpˇ“ˇª ! ! E  } ¥ q ∞ 7 - ß=S „H^ œ è ª t ! [ N < g É ¢ ± « í  / v º    @ ,vE ∞%E#ah#h`D-,E ∞%E#ah#h`D-,  ∏ˇ¿8±@68-,  ∞@8∞6∏ˇ¿8-,∞Fv Gh#Fah X ∞%#8∞%∞6e8Y-   ;ˇ8  ¯ˇˇ  ’                „Ù     Ù  Ù  k !7 !Ï !( !õ ^õ ìõ õ õ õ Éõ õ  Ó TÙ \õ  õ øÙ !Ù !õ  õ  õ õ  Ë QÙ  õ Sõ S◊ õ °õ Ÿõ Á√ !õ    JŒ "¡ #Œ "‘ #œ " # # #≤ #¿ #ê )% W !è #• #è #± #Œ #Û "N $˙ #˘ #;ˇˇ• $˚ #¯ #˜ #Ú #Ó #( # #A #¥ # # # # # # #0 #7 # #I #7 #A #0 "? #õ #Ë #” #Ì # " #∑ $ #  # #˜ #√  ƒ #™ #Ë  Ω #: / " # #√ "Ø $∏ #± # "  … # # $ #i #˘ #˙ #˙ #˜ #˜ #| #| # # #∂ # ä # #ü #à #à #ú #ú    !N #N #Ü #Ü " # # Í # Í #É è ™ ˜ !Ú !c !} !' !} !H !S !& !§ !v !v !v !v !< !<  C !C  ¶ #õ "F  ‹ #  8  "é #õ "¯ #¯   #S "∂ #r " # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #~ #F 3¯ "  #Ï #ú #Ï #ñ #ü 5† #@%%$$  Eç∏ˇÖvEhD≥ F +≥F +≥F +≥F +≥F +≥F +≥F +≥	F +≥
+F +≥ F +≥F +≥F +≥ F +≥ F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥F +≥ F +≥!F +≥"F +≥#F +EhDEhDEhDEhDEhD       ’    =@% %$$   Fv/7 ?<?</<˝</<˝< ˝<˝<10≤ +3!'!∂˛à ¸‡‚˝  #ˇÚÌ¡     ∞@,$$
+		$$
+
+%%  ]x v?v?/÷ ˝˝/÷á.π+\/ƒπ--jƒπ-h-ƒπ“æ“æ¸π—ø”≈ƒ.π‘Ö—¸π”“nƒá.π‘ˆ/_ƒπ”Z-Ÿƒπ“ó-ƒπ+'–º¸π-B“æƒ.π-B“æ¸π.⁄‘dƒ..10≤+''7'7%7àììï˙†ïï≈ïïó˛üïï¡°ïïƒôôï˛§ññ∆ïïî          d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d   d  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^                                                   {                                                                                                                                                                                                                                (       !ˇˇ  !ˇˇZ                                          f                         .   	  . E   	   s   	  . Å   	  . Ø   	  . ›MBANMB+WPIconicSymbolsAMBANMB+WPIconicSymbolsAMBANMB+WPIconicSymbolsA M B A N M B + W P I c o n i c S y m b o l s A R e g u l a r M B A N M B + W P I c o n i c S y m b o l s A M B A N M B + W P I c o n i c S y m b o l s A M B A N M B + W P I c o n i c S y m b o l s A       „ ˛        @ 
+  ∂ˇˇ    Ùê  ÙÙ  ÙÙÙ  Ù 2                 ???? @ !Ë ˙ d;è        bPz√_<ı  Ë    -∆ìb    ¥æ	(ˇˇˇp’;         
+endstream
+endobj
+
+%QDF: ignore_newline
+98 0 obj
+3804
+endobj
+
+xref
+0 99
+0000000000 65535 f 
+0000000052 00000 n 
+0000000169 00000 n 
+0000000416 00000 n 
+0000000627 00000 n 
+0000002029 00000 n 
+0000002077 00000 n 
+0000002189 00000 n 
+0000004109 00000 n 
+0000004245 00000 n 
+0000004366 00000 n 
+0000004572 00000 n 
+0000004766 00000 n 
+0000005000 00000 n 
+0000005234 00000 n 
+0000005468 00000 n 
+0000005702 00000 n 
+0000005936 00000 n 
+0000006170 00000 n 
+0000006404 00000 n 
+0000006638 00000 n 
+0000006873 00000 n 
+0000007108 00000 n 
+0000007343 00000 n 
+0000007578 00000 n 
+0000007813 00000 n 
+0000008048 00000 n 
+0000008283 00000 n 
+0000008530 00000 n 
+0000009971 00000 n 
+0000010021 00000 n 
+0000010283 00000 n 
+0000013883 00000 n 
+0000013933 00000 n 
+0000014165 00000 n 
+0000024217 00000 n 
+0000024267 00000 n 
+0000024651 00000 n 
+0000033080 00000 n 
+0000033130 00000 n 
+0000033392 00000 n 
+0000042493 00000 n 
+0000042543 00000 n 
+0000042805 00000 n 
+0000052776 00000 n 
+0000052826 00000 n 
+0000053103 00000 n 
+0000062404 00000 n 
+0000062454 00000 n 
+0000062700 00000 n 
+0000071296 00000 n 
+0000071346 00000 n 
+0000071608 00000 n 
+0000082165 00000 n 
+0000082216 00000 n 
+0000082479 00000 n 
+0000092143 00000 n 
+0000092193 00000 n 
+0000092441 00000 n 
+0000101877 00000 n 
+0000101927 00000 n 
+0000102159 00000 n 
+0000112233 00000 n 
+0000112284 00000 n 
+0000112531 00000 n 
+0000121860 00000 n 
+0000121910 00000 n 
+0000122173 00000 n 
+0000130836 00000 n 
+0000130886 00000 n 
+0000131165 00000 n 
+0000137084 00000 n 
+0000137134 00000 n 
+0000137397 00000 n 
+0000140085 00000 n 
+0000140135 00000 n 
+0000140358 00000 n 
+0000140683 00000 n 
+0000140792 00000 n 
+0000140939 00000 n 
+0000141079 00000 n 
+0000141214 00000 n 
+0000141437 00000 n 
+0000141574 00000 n 
+0000142175 00000 n 
+0000142259 00000 n 
+0000142395 00000 n 
+0000142533 00000 n 
+0000142762 00000 n 
+0000146375 00000 n 
+0000146425 00000 n 
+0000146691 00000 n 
+0000147083 00000 n 
+0000147132 00000 n 
+0000147375 00000 n 
+0000148222 00000 n 
+0000148271 00000 n 
+0000148515 00000 n 
+0000152414 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 99
+  /ID [<a728d87d0caf8ece5549332b4ee2c252><065fe62b7af3598458bc8faae3da5b75>]
+>>
+startxref
+152436
+%%EOF
